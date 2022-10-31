@@ -1,4 +1,4 @@
-#last-update:2022-10-29
+#last-update:2022-10-30
 000.tf
 000webhost.fr
 00308.yt
@@ -1616,6 +1616,7 @@ amazonannoncen.fr
 amazon-assistance.fr
 amazonassistance.fr
 amazonassistance-info.fr
+amazoncompte.fr
 amazon-comptes.fr
 amazon-compte-suspendu.fr
 amazon-drive.fr
@@ -3177,6 +3178,7 @@ chronopost-courrier.fr
 chronopost-delivery.fr
 chronopost-entrepot.fr
 chronopost-erreur.fr
+chronopost-espace-client.fr
 chronopost-expedition.fr
 chronopost-express.fr
 chronopost-express-suivi.fr
@@ -3199,6 +3201,7 @@ chronopost-pickup.fr
 chronopostpickup.fr
 chronopost-regulation.fr
 chronopost-relais.fr
+chronopost-renvoie.fr
 chronopostsav.fr
 chronopostscolissimo.fr
 chronopostserviceclient.fr
@@ -3210,6 +3213,7 @@ chronopost-suivit.fr
 chronopost-support.fr
 chronopostsupport.fr
 chronoqost.fr
+chrono-service-sav.fr
 chru-brest.fr
 chru-montpellier.fr
 ch-sjm.fr
@@ -3604,7 +3608,9 @@ cplelangues.fr
 craccesmajlogscurepass.fr
 crdp-strsbourg.fr
 creadit-agricole-serviceclient.fr
+creancepublic.fr
 creances-public.fr
+creancespublique.fr
 creativlonk.fr
 credi-agricol.fr
 credit-agreicole.fr
@@ -3628,6 +3634,7 @@ credit-du-nord-epaiement.fr
 credit-du-nord-securite.fr
 credit-du-nord-verif.fr
 creditfoncie.fr
+creditmaritime-atlantique.fr
 creditmuteuel.fr
 creditmutual.fr
 creditmutueleasing.fr
@@ -3719,6 +3726,7 @@ cv4-ameli.fr
 cv-ameli.fr
 cvitale-ameli.fr
 cvitale.fr
+c-watch.fr
 cyberpanel.fr
 cyberpolicegouv.fr
 cybertek-agen.fr
@@ -4069,6 +4077,7 @@ epargne-particuliers.fr
 epaypal.fr
 epromos.fr
 equitaine.fr
+erdfconnect.fr
 erobot-pisicne.fr
 erogames.fr
 ertbaudet.fr
@@ -4124,6 +4133,7 @@ espaceclientcreditagricole.fr
 espaceclient-creditmutuel.fr
 espace-client-edf.fr
 espaceclientele.fr
+espaceclientele-societegenerale.fr
 espaceclient-facture.fr
 espaceclient-finance.fr
 espaceclient-formulaire.fr
@@ -4134,6 +4144,7 @@ espaceclient-inform.fr
 espaceclient-informs.fr
 espaceclient-infos.fr
 espaceclient-lcl.fr
+espaceclient-malade.fr
 espaceclient-netflix.fr
 espaceclient-netflx.fr
 espace-client-orange.fr
@@ -4236,6 +4247,7 @@ espacli.fr
 espclientcolis.fr
 espclientservice.fr
 espub.fr
+etape-ameli.fr
 etnieschaussures.fr
 etribunaldunet.fr
 etsleclerc.fr
@@ -4271,6 +4283,7 @@ expiration-carte.fr
 expiration-carte-vitale.fr
 expiration-netflix.fr
 expiration-vitale.fr
+expresschronopost.fr
 express-suivi-chronopost.fr
 extrashop.fr
 eyhn.fr
@@ -4961,6 +4974,7 @@ information-impots.fr
 information-macartevitale.fr
 information-personnel.fr
 informations-ameli.fr
+informationsameli.fr
 informations-cpam.fr
 informations-netflix.fr
 information-societegenerale.fr
@@ -5471,6 +5485,7 @@ livraison-ameli.fr
 livraisoncarefour.fr
 livraison-chrono-post.fr
 livraison-chronopost.fr
+livraisonchronopost.fr
 livraison-colis-chrono-post.fr
 livraison-laposte.fr
 livraisons-ameli.fr
@@ -5623,6 +5638,7 @@ maillots-ffoot-actu.fr
 mail-societegenerale.fr
 mailtrack.fr
 maintenance-espace-client.fr
+maintenance-support-client.fr
 maisoncardin.fr
 maisonpierrecardin.fr
 maisonstravaux.fr
@@ -6469,6 +6485,7 @@ orange-mail02.fr
 orange-mail03.fr
 orange-mail.fr
 orangemali.fr
+orange-messagerie.fr
 orange-pro-servcie.fr
 orange-renouvellement.fr
 orange-secure.fr
@@ -6951,6 +6968,7 @@ remboursement-paypal.fr
 remboursementsfr.fr
 remplacement-critair.fr
 renault-france.fr
+renevoullement-cartevitale.fr
 renew-ameli.fr
 renew-critair.fr
 renew-vitales-france.fr
@@ -7196,6 +7214,7 @@ sanukshoes.fr
 saojq.yt
 sartoriz.fr
 sashasneakers.fr
+sav-chrono-client.fr
 scei-concour.fr
 schlaukopf.fr
 sciencesetlavenir.fr
@@ -7361,6 +7380,7 @@ secure-verife.fr
 secure-verif.fr
 secure-verify.fr
 secure-vitale.fr
+securi-credit-agricole.fr
 securipassagrico.fr
 securipass-cagricole.fr
 securipass-ca-particuliers.fr
@@ -7452,6 +7472,7 @@ service-agricol.fr
 service-aide.fr
 service-aide-paypal.fr
 service-ameli-carte.fr
+serviceamelie.fr
 serviceameli.fr
 service-ameli-support.fr
 service-antifraudes.fr
@@ -7632,6 +7653,7 @@ sfr-espace.fr
 sfr-facture.fr
 sfr-factures.fr
 sfr-fibre.fr
+sfr-forfait-esim.fr
 sfr-forfait.fr
 sfr-forfait-mobile.fr
 sfr-forfait-mobile-france.fr
@@ -7788,6 +7810,7 @@ sneakerscompany.fr
 sneakies52.fr
 sneakies.fr
 sneakiesfrance.fr
+snikeed.fr
 snkrsbest.fr
 snscf.fr
 soccoopergroupemachatcentreleclerc.fr
@@ -7877,6 +7900,7 @@ societegeneral-secure.fr
 societegeneralsecure.fr
 societegeneralsecurepass.fr
 societegeneralsecur.fr
+societegeneral-securisation.fr
 societegeneralsecurite.fr
 societegernerale.fr
 societe-gnrl.fr
@@ -7919,6 +7943,7 @@ sperrychaussures.fr
 spgvt.fr
 splendidstore.fr
 sportactive.fr
+spotify-music.fr
 spotifypayment.fr
 spotifyplusplus.fr
 spotifypremium.fr
@@ -8441,6 +8466,7 @@ verif-sfr.fr
 verifs-netflix.fr
 verif-societegenerale.fr
 verifvitale.fr
+verifycompte.fr
 verify-lydia.fr
 verify-netflix.fr
 verifynetflix.fr
@@ -8718,6 +8744,7 @@ xn--amli-infos-c7a.fr
 xn--amli-vital-c7a.fr
 xn--amzon-sqa.fr
 xn--arbnb-cta.fr
+xn--assdic-dva.fr
 xn--assur-ameli-fbb.fr
 xn--assur-amli-f7ad.fr
 xn--assurancesant-maladie-n5b.fr
