@@ -1,10 +1,16 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 1,
-        "total": 1
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 8,
+        "OVH": 4,
+        "Realtime Register B.V.": 3,
+        "total": 16
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
+        "IONOS SE": 6.25,
+        "KEY-SYSTEMS GmbH": 50.0,
+        "OVH": 25.0,
+        "Realtime Register B.V.": 18.75,
         "total": 100.0
     }
 }
