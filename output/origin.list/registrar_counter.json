@@ -1,10 +1,20 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 2,
-        "total": 2
+        "1API GmbH": 1,
+        "GANDI": 1,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 9,
+        "OVH": 1,
+        "One.com A/S": 1,
+        "total": 15
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
-        "total": 100.0
+        "1API GmbH": 6.666666666666667,
+        "GANDI": 6.666666666666667,
+        "IONOS SE": 13.333333333333334,
+        "KEY-SYSTEMS GmbH": 60.0,
+        "OVH": 6.666666666666667,
+        "One.com A/S": 6.666666666666667,
+        "total": 100.00000000000001
     }
 }
