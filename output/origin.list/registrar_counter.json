@@ -1,18 +1,10 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 15,
-        "OVH": 6,
-        "Realtime Register B.V.": 4,
-        "total": 27
+        "KEY-SYSTEMS GmbH": 2,
+        "total": 2
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 3.7037037037037037,
-        "IONOS SE": 3.7037037037037037,
-        "KEY-SYSTEMS GmbH": 55.55555555555556,
-        "OVH": 22.22222222222222,
-        "Realtime Register B.V.": 14.814814814814815,
+        "KEY-SYSTEMS GmbH": 100.0,
         "total": 100.0
     }
 }

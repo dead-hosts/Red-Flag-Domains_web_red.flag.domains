@@ -1,4 +1,5 @@
-#last-update:2022-10-30
+#disclaimer:by using this list on a filtering system, you agree to deploy updates regularly and to respect the terms of use (https://red.flag.domains/about/).
+#last-update:2022-10-31
 000.tf
 000webhost.fr
 00308.yt
@@ -2332,6 +2333,7 @@ assurance-amelie-security.fr
 assurance-ameli-info.fr
 assurance-ameli-sante.fr
 assurance-ameli-service.fr
+assuranceameliservices.fr
 assurance-ameli-vitale.fr
 assuranceamelivitale.fr
 assurance-carte-ameli.fr
@@ -2525,6 +2527,7 @@ authentification-3dsecure.fr
 authentification-ameli.fr
 authentification-bnpparibas.fr
 authentification-ca.fr
+authentification-cartevitale.fr
 authentification-client.fr
 authentificationdesrecharges.fr
 authentification-mabanque-bnpparibas.fr
@@ -3170,6 +3173,7 @@ chronopost-acheminent.fr
 chronopost-aide.fr
 chronopost-client-acheminement.fr
 chronopost-client.fr
+chronopost-client-service.fr
 chronopostclients.fr
 chronopostcolis-sav.fr
 chronopost-consignation.fr
@@ -3544,6 +3548,7 @@ cora-distribution.fr
 cora-groupe.fr
 cora-group.fr
 cora-service.fr
+corashop.fr
 cosmopolian.fr
 cosmopolita.fr
 costorama.fr
@@ -3868,8 +3873,10 @@ disney-officielle.fr
 disneypaiment.fr
 disneypius.fr
 disneypixarvod.fr
+disneyplus-abonnement.fr
 disneyplus-aide.fr
 disneyplus-app.fr
+disneyplus-co.fr
 disneyplus-compte.fr
 disneyplus-connexion.fr
 disneyplus-formulaire.fr
@@ -3993,6 +4000,7 @@ edf-compte.fr
 edf-connexion.fr
 edf-contact.fr
 edfcontact.fr
+edfdepannage.fr
 edf-ecowatt.fr
 edf-enedis-edf.fr
 edfentreprises-enr.fr
@@ -4801,6 +4809,7 @@ icwc.fr
 id-ameli.fr
 id-c.fr
 id-cloud.fr
+identifiant-icloud.fr
 identifiant-iphone.fr
 identification-bnpparibas.fr
 identification-caisse-epargne.fr
@@ -4932,6 +4941,7 @@ infodepartementameli.fr
 info-disneyplus.fr
 infodjour.fr
 info-espace.fr
+info-etraite.fr
 infofonctionameli.fr
 infogouvameli.fr
 infographicworld.fr
@@ -5012,6 +5022,7 @@ infosantepublique.fr
 infosante-renouv.fr
 infosantesecuvitale.fr
 info-sante-vitale.fr
+info-santevitale.fr
 infosante-vitale.fr
 infosant-inform.fr
 infosant-secu.fr
@@ -5076,6 +5087,7 @@ infossecuvitale.fr
 infosservicesantevitale.fr
 infos-supportclient.fr
 infos-support.fr
+info-suivi-colis.fr
 info-supports.fr
 infos-vitale.fr
 infosvitale.fr
@@ -5559,6 +5571,7 @@ mabanque-creditmutuel.fr
 mabanquecreditmutuel.fr
 ma-banque-epargne.fr
 mabanque-fortuneo.fr
+ma-banque-france.fr
 mabanque-hellobank.fr
 mabanque-infosecure.fr
 mabanque-populaire.fr
@@ -6037,6 +6050,7 @@ monticketcb.fr
 montig.fr
 montre-automatique.fr
 m-orange.fr
+moreau-mail.fr
 morning-croissant.fr
 motoetloisir.fr
 mousquetaires-grp.fr
@@ -6178,6 +6192,7 @@ netflix-checksecu.fr
 netflixchecksecu.fr
 netflix-client-service.fr
 netflixclients.fr
+netflix-cloturation.fr
 netflix-co.fr
 netflixcompteclient.fr
 netflixcompteclients.fr
@@ -6240,6 +6255,7 @@ netflixloginpage.fr
 netflix-maj.fr
 netflix-moncompte-a-jour.fr
 netflix-moncompte.fr
+netflix-myconnect.fr
 netflixnextbuttons.fr
 netflix-notification.fr
 netflixofficiel.fr
@@ -6943,6 +6959,7 @@ registre-cartevitale.fr
 registre-clients-compte.fr
 registre-compte-clients.fr
 registre-votrecartevitale.fr
+reglementation-critair.fr
 reglement-edf.fr
 regularisation-ameli.fr
 regularisation-infos-sante.fr
@@ -6999,6 +7016,7 @@ renouvelement-ameli.fr
 renouvelement-carte.fr
 renouveler-abonnement.fr
 renouvelez-votre-vitale.fr
+renouvellemcvitale.fr
 renouvellement2022.fr
 renouvellement-abonnement-netflix.fr
 renouvellement-aide.fr
@@ -7186,6 +7204,7 @@ santefrance-info.fr
 santefrancepublique.fr
 santegouv.fr
 sante-gouv-france.fr
+santeinfoameli.fr
 sante-info-publique.fr
 sante-information.fr
 sante-infoscmu.fr
@@ -8251,6 +8270,7 @@ total-groupe.fr
 toto.fr
 toulon-cybertek.fr
 toulouse-cybertek.fr
+tourfrance.fr
 tourismelenslievin.fr
 tracfin-france.fr
 track-chronopost.fr
@@ -8416,6 +8436,7 @@ verification-center.fr
 verification-chronopost.fr
 verification-compte005.fr
 verification-compteameli.fr
+verification-compte-client.fr
 verificationcompte.fr
 verificationcrediagricole.fr
 verification-critair.fr
@@ -8765,6 +8786,7 @@ xn--compte-vrification-iwb.fr
 xn--crances-publiques-ctb.fr
 xn--crdit-agricoles-cnb.fr
 xn--ctlem-bsab.fr
+xn--espaceabonn-ntfx-lqb.fr
 xn--espaceameli-sant-qqb.fr
 xn--espaceassur-lbb.fr
 xn--espace-assur-meb.fr
