@@ -1,22 +1,12 @@
 {
     "counter": {
-        "1API GmbH": 2,
-        "GANDI": 1,
-        "IONOS SE": 3,
-        "KEY-SYSTEMS GmbH": 12,
-        "OVH": 1,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 1,
-        "total": 21
+        "GANDI": 2,
+        "KEY-SYSTEMS GmbH": 3,
+        "total": 5
     },
     "percentage": {
-        "1API GmbH": 9.523809523809524,
-        "GANDI": 4.761904761904762,
-        "IONOS SE": 14.285714285714286,
-        "KEY-SYSTEMS GmbH": 57.142857142857146,
-        "OVH": 4.761904761904762,
-        "One.com A/S": 4.761904761904762,
-        "Realtime Register B.V.": 4.761904761904762,
+        "GANDI": 40.0,
+        "KEY-SYSTEMS GmbH": 60.0,
         "total": 100.0
     }
 }
