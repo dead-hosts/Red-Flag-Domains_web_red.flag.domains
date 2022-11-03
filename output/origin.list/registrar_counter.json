@@ -1,28 +1,30 @@
 {
     "counter": {
         "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 2,
+        "AMEN / Agence des Médias Numériques": 3,
         "GRANSY s.r.o.": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 13,
+        "KEY-SYSTEMS GmbH": 18,
         "Metaregistrar BV": 1,
         "OVH": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "Realtime Register B.V.": 1,
         "TLD Registrar Solutions Ltd": 1,
-        "total": 23
+        "total": 30
     },
     "percentage": {
-        "1API GmbH": 4.3478260869565215,
-        "AMEN / Agence des Médias Numériques": 8.695652173913043,
-        "GRANSY s.r.o.": 4.3478260869565215,
-        "IONOS SE": 4.3478260869565215,
-        "KEY-SYSTEMS GmbH": 56.52173913043478,
-        "Metaregistrar BV": 4.3478260869565215,
-        "OVH": 4.3478260869565215,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.3478260869565215,
-        "Realtime Register B.V.": 4.3478260869565215,
-        "TLD Registrar Solutions Ltd": 4.3478260869565215,
+        "1API GmbH": 3.3333333333333335,
+        "AMEN / Agence des Médias Numériques": 10.0,
+        "GRANSY s.r.o.": 3.3333333333333335,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3.3333333333333335,
+        "IONOS SE": 3.3333333333333335,
+        "KEY-SYSTEMS GmbH": 60.0,
+        "Metaregistrar BV": 3.3333333333333335,
+        "OVH": 3.3333333333333335,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.3333333333333335,
+        "Realtime Register B.V.": 3.3333333333333335,
+        "TLD Registrar Solutions Ltd": 3.3333333333333335,
         "total": 99.99999999999997
     }
 }
