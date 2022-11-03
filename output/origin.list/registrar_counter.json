@@ -1,28 +1,16 @@
 {
     "counter": {
-        "Catchtiger B.V.": 1,
-        "GANDI": 5,
         "GRANSY s.r.o.": 1,
-        "IONOS SE": 3,
-        "KEY-SYSTEMS GmbH": 16,
+        "KEY-SYSTEMS GmbH": 1,
         "OVH": 1,
-        "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 1,
-        "Sarek Oy": 1,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 32
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 4
     },
     "percentage": {
-        "Catchtiger B.V.": 3.125,
-        "GANDI": 15.625,
-        "GRANSY s.r.o.": 3.125,
-        "IONOS SE": 9.375,
-        "KEY-SYSTEMS GmbH": 50.0,
-        "OVH": 3.125,
-        "Realtime Register B.V.": 3.125,
-        "SAS Ligne Web Services - LWS": 3.125,
-        "Sarek Oy": 3.125,
-        "TLD Registrar Solutions Ltd": 6.25,
+        "GRANSY s.r.o.": 25.0,
+        "KEY-SYSTEMS GmbH": 25.0,
+        "OVH": 25.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
         "total": 100.0
     }
 }
