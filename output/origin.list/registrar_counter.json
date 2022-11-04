@@ -1,12 +1,20 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 2,
-        "OVH": 1,
-        "total": 3
+        "GRANSY s.r.o.": 2,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 20,
+        "OVH": 6,
+        "Realtime Register B.V.": 4,
+        "Sarek Oy": 1,
+        "total": 34
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 66.66666666666667,
-        "OVH": 33.333333333333336,
-        "total": 100.0
+        "GRANSY s.r.o.": 5.882352941176471,
+        "IONOS SE": 2.9411764705882355,
+        "KEY-SYSTEMS GmbH": 58.8235294117647,
+        "OVH": 17.647058823529413,
+        "Realtime Register B.V.": 11.764705882352942,
+        "Sarek Oy": 2.9411764705882355,
+        "total": 99.99999999999999
     }
 }
