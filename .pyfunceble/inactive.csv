@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-chronopost-douanes.fr,AVAILABILITY,origin.list,2022-11-03 05:42:36.817829
-client-netfiix.fr,AVAILABILITY,origin.list,2022-11-03 05:42:59.080686
 00308.yt,AVAILABILITY,origin.list,2022-11-03 06:15:37.003192
 0889.yt,AVAILABILITY,origin.list,2022-11-03 06:15:37.319987
 1038.yt,AVAILABILITY,origin.list,2022-11-03 06:15:37.466089
@@ -2803,3 +2801,5 @@ zc919.paris,AVAILABILITY,origin.list,2022-11-03 06:37:16.827997
 banquepostale-paiement.fr,AVAILABILITY,origin.list,2022-11-03 06:37:17.077170
 zendictees.fr,AVAILABILITY,origin.list,2022-11-03 06:37:17.108466
 chronopost-suivicommande.fr,AVAILABILITY,origin.list,2022-11-03 06:37:17.174243
+client-netfiix.fr,AVAILABILITY,origin.list,2022-11-04 06:17:48.571236
+chronopost-douanes.fr,AVAILABILITY,origin.list,2022-11-04 06:17:48.610880
