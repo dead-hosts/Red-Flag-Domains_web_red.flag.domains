@@ -1,5 +1,4 @@
-#disclaimer:by using this list on a filtering system, you agree to deploy updates regularly and to respect the terms of use (https://red.flag.domains/about/).
-#last-update:2022-11-02
+#last-update:2022-11-03
 000.tf
 000webhost.fr
 00308.yt
@@ -1772,6 +1771,7 @@ ameliclients.fr
 ameli-client-vitale.fr
 ameli-cna.fr
 amelicompteconnexion.fr
+amelicompteverification.fr
 ameli-confidentialite.fr
 ameli-confirmation.fr
 ameliconnecte.fr
@@ -2089,6 +2089,7 @@ ameli-verifications.fr
 ameli-verifie.fr
 ameli-vitajour.fr
 ameli-vitale-assurance.fr
+ameli-vitale-assure.fr
 ameli-vitale-carte.fr
 ameli-vitalecarte.fr
 ameli-vitale-cartes.fr
@@ -2578,6 +2579,7 @@ authsimpotsespaclientelles.fr
 authsimpots.fr
 auth-societegenerale.fr
 auth-support-chronopost.fr
+authverification.fr
 authverified.fr
 auto-entrereneur.fr
 automedik.fr
@@ -2823,6 +2825,7 @@ caisse-depargne-accescompte.fr
 caisse-depargne-authentification.fr
 caissedepargne-clients.fr
 caissed-epargne.fr
+caissedepargne-securpass.fr
 caisse-dep.fr
 caissedep-securpasse.fr
 caissedesdepots-dgefp.fr
@@ -2855,6 +2858,7 @@ caissenationalepargne.fr
 caisse-primaire-dassurance-maladie.fr
 caisse-regional-ca.fr
 caisse-regionaleacces.fr
+caisseregionalessystmverification.fr
 caisses-epargne.fr
 caissesepargne.fr
 caisses-epargnes.fr
@@ -3061,6 +3065,7 @@ certicode-info.fr
 certicode-labanquepostale.fr
 certicodeplusbanquepostale.fr
 certicode-plus.fr
+certicodeplus-lbp.fr
 certif-air.fr
 certif-ameli.fr
 certif-critair.fr
@@ -3183,6 +3188,7 @@ chronopost-acheminement-secure.fr
 chronopost-acheminements.fr
 chronopost-acheminent.fr
 chronopost-aide.fr
+chronopost-arrivage.fr
 chronopost-client-acheminement.fr
 chronopost-client.fr
 chronopost-client-service.fr
@@ -3200,6 +3206,7 @@ chronopost-expedition.fr
 chronopost-express.fr
 chronopost-express-suivi.fr
 chronopostfrance.fr
+chronopost-france-support.fr
 chronopost-fr.fr
 chronopost-gestion.fr
 chronopostinfo.fr
@@ -3221,6 +3228,7 @@ chronopost-relais.fr
 chronopost-renvoie.fr
 chronopostsav.fr
 chronopostscolissimo.fr
+chrono-post-secure.fr
 chronopostserviceclient.fr
 chronopostservice.fr
 chronopost-sms.fr
@@ -3230,6 +3238,7 @@ chronopostsuivis.fr
 chronopost-suivit.fr
 chronopost-support.fr
 chronopostsupport.fr
+chronopost-support-france.fr
 chronoqost.fr
 chrono-service-sav.fr
 chru-brest.fr
@@ -3266,6 +3275,7 @@ cle-digital-banque-bnpparibas.fr
 cledigital-banque-bnpparibas.fr
 cle-digital-bnpparibas.fr
 cledigital-bnpparibas.fr
+cle-digitale-bnpparibas.fr
 cledigitale-bnp-paribas.fr
 cledigitale-bnpparibas.fr
 cle-digitale-mabanquebnpparibas.fr
@@ -3664,6 +3674,7 @@ creditmuteuel.fr
 creditmutual.fr
 creditmutueleasing.fr
 creditmutuel-epargesalariale.fr
+creditmutuelnord.fr
 creditmutuel-opposition.fr
 credit-mutuel-service.fr
 creditmutuels.fr
@@ -3696,6 +3707,7 @@ critair-circulation.fr
 critair-commande.fr
 critair-contact.fr
 critair-dispositif.fr
+critair-eco.fr
 critair-ecologie.fr
 critaire.fr
 critair-enregistrement.fr
@@ -3779,6 +3791,7 @@ cybertek-pc.fr
 cybertekpc.fr
 cybertek-perpignan.fr
 cybertek-portet.fr
+cybertekpro.fr
 cybertek-solde.fr
 cybertek-toulon.fr
 cybertek-toulouse.fr
@@ -3925,6 +3938,7 @@ dkoe.pm
 dlhe.pm
 dljnq.yt
 dlksn.yt
+dlsney-app.fr
 dlsneyplus-app.fr
 dlsneyplusclient.fr
 dlsney-plus.fr
@@ -3936,6 +3950,7 @@ dlsney-web.fr
 d-martensfrance-r.fr
 dmdij.yt
 dmdjzf.yt
+docsmartens.fr
 docsmartensfrance.fr
 doctoiib.fr
 doctossimo.fr
@@ -3951,6 +3966,7 @@ donvaleriepecresse.fr
 dossaudio.fr
 dossier-particulier.fr
 douanechronopost.fr
+douanes-chronopost.fr
 doublesense.fr
 dozd.fr
 dpzjn.yt
@@ -3993,6 +4009,7 @@ dtkw.fr
 dtolib.fr
 dtoy.fr
 ducati-france.fr
+dudechaussureshop.fr
 duson.fr
 dwkkk.yt
 dwund.yt
@@ -4177,6 +4194,7 @@ espaceclient-informs.fr
 espaceclient-infos.fr
 espaceclient-lcl.fr
 espaceclient-malade.fr
+espaceclient-malad.fr
 espaceclient-netflix.fr
 espaceclient-netflx.fr
 espace-client-orange.fr
@@ -4570,6 +4588,7 @@ gdtw.fr
 gdzw.fr
 gebetszeiten.fr
 gendarmerie-europe.fr
+gendarmerie-europol.fr
 gendarmeriegouv.fr
 gendarmerie-interieurgouv.fr
 gendarmerieinterieurgouv.fr
@@ -4657,9 +4676,11 @@ gouv-info-ameli.fr
 gouv-inter-bpm.fr
 gouvmnt.fr
 gouvnmt.fr
+gouv-remboursement-impots.fr
 gouvs-critair.fr
 gouvscritairs.fr
 gouv-secure-impot.fr
+gouv-service-air.fr
 gouv-service-critair.fr
 gouvs.fr
 gouvs-impots.fr
@@ -4964,6 +4985,7 @@ info-confirmation.fr
 info-couverture-vitale.fr
 info-cpam-ameli.fr
 info-cpam.fr
+info-crit-air.fr
 info-critair.fr
 infodepartementameli.fr
 info-disneyplus.fr
@@ -4996,6 +5018,7 @@ infoparticuliers-sg.fr
 info-particuliers-societegenerale.fr
 infopaypalsms.fr
 info-pro-mms.fr
+info-qonto.fr
 info-regionale.fr
 info-renouvellement-account.fr
 info-renouvellement-ameli.fr
@@ -5004,6 +5027,7 @@ inforenouvellement.fr
 info-renouvellements-ameli.fr
 info-renouv.fr
 info-retriate.fr
+informa-espaceclient.fr
 informajourparticu.fr
 informasecursante.fr
 information-ameli.fr
@@ -5021,6 +5045,7 @@ informationspaypal.fr
 informations-sante.fr
 informations-services.fr
 informations-votresante.fr
+information-vehicule.fr
 informatique-aphp.fr
 informedconsent.fr
 inform-espaceclient.fr
@@ -5700,6 +5725,8 @@ maladie-france.fr
 maladie-portail.fr
 maladie-vitale.fr
 maladie-vitale-gouve.fr
+ma-livraison-chronopost.fr
+ma-livraison-suivi.fr
 m-ameli.fr
 manage-netflix.fr
 mandialrelay.fr
@@ -5783,6 +5810,7 @@ messagerie-assistance.fr
 messagerie-ca.fr
 messagerie-client.fr
 messagerie-clients.fr
+messageriefrleboncoin.fr
 messagerie-info-orange.fr
 messagerie-lcl.fr
 messagerie-leboncoin.fr
@@ -5917,6 +5945,7 @@ moncompteassurancemaladie.fr
 moncompte-banque.fr
 moncompte-banquepopulaire.fr
 moncomptebanquepopulaire.fr
+mon-compte-bnpparibas.fr
 moncompte-bnpparibas.fr
 moncomptebnpparibas.fr
 moncompte-carte.fr
@@ -6127,6 +6156,7 @@ myedebred.fr
 myfinance-stellantis-finance.fr
 myfinance-stellantis-financial-services.fr
 myfinance-stellantisfinancialservices.fr
+my-fnac.fr
 my-google-account.fr
 myhsbcbanking.fr
 mylclbanque.fr
@@ -6363,13 +6393,16 @@ netflix-support-aide.fr
 netflixsupportaide.fr
 netflix-supportauth.fr
 netflix-support-client.fr
+netflixsupportclient.fr
 netflix-support-clients.fr
+netflixsupportclients.fr
 netflix-support.fr
 netflixsupport.fr
 netflix-support-france.fr
 netflixsupports.fr
 netflix-supports-france.fr
 netflix-supprt.fr
+netflix-suspension.fr
 netflixsuspension.fr
 netflix-tv.fr
 netflixtvhelp.fr
@@ -7003,6 +7036,8 @@ redline-boutique.fr
 redrocks.fr
 reductions-impots.fr
 reductiontimberland.fr
+reebok-france.fr
+reebokoutletonline.fr
 reefinfos.fr
 region-idf.fr
 registre-ameli.fr
@@ -7244,6 +7279,7 @@ sante-ameli-vital.fr
 sante-assure.fr
 sante-carte-cpam.fr
 sante-carte.fr
+sante-carte-vitale.fr
 santecartevitale.fr
 sante-cartevital.fr
 sante-client.fr
@@ -7724,6 +7760,7 @@ sfr-esim.fr
 sfresim.fr
 sfr-esim-service.fr
 sfr-espace-client.fr
+sfr-espaceclients.fr
 sfr-espace.fr
 sfr-facture.fr
 sfr-factures.fr
@@ -7942,6 +7979,7 @@ societe-generale-particuliers.fr
 societe-generaleparticuliers.fr
 societegenerale-particuliers.fr
 societegeneraleparticuliers.fr
+societegenerale-particuliers-secu.fr
 societegeneralepersonnel.fr
 societegeneralesadesparticuliers.fr
 societegeneralesainfo.fr
@@ -8110,6 +8148,7 @@ support-appie.fr
 support-apple.fr
 supportapple.fr
 supportapplestore.fr
+support-assistance-client.fr
 support-assistanceclient.fr
 support-assistance.fr
 support-assistant-ameli.fr
@@ -8235,6 +8274,7 @@ suspension-compte-france.fr
 suspension-netflix.fr
 suspensionnetflix.fr
 suspensionsabonnementlogin.fr
+suspensions-compte.fr
 suzukiauto.fr
 swiftype.fr
 swisslide.fr
@@ -8462,6 +8502,7 @@ v8nted.fr
 v9nted.fr
 validation-account.fr
 validation-ameli.fr
+validation-chronopost.fr
 validationetactualisationdevosinformations.fr
 validation-leboncoin.fr
 validation-paypal.fr
@@ -8676,6 +8717,7 @@ volkswagens.fr
 voolume-mediatheques.fr
 vos-accecompte.fr
 vos-accescompte.fr
+vosaccesenligne.fr
 vos-assurances.fr
 vos-compteaacce.fr
 vos-compteacce.fr
@@ -8899,9 +8941,11 @@ xn--santpublique-eeb.fr
 xn--sant-vital-e7a.fr
 xn--santvitale-e7a.fr
 xn--sant-vitale-sms-enb.fr
+xn--scurisation-des-comptes-bcc.fr
 xn--scurit-ameli-bebf.fr
 xn--scuritantifraude-bqbf.fr
 xn--scurit-assurance-maladie-bfcf.fr
+xn--scurit-banque-france-b2bf.fr
 xn--scurit-caisse-epargne-b5bf.fr
 xn--scurit-carte-bebf.fr
 xn--scuritesociale-bkb.fr
