@@ -1,26 +1,12 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 2,
-        "GRANSY s.r.o.": 4,
-        "IONOS SE": 1,
-        "Infomaniak Network SA": 1,
-        "KEY-SYSTEMS GmbH": 24,
-        "Metaregistrar BV": 1,
-        "OVH": 6,
-        "Realtime Register B.V.": 5,
-        "Sarek Oy": 1,
-        "total": 45
+        "FRENCH CONNEXION": 1,
+        "Realtime Register B.V.": 1,
+        "total": 2
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 4.444444444444445,
-        "GRANSY s.r.o.": 8.88888888888889,
-        "IONOS SE": 2.2222222222222223,
-        "Infomaniak Network SA": 2.2222222222222223,
-        "KEY-SYSTEMS GmbH": 53.333333333333336,
-        "Metaregistrar BV": 2.2222222222222223,
-        "OVH": 13.333333333333334,
-        "Realtime Register B.V.": 11.11111111111111,
-        "Sarek Oy": 2.2222222222222223,
-        "total": 100.00000000000001
+        "FRENCH CONNEXION": 50.0,
+        "Realtime Register B.V.": 50.0,
+        "total": 100.0
     }
 }
