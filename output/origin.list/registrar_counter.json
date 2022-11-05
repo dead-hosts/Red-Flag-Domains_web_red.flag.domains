@@ -1,12 +1,24 @@
 {
     "counter": {
         "FRENCH CONNEXION": 1,
-        "Realtime Register B.V.": 1,
-        "total": 2
+        "GRANSY s.r.o.": 1,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 13,
+        "Marcaria.com International Inc.": 1,
+        "Realtime Register B.V.": 5,
+        "SAS Ligne Web Services - LWS": 2,
+        "SCALEWAY": 1,
+        "total": 25
     },
     "percentage": {
-        "FRENCH CONNEXION": 50.0,
-        "Realtime Register B.V.": 50.0,
+        "FRENCH CONNEXION": 4.0,
+        "GRANSY s.r.o.": 4.0,
+        "IONOS SE": 4.0,
+        "KEY-SYSTEMS GmbH": 52.0,
+        "Marcaria.com International Inc.": 4.0,
+        "Realtime Register B.V.": 20.0,
+        "SAS Ligne Web Services - LWS": 8.0,
+        "SCALEWAY": 4.0,
         "total": 100.0
     }
 }
