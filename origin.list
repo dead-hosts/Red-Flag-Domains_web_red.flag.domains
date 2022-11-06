@@ -1,4 +1,4 @@
-#last-update:2022-11-04
+#last-update:2022-11-05
 000.tf
 000webhost.fr
 00308.yt
@@ -2021,6 +2021,7 @@ amelisecufr.fr
 ameli-secu-info.fr
 amelisecu-info.fr
 amelisecuinfo.fr
+ameli-secuinfos.fr
 amel-i-secured.fr
 ameli-secured.fr
 amelisecure.fr
@@ -2308,7 +2309,9 @@ assistant-netflix.fr
 assistant-noreply-ca.fr
 assistantpaypal.fr
 assistant-sg.fr
+assist-bouygues.fr
 assistcom.fr
+assist-moncompte-a-jour.fr
 assitance-clients.fr
 assitance-netflix.fr
 assitants-clients.fr
@@ -2706,6 +2709,7 @@ blablacar-payment.fr
 blablacar-ticket.fr
 blablacar-tickets.fr
 blablcar.fr
+blackfriday-cookeo.fr
 bluepartner.fr
 blushconceptstore.fr
 bnbparibas.fr
@@ -2752,6 +2756,7 @@ boutiqueaigleparis.fr
 boutiquebracelet.fr
 boutique-disney.fr
 boutique-papillon.fr
+bouyges-telecom.fr
 bouygiestelecom.fr
 bouygues-abo.fr
 bouygues-assist-info.fr
@@ -3184,6 +3189,7 @@ chrono-ma-livraison.fr
 chrono-monsuivi.fr
 chrononopost.fr
 chrononpost.fr
+chronop-acheminement.fr
 chronopost-acceuil.fr
 chronopost-accueil.fr
 chronopost-acheminement-colis.fr
@@ -3221,6 +3227,7 @@ chronopost-instructions.fr
 chronopost-interruption.fr
 chronopostlivraison.fr
 chronopost-login.fr
+chronopost-mon-colis.fr
 chronopost-moncolis.fr
 chronopost-mon-suivi.fr
 chronopost-monsuivi.fr
@@ -3435,6 +3442,7 @@ compte-orange.fr
 compteparibas.fr
 compteparso-moncompte.fr
 compteparticulierssocietegenerale.fr
+comptepaypal.fr
 compteperso-acce.fr
 compteperso-acces.fr
 compte-reactivation.fr
@@ -3472,6 +3480,7 @@ confirmation-information.fr
 confirmation-informations.fr
 confirmation-netflix.fr
 confirmation-paiementfrance.fr
+confirmation-ppl.fr
 confirmation-service.fr
 confirmationsupportclient.fr
 confirmatipaiment.fr
@@ -3553,6 +3562,7 @@ contactamazon.fr
 contact-amzn.fr
 contact-amzon.fr
 contact-assurance-maladie.fr
+contactclients.fr
 contactcostco-france.fr
 contact-info-ameli.fr
 contact-netfiix.fr
@@ -3784,6 +3794,7 @@ cybertek-bordeaux-lac.fr
 cybertek-bordeauxlac.fr
 cybertek-brest.fr
 cybertek-france.fr
+cybertekfrance.fr
 cybertek-gaming.fr
 cybertek-labege.fr
 cyberteklabege.fr
@@ -3904,6 +3915,7 @@ disnayplusclient.fr
 disneyapp.fr
 disney-client.fr
 disney-club.fr
+disneyconnexion.fr
 disney-espace-facturation.fr
 disney-help.fr
 disneyholidays.fr
@@ -3963,6 +3975,7 @@ docsmartens.fr
 docsmartensfrance.fr
 doctoiib.fr
 doctossimo.fr
+doctotlib.fr
 documents-ameli.fr
 dogry.fr
 dogtrace.fr
@@ -3973,6 +3986,7 @@ dontacos.fr
 don-valeriepecresse.fr
 donvaleriepecresse.fr
 dossaudio.fr
+dossier-ameli.fr
 dossier-particulier.fr
 douane-chronopost.fr
 douanechronopost.fr
@@ -4216,6 +4230,7 @@ espace-client.re
 espace-clients-ameli.fr
 espaceclients-ameli.fr
 espaceclients-connexion.fr
+espaceclients-cpam.fr
 espaceclient-service.fr
 espace-client-sfr.fr
 espaceclient-sfr.fr
@@ -4306,6 +4321,7 @@ espacevitaleameli.fr
 espace-vitale.fr
 espace-votrecartevitale.fr
 espacli.fr
+espaparticulieca.fr
 espclientcolis.fr
 espclientservice.fr
 espub.fr
@@ -5568,6 +5584,7 @@ livraison-chrono-post.fr
 livraison-chronopost.fr
 livraisonchronopost.fr
 livraison-colis-chrono-post.fr
+livraison-commande-chronopost.fr
 livraison-laposte.fr
 livraisons-ameli.fr
 livraisons-chronopost.fr
@@ -5932,6 +5949,7 @@ modification-livraison.fr
 momentspa.fr
 monabonnement-netflix.fr
 mon-abonnement-suspendu.fr
+mon-acheminement-chronopost.fr
 mon-ameli.fr
 monappleid-apple.fr
 monassistanceameli.fr
@@ -5989,6 +6007,7 @@ moncompte-netfiix.fr
 moncomptenetflix-connexion.fr
 moncomptenetflix.fr
 moncomptenickelrib.fr
+moncompteorange.fr
 moncompteorganismeformation.fr
 moncompte-perso.fr
 moncompteperso-sg.fr
@@ -6064,6 +6083,7 @@ monespacegenerale.fr
 monespacelabanquepostale.fr
 monespace-lcl-connexion.fr
 monespacelcl.fr
+monespacementgenerale.fr
 monespace-netflix.fr
 monespacenetflix.fr
 monespace-paypal.fr
@@ -6223,6 +6243,7 @@ nerflix.fr
 netfiixabonnement.fr
 netfiix-accueil.fr
 netfiix-aideclient.fr
+netfiix-app.fr
 netfiixask.fr
 netfiix-auth-support.fr
 netfiix-client.fr
@@ -6242,7 +6263,9 @@ netfiixhelp.fr
 netfiix-identification.fr
 netfiix-moncompte.fr
 netfiix-paiement.fr
+netfiixpaiement.fr
 netfiix-reactivation.fr
+netfiix-regularisation.fr
 netfiix-renew.fr
 netfiix-renouveiiement.fr
 netfiix-renouvellement.fr
@@ -6274,6 +6297,7 @@ netflix-annonces.fr
 netflixassistance.fr
 netflix-assistances.fr
 netflix-assistant.fr
+netflix-assist.fr
 netflix-authcompte.fr
 netflixauthentication.fr
 netflix-authentification.fr
@@ -6491,6 +6515,7 @@ nike-paschers.fr
 nike-soldes.fr
 nike-tnpascher.fr
 nimes-olympique.fr
+ninite.re
 nkhuu.yt
 nkubg.yt
 nmhn.fr
@@ -6857,6 +6882,7 @@ pharmacie-carte-sante.fr
 phildarstore.fr
 phising-initiative.fr
 pianolessons.fr
+pickupchronopost.fr
 pidoco.fr
 piecediscount24.fr
 pier-import.fr
@@ -7052,6 +7078,7 @@ redirection-chronopost.fr
 redirection-netflx.fr
 redirection-ntflx.fr
 redirections-ameli.fr
+redirections-info.fr
 redirections-paypal.fr
 redirections-support.fr
 redirection-support.fr
@@ -7186,6 +7213,7 @@ renouvellements-assurances.fr
 renouvellements-carte.fr
 renouvellements-cartes.fr
 renouvellementscartevitale.fr
+renouvellementscartevital.fr
 renouvellement-secure.fr
 renouvellement-secure-vitale.fr
 renouvellement-servicecarte.fr
@@ -7212,6 +7240,7 @@ renouv-macartes.fr
 renouv-macartevitale.fr
 renouvsante-cpam.fr
 renouvsante-vitale.fr
+renove-ameli.fr
 renov-landes.fr
 rentacars.fr
 rentamotorcycle.fr
@@ -7585,6 +7614,7 @@ secuschop.fr
 secu-sociale.fr
 secu-social.fr
 secu-societegenerale.fr
+secu-vitale.fr
 secuvitale.fr
 seebox.fr
 seezeit.fr
@@ -7697,7 +7727,9 @@ servicenetflx.fr
 service-netfx.fr
 service-norton.fr
 service-opposition-securite.fr
+service-orange.fr
 service-paiementvialeboncoin.fr
+service-particulier-edf.fr
 service-pass-securite-societegenerale.fr
 servicepayes.fr
 service-paypal.fr
@@ -7966,6 +7998,7 @@ societeenerale.fr
 societegen-annulation.fr
 societegeneerale.fr
 societegeneparticulie.fr
+societegenerai.fr
 societe-general-active-secur.fr
 societegeneralbanque.fr
 societegeneral-connexion.fr
@@ -8146,6 +8179,7 @@ suivi-express-chronopost.fr
 suivis-chronopost.fr
 suivi-support.fr
 suivi-track-chronopost.fr
+suivi-transcash.fr
 suivre-envois-colissimo.fr
 suivre-envois-laposte.fr
 sujet-securite.fr
@@ -8650,6 +8684,7 @@ vignette-certificat-air.fr
 vignette-certificati-air.fr
 vignette-critair-automobile.fr
 vignette-critair-gov.fr
+vignette-critairgov.fr
 vignette-france.fr
 vihted.fr
 vijted.fr
@@ -8779,6 +8814,7 @@ votre-rib-espacepaiement.fr
 votre-securite.fr
 votrettransaction-securiselbc-france.fr
 vunted.fr
+vvanadoo.fr
 wagsandwhiskers.fr
 wahm.fr
 wanaddo.fr
@@ -8894,6 +8930,7 @@ xn--amelie-sant-lbb.fr
 xn--ameli-espacesant-qqb.fr
 xn--amelie-vrif-ibb.fr
 xn--ameli-monespacesant-tzb.fr
+xn--ameli-sant-vitale-ktb.fr
 xn--ameliscure-g7a.fr
 xn--ameliscurit-gbbf.fr
 xn--ameli-scurit-hebf.fr
@@ -9002,6 +9039,7 @@ xn--socitgeneraleparticulier-efcb.fr
 xn--socitgenerales-ekbb.fr
 xn--socitgnral-36akdb.fr
 xn--socit-gnrale-authentification-eucbcb.fr
+xn--socit-gnral-ebbbcb.fr
 xn--socit-gnrale-connexion-e8bbcb.fr
 xn--socit-gnrale-support-e2bbcb.fr
 xn--socit-gnral-particuliers-efcbcb.fr
