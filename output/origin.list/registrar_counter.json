@@ -1,18 +1,24 @@
 {
     "counter": {
+        "1API GmbH": 1,
         "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 2,
-        "OVH": 1,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 12,
+        "OVH": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "SCALEWAY": 1,
-        "total": 6
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 23
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 16.666666666666668,
-        "IONOS SE": 16.666666666666668,
-        "KEY-SYSTEMS GmbH": 33.333333333333336,
-        "OVH": 16.666666666666668,
-        "SCALEWAY": 16.666666666666668,
-        "total": 100.00000000000001
+        "1API GmbH": 4.3478260869565215,
+        "Hosting Concepts B.V. d/b/a Openprovider": 4.3478260869565215,
+        "IONOS SE": 8.695652173913043,
+        "KEY-SYSTEMS GmbH": 52.17391304347826,
+        "OVH": 17.391304347826086,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.3478260869565215,
+        "SCALEWAY": 4.3478260869565215,
+        "TLD Registrar Solutions Ltd": 4.3478260869565215,
+        "total": 99.99999999999999
     }
 }
