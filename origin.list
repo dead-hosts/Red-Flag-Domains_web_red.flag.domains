@@ -1,4 +1,4 @@
-#last-update:2022-11-05
+#last-update:2022-11-06
 000.tf
 000webhost.fr
 00308.yt
@@ -1222,7 +1222,9 @@ abonnements-client.fr
 abonnement-secures.fr
 abonnements-netflix.fr
 abonnements-services.fr
+abonnement-suspension.fr
 abonnement-verif.fr
+abonner-insta.fr
 aboweb.fr
 abpmp.fr
 abridecamarque.fr
@@ -1447,6 +1449,8 @@ admin-lebon-coin.fr
 admisson-postbac.fr
 admiverif.fr
 adobe-france.fr
+adobemaxdyf.fr
+adobemax-france.fr
 adpays.fr
 adquantum.fr
 advair.fr
@@ -1626,6 +1630,7 @@ amazonen.fr
 amazoneshop.fr
 amazon-fba.fr
 amazon-france-logistique.fr
+amazongiftcard.fr
 amazongrowthmarketing.fr
 amazon-helper.fr
 amazoni.fr
@@ -2171,6 +2176,7 @@ antilles-univ.fr
 antipollution-certificat-air.fr
 antoinettepoisson.fr
 ants-gov.fr
+ants-services.fr
 aojwe.yt
 aol.pm
 apel3.fr
@@ -3100,6 +3106,7 @@ certificat-crit-air-g0uv.fr
 certificat-critairgouv.fr
 certificat-critair-gov.fr
 certificat-critair-public.fr
+certificat-crit-airs.fr
 certificat-critairs.fr
 certificat-critair-vignette.fr
 certificate-air.fr
@@ -3204,6 +3211,7 @@ chronopost-client.fr
 chronopost-client-service.fr
 chronopostclients.fr
 chronopostcolis-sav.fr
+chronopost-commande.fr
 chronopost-consignation.fr
 chronopost-contact.fr
 chronopost-courrier.fr
@@ -3366,6 +3374,7 @@ codifrance-distribution.fr
 cofidix.fr
 coilissimo.fr
 colischronopostfacturation.fr
+colis-chrono-post.fr
 colisdeposte.fr
 colis-erreur-chronopost.fr
 colis-interruption.fr
@@ -3416,6 +3425,7 @@ commax.fr
 commdev.fr
 compe-nickel.fr
 comptabilite-mcdonalds.fr
+compte-abonnement.fr
 compteamazon.fr
 compteameli-cartevitale.fr
 compteameliconnexion.fr
@@ -3429,6 +3439,7 @@ compte-caisse-epargne.fr
 compte-client-ameli.fr
 compte-client-ntfx.fr
 compte-connect.fr
+compte-crit-air.fr
 compte-crut-air.fr
 compte-disneyplus.fr
 compte-edf.fr
@@ -4631,6 +4642,7 @@ geopostcodes.fr
 gestion-abonnement.fr
 gestion-ameli.fr
 gestion-chronopost.fr
+gestion-macartevitale.fr
 gestions-client.fr
 gestion-vitals-gov.fr
 getaround-verification.fr
@@ -5421,6 +5433,8 @@ larusse.fr
 lasocietegenerale.fr
 lasportivafemme.fr
 lassurance-maladle.fr
+lassuranceretarite.fr
+lassuranceretriate.fr
 lassuranceretrraite.fr
 lassurancerteraite.fr
 lassurances-maladie.fr
@@ -5486,6 +5500,7 @@ lebooncoin.fr
 lebopncoin.fr
 le-chineur.fr
 leclercrive.fr
+leclerc-socamaine.fr
 le-cnam.fr
 lecreditagricoles.fr
 lecreditmutual.fr
@@ -5627,6 +5642,7 @@ louboutinhommechaussures.fr
 louboutin-pas--cher.fr
 louboutinshoesfrance.fr
 louiscardin.fr
+louisvuittonenligne.fr
 loytec.fr
 lozk.pm
 lozl.fr
@@ -6086,6 +6102,7 @@ monespacelcl.fr
 monespacementgenerale.fr
 monespace-netflix.fr
 monespacenetflix.fr
+monespaceorange.fr
 monespace-paypal.fr
 monespacepersonnel-ameli.fr
 monespace-personnel-nickel.fr
@@ -6140,6 +6157,7 @@ monprofil-ameli.fr
 mon-renouveiiement-netfiix.fr
 mon-renouveiiement-netflix.fr
 mon-renouvelement-netflix.fr
+mon-renouvellement-abonnement.fr
 mon-renouvellement-compte.fr
 mon-renouvellement-netflix.fr
 mon-resultatgouv.fr
@@ -6204,6 +6222,7 @@ mylclbanque.fr
 myleboncoin.fr
 mymicrosoft.fr
 my-netflix.fr
+mynet-flix.fr
 myorangeclient.fr
 myquiz.fr
 mysecurelogin.fr
@@ -6321,6 +6340,7 @@ netflix-comptes.fr
 netflix-compte-support.fr
 netflix-compte-supports.fr
 netflix-compte-suspendu.fr
+netflix-confirmation.fr
 netflixconfirmation.fr
 netflix-confirmations.fr
 netflix-connect.fr
@@ -6554,6 +6574,7 @@ ntflx-account.fr
 ntflx-auth.fr
 ntflx-login.fr
 ntflx-paiement.fr
+ntflx-subscribe.fr
 ntfx-interverifications.fr
 ntli.fr
 ntrg.fr
@@ -6634,6 +6655,7 @@ orangesecure.fr
 orange-support-infos.fr
 orange-vocal.fr
 orange-web.fr
+orange-webmail01.fr
 orangf.fr
 orangre.fr
 ordremek.fr
@@ -6667,6 +6689,7 @@ pagesperso-ortange.fr
 paidlebon-coin.fr
 paielebon-coin.fr
 paiement-accord003.fr
+paiement-chronopost.fr
 paiementf1lx.fr
 paiement-faudre-ppl.fr
 paiement-immo.fr
@@ -6788,6 +6811,7 @@ particuliespaceperso.fr
 particulperso.fr
 particulsocietgene.fr
 partisecusbpinfo.fr
+pascherlouisvuitton.fr
 passage-secure.fr
 passbanquepopulaire.fr
 pass-caisse-epargne.fr
@@ -6942,11 +6966,14 @@ p-particuliers.fr
 ppl-aide.fr
 ppl-auth-acc.fr
 pplconnexion.fr
+ppl-doc.fr
 ppl-information.fr
 ppl-info-securite.fr
 pplprom.fr
 pplpromotions.fr
 ppl-secure.fr
+pplsecure.fr
+ppl-support.fr
 ppl-verif.fr
 pref-gouv93.fr
 prepaidlebon-coin.fr
@@ -7039,7 +7066,9 @@ rapport-ameli.fr
 rapport-client.fr
 raptp.fr
 rauc.fr
+raybanboutique.fr
 ray-banfrance.fr
+raybanlunettespascher.fr
 rchargepsecurelbc.fr
 rctg.fr
 reactivationabonnement.fr
@@ -7316,6 +7345,7 @@ s5amazo.fr
 s5amazos.fr
 sacgalerieslafayette.fr
 sac-longchamppas-cher.fr
+saclouisvuittonsoldes.fr
 sac-michael-kors.fr
 sacmichaelkors-pascher.fr
 saeve.fr
@@ -7817,6 +7847,7 @@ sfr-connexion.fr
 sfr-contact.fr
 sfrcontrat.fr
 sfr-desactivation.fr
+sfr-esim-contact.fr
 sfr-esim.fr
 sfresim.fr
 sfr-esim-service.fr
@@ -8546,6 +8577,7 @@ utauniv-lyon2.fr
 utrace.fr
 utyg.pm
 uugy.fr
+uwestore.fr
 uwnd.fr
 uyeg.fr
 v01n.yt
@@ -9029,6 +9061,7 @@ xn--scurit-socit-gnrale-bzbffbcb.fr
 xn--securit-ameli-hhb.fr
 xn--securit-assurance-maladie-hic.fr
 xn--securit-lbp-hbb.fr
+xn--securit-netflix-hnb.fr
 xn--securit-sociale-hnb.fr
 xn--service-clientle-netflix-yec.fr
 xn--service-sant-amli-mtbd.fr
