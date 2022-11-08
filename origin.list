@@ -1,4 +1,4 @@
-#last-update:2022-11-06
+#last-update:2022-11-07
 000.tf
 000webhost.fr
 00308.yt
@@ -1286,6 +1286,7 @@ account-ankama.fr
 account-leboncoin.fr
 accountlogin.fr
 account-netflix.fr
+accountnetflix.fr
 account-netflx.fr
 account-netlfix.fr
 accountpass-securedsg.fr
@@ -1808,6 +1809,7 @@ ameli-cvitale.fr
 ameli-demarche.fr
 ameli-demarches.fr
 ameli-docs.fr
+ameli-donnee-secure.fr
 ameli-dossier.fr
 ameli-droits.fr
 amelie-accompagnement.fr
@@ -2201,6 +2203,7 @@ appleaccount.fr
 appleaccounts.fr
 apple-assistance.fr
 apple-compte.fr
+apple-find.fr
 apple-findmy.fr
 apple-findmypone.fr
 applefrance.fr
@@ -2624,6 +2627,7 @@ aymastore.fr
 azgf.fr
 babaa.fr
 babouche-maroc.fr
+babyliss-pro.fr
 bac-reunion.fr
 bactif.fr
 badsender.fr
@@ -2847,6 +2851,7 @@ caissedesdepots-mcf.fr
 caisse-dpargne-acces.fr
 caissee-epargnes.fr
 caisse-epargne-3dsecure.fr
+caisse-epargne-accesparticulier.fr
 caisse-epargne-appdemo.fr
 caisse-epargnebanxo.fr
 caisse-epargne-espace-client.fr
@@ -2854,6 +2859,7 @@ caisse-epargnehelp.fr
 caisse-epargne-particuliers.fr
 caisse-epargne-pass.fr
 caisse-epargnes-connexion.fr
+caisse-epargne-seconnecter-particulier.fr
 caisse-epargnesecured.fr
 caisse-epargnesecure.fr
 caisse-epargne-secur.fr
@@ -2935,6 +2941,7 @@ carte-renouvellements.fr
 cartes-ameli-vitales.fr
 carte-sante-vital.fr
 cartesante-vital.fr
+cartesantevital.fr
 cartes-vitale-ameli.fr
 cartes-vitale.fr
 cartesvitalemaelie.fr
@@ -3313,6 +3320,7 @@ client-compte.fr
 client-compte-srv.fr
 client-cpam.fr
 client-credit-du-nord.fr
+client-disney.fr
 client-disneyplus.fr
 client-facturation.fr
 clientfr.fr
@@ -3475,6 +3483,7 @@ compte-vitale.fr
 comptevitale.fr
 comptevitale-renouv.fr
 comptevitale-secure.fr
+concouradobe.fr
 conexid.fr
 conexion-mabanque.fr
 confarama.fr
@@ -3716,6 +3725,7 @@ crefingo.fr
 c-rennes.fr
 critair-activation.fr
 critair-actualisations.fr
+critair-aide.fr
 critair-asvp.fr
 crit-airattestaion.fr
 crit-air-attestation.fr
@@ -3937,6 +3947,7 @@ disney-officiel.fr
 disneyofficiel.fr
 disney-officielle.fr
 disneypaiment.fr
+disneyp.fr
 disneypius.fr
 disneypixarvod.fr
 disneyplus-abonnement.fr
@@ -4192,6 +4203,7 @@ espacebanquepostale.fr
 espace-bnpparibas.fr
 espacecaf.fr
 espacecaissedepargne.fr
+espacecaissedep.fr
 espace-caisse-epargne.fr
 espacecaisseepargne.fr
 espace-caisse.fr
@@ -4885,6 +4897,7 @@ ibckj.yt
 ichisushi.fr
 icloud-compte.fr
 icloud-confim.fr
+iclouddrive.fr
 icloud-find.fr
 icloud-findmy.fr
 icloud-localisation.fr
@@ -5964,6 +5977,7 @@ modificationamazon.fr
 modification-livraison.fr
 momentspa.fr
 monabonnement-netflix.fr
+monabonnement-support.fr
 mon-abonnement-suspendu.fr
 mon-acheminement-chronopost.fr
 mon-ameli.fr
@@ -6267,6 +6281,7 @@ netfiixask.fr
 netfiix-auth-support.fr
 netfiix-client.fr
 netfiixcompte.fr
+netfiix-connection.fr
 netfiixconnection.fr
 netfiix-connexion.fr
 netfiix-connexions.fr
@@ -6742,6 +6757,7 @@ particulcreditmut.fr
 particulecompte-vosacce.fr
 particulepargnemiseaj.fr
 particulespacemiseaj.fr
+particulespaceperso.fr
 particulie-accesrenforcer.fr
 particulieespaceperso.fr
 particulieespacepersonnel.fr
@@ -6810,6 +6826,7 @@ particuliespaceajour.fr
 particuliespaceperso.fr
 particulperso.fr
 particulsocietgene.fr
+partiparticulperso.fr
 partisecusbpinfo.fr
 pascherlouisvuitton.fr
 passage-secure.fr
@@ -6942,6 +6959,9 @@ pololacoste-pas-cher.fr
 polytechs-univ-tours.fr
 poolin.fr
 pornhubfr.fr
+pornhub.tf
+pornhub.wf
+pornhub.yt
 portail-ameli.fr
 portail-assistancesecurite.fr
 portail-assurance-maladie.fr
@@ -7153,6 +7173,7 @@ remboursementimpotsgouv.fr
 remboursement-lydia.fr
 remboursement-paypal.fr
 remboursementsfr.fr
+remplacementcartevitale.fr
 remplacement-critair.fr
 renault-france.fr
 renevoullement-cartevitale.fr
@@ -7915,6 +7936,7 @@ sg-infosmsclient.fr
 sg-infosmsclients.fr
 sg-interface.fr
 sgmoncompte-securpass.fr
+sgmonsecuripass.fr
 sg-particulier.fr
 sg-particulier-securite.fr
 sg-particuliers-securite.fr
@@ -8006,6 +8028,7 @@ snapchatweb.fr
 snap-client-login.fr
 snap-securite.fr
 snapverif.fr
+snap-web.fr
 snaqchat.fr
 sncf-comect.fr
 sncf-france.fr
@@ -8558,6 +8581,7 @@ update-labanquepostale.fr
 update-login.fr
 update-netflix.fr
 update-ntfl.fr
+up-netflix.fr
 u-poitiers.fr
 upsfrance.fr
 u-pssud.fr
@@ -8953,6 +8977,8 @@ wyoutube.fr
 x15s.paris
 xanadoo.fr
 xerofrance.fr
+xhamster.tf
+xhamster.wf
 xhye.fr
 xitf.fr
 xn--accueil-socit-generale-m8bb.fr
@@ -9126,6 +9152,7 @@ yorrp.yt
 you-fm.fr
 youmakeashion.fr
 younited-credit-surveillance.fr
+youporn.tf
 youtuybe.fr
 youvisit.fr
 yqfcl.yt
