@@ -1,4 +1,4 @@
-#last-update:2022-11-07
+#last-update:2022-11-08
 000.tf
 000webhost.fr
 00308.yt
@@ -1626,6 +1626,8 @@ amazonassistance-info.fr
 amazoncompte.fr
 amazon-comptes.fr
 amazon-compte-suspendu.fr
+amazon-connection.fr
+amazon-connexion-web.fr
 amazon-drive.fr
 amazonen.fr
 amazoneshop.fr
@@ -1653,6 +1655,7 @@ amazon-tips.fr
 amazon-verification-compte.fr
 amazon-verification.fr
 amazonvpnclient.fr
+amazon-web-connexion.fr
 amazonzon.fr
 am-cartevitale.fr
 am-cartevital.fr
@@ -1988,6 +1991,7 @@ ameli-renouvellement-assurance.fr
 ameli-renouvellementcarte.fr
 ameli-renouvellementcartes.fr
 ameli-renouvellement-cartevitale.fr
+ameli-renouvellementcartevitale.fr
 ameli-renouvellement.fr
 ameli-renouvellement-france.fr
 ameli-renouvellementgouv.fr
@@ -2385,6 +2389,7 @@ assurance-maladiecompte.fr
 assurancemaladiecompte.fr
 assurance-maladieconnexion.fr
 assurancemaladieconnexion.fr
+assurance-maladie-cpam.fr
 assurancemaladie-cvital.fr
 assurancemaladie-cv-particuliers.fr
 assurancemaladie-expiration.fr
@@ -2758,6 +2763,7 @@ boursidirect.fr
 bourso-confirmation.fr
 boursorama-banqueparrainnage.fr
 boursorama-contact.fr
+boursorama-particuliers.fr
 boursorama-politique.fr
 boursorama-support.fr
 bousedirect.fr
@@ -3234,6 +3240,7 @@ chronopostfrance.fr
 chronopost-france-support.fr
 chronopost-fr.fr
 chronopost-gestion.fr
+chronopost-gestions.fr
 chronopostinfo.fr
 chronopost-information.fr
 chronopost-infos.fr
@@ -3251,6 +3258,7 @@ chronopost-pickup.fr
 chronopostpickup.fr
 chronopost-regulation.fr
 chronopost-relais.fr
+chronopostrelais.fr
 chronopost-renvoie.fr
 chronopostsav.fr
 chronopostscolissimo.fr
@@ -3315,6 +3323,7 @@ client-bnpparibas.fr
 client-caisse-epargne.fr
 client-cartevitale.fr
 client-chrnopost.fr
+client-cledigitale-bnpparibas.fr
 client-cmu.fr
 client-compte.fr
 client-compte-srv.fr
@@ -3685,6 +3694,7 @@ credi-agricol.fr
 credit-agreicole.fr
 creditagricole-activation.fr
 credit-agricoleb.fr
+credit-agricole-france-banque.fr
 creditagricoleparis.fr
 credit-agricole-securipass.fr
 creditagricole-securpass.fr
@@ -3740,6 +3750,7 @@ critair-certification.fr
 critaircertification.fr
 critair-certificat-service.fr
 critair-certificats.fr
+crit-air-certiflcats.fr
 critair-circulation.fr
 critair-commande.fr
 critair-contact.fr
@@ -3771,6 +3782,7 @@ crit-air-revouvement-france.fr
 critairs-certificat.fr
 critairs-certificats.fr
 crit-air-secures.fr
+critairservice.fr
 critairs-gouvs.fr
 critair-verification.fr
 critair-vignette-auto.fr
@@ -3781,6 +3793,7 @@ critair-vignette-gov.fr
 crit-air-vigniette.fr
 criticair.fr
 critiquefilm.fr
+critsairz.fr
 crocfemme.fr
 crochomme.fr
 crocpascher.fr
@@ -4164,6 +4177,7 @@ entek.fr
 entuduc.fr
 envoi-chronopost.fr
 eondershare.fr
+epaiementsecurise.fr
 epaiements.fr
 epargne-assistance.fr
 epargne-banque.fr
@@ -4350,6 +4364,8 @@ espclientservice.fr
 espub.fr
 etape-ameli.fr
 etnieschaussures.fr
+etran01amazo.fr
+etran02amazo.fr
 etribunaldunet.fr
 etsleclerc.fr
 etudiantgouv.fr
@@ -4452,6 +4468,7 @@ financesgouv.fr
 finances-gouv-info.fr
 finances-publique.fr
 findmyiphone-apple.fr
+findmyiphone.fr
 finted.fr
 fipkd.yt
 firefoxx.fr
@@ -5394,6 +5411,7 @@ labege-cybertek.fr
 labegecybertek.fr
 label-credit.fr
 laboiteorse.fr
+laboncoin.fr
 labonquepostale.fr
 labopostal.fr
 labqpostale.fr
@@ -5444,6 +5462,7 @@ laredoutre.fr
 lareplubliquedespyrenees.fr
 larusse.fr
 lasocietegenerale.fr
+la-societe-generale-particuliers.fr
 lasportivafemme.fr
 lassurance-maladle.fr
 lassuranceretarite.fr
@@ -5699,6 +5718,7 @@ mabanquepriveepalatine.fr
 mabanque-societegenerale.fr
 mabanquesocietegenerale.fr
 mabanqueverification.fr
+maboutiquefitnessfr.fr
 mabtech.fr
 macaisseameli.fr
 macaisse-epargne.fr
@@ -5715,6 +5735,7 @@ ma-carte-maladie.fr
 macarte-renouvellement.fr
 ma-carte-sante.fr
 macarte-sante.fr
+ma-carte-sante-info.fr
 macartesante-vitale.fr
 macarte-support.fr
 macartesupport.fr
@@ -5883,6 +5904,7 @@ messageriepro-leboncoin.fr
 messageriesfr.fr
 messagerie-sg.fr
 messageries-operationacce.fr
+messageriesoperationacc.fr
 messageries-sg.fr
 messagerie-vocale-pro-sfr.fr
 messagerileboncoin.fr
@@ -5905,6 +5927,7 @@ mhhn.fr
 michelinb2b.fr
 microdream.fr
 microsoft365online.fr
+microsoftassistance.fr
 microsoft-azure.fr
 microsoftcompte.fr
 microsoft-exchange.fr
@@ -6211,6 +6234,7 @@ muckbootsfrance.fr
 mundilite.fr
 musculaation.fr
 muttuelle.fr
+mutualistion-bourso.fr
 mutueiiesdusoieii.fr
 mutuelledesmotard.fr
 mutuelleduvar.fr
@@ -6273,6 +6297,7 @@ nenettflix.fr
 neon-genesis-evangelion-online.fr
 neowordprss.fr
 nerflix.fr
+netfflixs.fr
 netfiixabonnement.fr
 netfiix-accueil.fr
 netfiix-aideclient.fr
@@ -6295,6 +6320,7 @@ netfiixfrance.fr
 netfiix-help.fr
 netfiixhelp.fr
 netfiix-identification.fr
+netfiix-mon-compte.fr
 netfiix-moncompte.fr
 netfiix-paiement.fr
 netfiixpaiement.fr
@@ -6317,6 +6343,7 @@ netflerxsecure.fr
 netfliassistancefr.fr
 netfli-france.fr
 netfliw.fr
+netflix-abonnement-web.fr
 netflix-acc.fr
 netflix-account-secure.fr
 netflix-accueil.fr
@@ -6378,6 +6405,7 @@ netflix-expiration.fr
 netflixfacturation.fr
 netflix-facturation-fr.fr
 netflix-facturations.fr
+netflixfacturations.fr
 netflix-facture3ds.fr
 netflix-facture.fr
 netflixfacture.fr
@@ -6566,6 +6594,7 @@ noreply-assistance-bouyguestelecom.fr
 noreplycaisse-epargne.fr
 noreply-creditagricole22.fr
 nosdeoirs.fr
+nos-services-bnpparibas.fr
 nosservices-mabanque-bnpparibas.fr
 notif-alertesg.fr
 notification-assurance.fr
@@ -6700,6 +6729,7 @@ pageblanchesfrance.fr
 pages-annuaire.fr
 pagesjauenes.fr
 pages-perso-orange.fr
+pagespersoorange.fr
 pagesperso-ortange.fr
 paidlebon-coin.fr
 paielebon-coin.fr
@@ -6716,6 +6746,7 @@ paiementnetflix.fr
 paiement-netflx.fr
 paiement-ouicar.fr
 paiementrecuenligne.fr
+paiements-boncoin.fr
 paiementscuriseleboncoin914.fr
 paiementsecuriiseleboncoin.fr
 paiement-securise-lebncoin.fr
@@ -7089,6 +7120,7 @@ rauc.fr
 raybanboutique.fr
 ray-banfrance.fr
 raybanlunettespascher.fr
+rchargepayment.fr
 rchargepsecurelbc.fr
 rctg.fr
 reactivationabonnement.fr
@@ -7612,6 +7644,7 @@ securisermacarte.fr
 securite-agricole.fr
 securite-aide.fr
 securite-ameli.fr
+securite-banque-france.fr
 securite-bnpparibas.fr
 securitecaissedepargne.fr
 securite-caissedep.fr
@@ -7788,6 +7821,7 @@ service-paypal-verification-france.fr
 service-pubiic.fr
 servicepublic-ameli.fr
 servicepublic-cartevital.fr
+service-publice.fr
 servicepublicgouv.fr
 servicepublic-infoameli.fr
 servicepublic-infovital.fr
@@ -8194,6 +8228,7 @@ star-iptv.fr
 stationtotal.fr
 statut-abonnement.fr
 statut-coupons.fr
+statutcoupontoneo.fr
 statut-netflix.fr
 stellantisfinance.fr
 steveberry.fr
@@ -8208,11 +8243,13 @@ studiocanal-france.fr
 stwk.fr
 subcreation.fr
 subnetflix.fr
+subscription-disney.fr
 sudbanquepopulaire.fr
 suicidaltendencies.fr
 suivi-ameli.fr
 suivi-bps.fr
 suivi-cartes.fr
+suivi-chrono-express.fr
 suivichrono.fr
 suivichronopost-critair.fr
 suivi-chronopost-express.fr
@@ -8378,6 +8415,7 @@ supportsncf.fr
 support-societegenerale.fr
 supports-securite.fr
 supports-technique.fr
+support-suivi-chrono.fr
 support-tech.fr
 support-tech-france.fr
 support-techniques.fr
@@ -8454,6 +8492,7 @@ thecut.fr
 thedisneystore.fr
 thelem-assurences.fr
 thenewswire.fr
+thenorthfaceoutlet.fr
 thenorthfaceoutletfrance.fr
 thesims3.fr
 thesimsresource.fr
@@ -8551,6 +8590,7 @@ uniguide.fr
 uni-littoral.fr
 uni-tlse3.fr
 univ6lehavre.fr
+univ-cote-dazur.fr
 univ-droit-rouen.fr
 unive-montp3.fr
 unive-paris1.fr
@@ -8848,6 +8888,7 @@ vos-compteacce.fr
 vos-compteaccesact.fr
 voscompte-acces.fr
 voscomptepro-acces.fr
+vos-comptes.fr
 vosdroits-assurancemaladie.fr
 vosdroitsgouv.fr
 votre-abonnement.fr
@@ -9054,7 +9095,9 @@ xn--particulierssocitgnrale-qccbbb.fr
 xn--paypalscurite-hhb.fr
 xn--paypalvrif-h7a.fr
 xn--php-8ka.fr
+xn--ractivation-certicodeplus-bic.fr
 xn--recommandlectronique-j2ba.fr
+xn--renouvellementsant-swb.fr
 xn--renouvellement-sant-tzb.fr
 xn--renouvellement-securit-sociale-wxc.fr
 xn--renouvlement-ameli-wvb.fr
@@ -9089,6 +9132,7 @@ xn--securit-assurance-maladie-hic.fr
 xn--securit-lbp-hbb.fr
 xn--securit-netflix-hnb.fr
 xn--securit-sociale-hnb.fr
+xn--service-clientle-6pb.fr
 xn--service-clientle-netflix-yec.fr
 xn--service-sant-amli-mtbd.fr
 xn--servicesant-lbb.fr

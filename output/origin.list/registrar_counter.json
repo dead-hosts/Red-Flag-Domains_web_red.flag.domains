@@ -1,0 +1,28 @@
+{
+    "counter": {
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 3,
+        "EPAG Domainservices GmbH": 1,
+        "Infomaniak Network SA": 1,
+        "KEY-SYSTEMS GmbH": 27,
+        "Metaregistrar BV": 1,
+        "OVH": 4,
+        "Realtime Register B.V.": 3,
+        "SAS Ligne Web Services - LWS": 2,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 44
+    },
+    "percentage": {
+        "1API GmbH": 2.272727272727273,
+        "AMEN / Agence des Médias Numériques": 6.818181818181818,
+        "EPAG Domainservices GmbH": 2.272727272727273,
+        "Infomaniak Network SA": 2.272727272727273,
+        "KEY-SYSTEMS GmbH": 61.36363636363637,
+        "Metaregistrar BV": 2.272727272727273,
+        "OVH": 9.090909090909092,
+        "Realtime Register B.V.": 6.818181818181818,
+        "SAS Ligne Web Services - LWS": 4.545454545454546,
+        "TLD Registrar Solutions Ltd": 2.272727272727273,
+        "total": 99.99999999999999
+    }
+}
