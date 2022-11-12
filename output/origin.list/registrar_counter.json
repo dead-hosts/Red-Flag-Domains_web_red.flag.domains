@@ -1,20 +1,28 @@
 {
     "counter": {
+        "1API GmbH": 1,
+        "FEELB": 1,
         "GRANSY s.r.o.": 1,
-        "KEY-SYSTEMS GmbH": 9,
-        "OVH": 2,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 3,
+        "IONOS SE": 1,
+        "Infomaniak Network SA": 2,
+        "KEY-SYSTEMS GmbH": 13,
+        "OVH": 3,
+        "One.com A/S": 4,
+        "Realtime Register B.V.": 4,
         "SAS Ligne Web Services - LWS": 1,
-        "total": 17
+        "total": 31
     },
     "percentage": {
-        "GRANSY s.r.o.": 5.882352941176471,
-        "KEY-SYSTEMS GmbH": 52.94117647058823,
-        "OVH": 11.764705882352942,
-        "One.com A/S": 5.882352941176471,
-        "Realtime Register B.V.": 17.647058823529413,
-        "SAS Ligne Web Services - LWS": 5.882352941176471,
+        "1API GmbH": 3.225806451612903,
+        "FEELB": 3.225806451612903,
+        "GRANSY s.r.o.": 3.225806451612903,
+        "IONOS SE": 3.225806451612903,
+        "Infomaniak Network SA": 6.451612903225806,
+        "KEY-SYSTEMS GmbH": 41.935483870967744,
+        "OVH": 9.67741935483871,
+        "One.com A/S": 12.903225806451612,
+        "Realtime Register B.V.": 12.903225806451612,
+        "SAS Ligne Web Services - LWS": 3.225806451612903,
         "total": 100.0
     }
 }
