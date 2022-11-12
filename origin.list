@@ -1,4 +1,4 @@
-#last-update:2022-11-09
+#last-update:2022-11-10
 000.tf
 000webhost.fr
 00308.yt
@@ -1908,6 +1908,7 @@ ameli-info-carte.fr
 ameli-infocartevitale.fr
 ameli-infoclient.fr
 ameli-info.fr
+ameliinfo.fr
 ameli-infogouv.fr
 ameli-info-maladie.fr
 ameli-inforegistre.fr
@@ -2548,6 +2549,7 @@ authclient-ameli.fr
 authclientcompte.fr
 auth-commande.fr
 authcompte-netflix.fr
+authconfig.fr
 auth-disney.fr
 authenimpots.fr
 authenlbc.fr
@@ -2792,6 +2794,7 @@ bouygues-sa.fr
 bouyguestelecom-entreprises-lyon.fr
 bouygues-tel.fr
 box-sneakers-day.fr
+b-palatine.fr
 bp-assistance.fr
 bp-connexion.fr
 bpgo-24h-ultim.fr
@@ -3115,10 +3118,12 @@ certificat-air-gouvernement.fr
 certificat-airgouv.fr
 certificatairgouv.fr
 certificat-air-gov.fr
+certificat-air-gv.fr
 certificat-air-info.fr
 certificat-air-infos.fr
 certificat-air-secure.fr
 certificatairvignettegouv.fr
+certificat-air-web.fr
 certificat-cirtair.fr
 certificat-crit-air.fr
 certificat-critair.fr
@@ -3254,6 +3259,7 @@ chronopost-gestions.fr
 chronopostinfo.fr
 chronopost-information.fr
 chronopost-infos.fr
+chronopost-info-suivi.fr
 chronopost-instruction.fr
 chronopost-instructions.fr
 chronopost-interruption.fr
@@ -3503,6 +3509,7 @@ comptevitale.fr
 comptevitale-renouv.fr
 comptevitale-secure.fr
 concouradobe.fr
+concours-adobe-max-2022.fr
 conexid.fr
 conexion-mabanque.fr
 confarama.fr
@@ -3800,7 +3807,9 @@ crit-air-vignette.fr
 critair-vignette.fr
 critairvignette.fr
 critair-vignette-gov.fr
+critair-vignette-reglementaire.fr
 crit-air-vigniette.fr
+criteo-france.fr
 criticair.fr
 critiquefilm.fr
 critsairz.fr
@@ -4760,6 +4769,8 @@ gouverment.fr
 gouv-france-connect.fr
 gouvgendarmerie.fr
 gouvgn.fr
+gouv-haute-autorite.fr
+gouv-haute-autortite.fr
 gouv-info-ameli.fr
 gouv-inter-bpm.fr
 gouvmnt.fr
@@ -4918,6 +4929,7 @@ hxjds.yt
 hyahoo.fr
 hydf.fr
 hyggn.yt
+hypermarche-carrefour.fr
 hysz.fr
 hyundaiq.fr
 hywi.fr
@@ -5178,6 +5190,7 @@ infos-assurancemaladie.fr
 infosassurancemaladie.fr
 infos-assure-login.fr
 infos-caisse-epargne.fr
+infos-certificat-air.fr
 infos-compte.fr
 infos-compte-nickel.fr
 infos-conditions-sg.fr
@@ -5541,6 +5554,7 @@ leboncoinpayement.fr
 leboncoinpayementsecuryse.fr
 leboncoin-reply.fr
 leboncoin-secu.fr
+leboncoin-secure.fr
 leboncoinsecurisepaiement.fr
 leboncoinsecurite.fr
 leboncoins-leboncoin.fr
@@ -5684,6 +5698,7 @@ login-societegeneralsecure.fr
 logitrave.fr
 loirs.fr
 lonaci.fr
+longchamp-france.fr
 longchamppascher.fr
 longchampsacsoldes.fr
 longchamps-sacs.fr
@@ -5952,6 +5967,7 @@ microsoftcompte.fr
 microsoft-exchange.fr
 microsoftexchange.fr
 microsoft-france.fr
+microsoft-login.fr
 microsoftlogin.fr
 microsoftmetaverse.fr
 microsoft-online-en.fr
@@ -5975,6 +5991,7 @@ minencraft.fr
 minha-conta-netfiix.fr
 minimaran.fr
 ministeredesfinances.fr
+ministere-ecologie-air.fr
 ministere-education.fr
 min-sante-gouve-france.fr
 minuitsurterre.fr
@@ -6317,6 +6334,7 @@ nenettflix.fr
 neon-genesis-evangelion-online.fr
 neowordprss.fr
 nerflix.fr
+netfflix.fr
 netfflixs.fr
 netfiixabonnement.fr
 netfiix-accueil.fr
@@ -6561,6 +6579,7 @@ netflx-facturation.fr
 netflx-login.fr
 netflx-paiement.fr
 netflxpaiement.fr
+netflx-regularisation.fr
 netflx-renouvellement.fr
 netflx-service.fr
 netflxx.fr
@@ -6639,6 +6658,7 @@ nteg.fr
 ntfllx-redirection.fr
 ntflx-account.fr
 ntflx-auth.fr
+ntflxfrance.fr
 ntflx-login.fr
 ntflx-paiement.fr
 ntflx-subscribe.fr
@@ -6738,6 +6758,7 @@ ostalgie.fr
 ouestfranceimmo.fr
 ouicar-paiement.fr
 ouicar-reservation.fr
+outlet-asics.fr
 outletcarhartt.fr
 outletvictoriasecret.fr
 outlook-live.fr
@@ -7133,6 +7154,7 @@ rann.fr
 rapidparebrice.fr
 rappel-ameii.fr
 rappel-caissedepargne.fr
+rappelcolischrono.fr
 rappel-netfiix.fr
 rappels-abonnement.fr
 rappels-netfiix.fr
@@ -7726,6 +7748,7 @@ secu-societegenerale.fr
 secu-vitale.fr
 secuvitale.fr
 secuvitaleinfo.fr
+secvitaleinfo.fr
 seebox.fr
 seezeit.fr
 selarbiosites.fr
@@ -7838,6 +7861,7 @@ service-netfx.fr
 service-norton.fr
 service-opposition-securite.fr
 service-orange.fr
+service-paiement-securise.fr
 service-paiementvialeboncoin.fr
 service-particulier-edf.fr
 service-pass-securite-societegenerale.fr
@@ -7889,9 +7913,11 @@ services-reactivations.fr
 services-renouvelement-netflix-2022.fr
 servicesrenseignement.fr
 services-sante-client.fr
+services-sfr.fr
 services-social.fr
 servicestatuts.fr
 services-totalenergies.fr
+servicestotalenergies.fr
 services-total.fr
 service-support-ameli.fr
 service-support-client.fr
@@ -8096,6 +8122,7 @@ sncf-voyageurs.fr
 sneak-easy.fr
 sneakers-company.fr
 sneakerscompany.fr
+sneakers-supply.fr
 sneakies52.fr
 sneakies.fr
 sneakiesfrance.fr
@@ -8292,6 +8319,8 @@ suivicolischronopost.fr
 suivi-colis-commande.fr
 suivi-colissimo.fr
 suivi-commande-colis.fr
+suividecommande-chronopost.fr
+suividecommandechronopost.fr
 suivi-express-chronopost.fr
 suivis-chronopost.fr
 suivi-support.fr
@@ -8303,8 +8332,10 @@ sujet-securite.fr
 sumofus.fr
 suocietegenerale.fr
 superchaussure.fr
+supermaches-carrefour.fr
 supermarche-carrefour.fr
 supermarcherauchan.fr
+supermarcher-carrefour.fr
 supermarches-carrefour.fr
 supp-net-flix.fr
 suppor-sante.fr
