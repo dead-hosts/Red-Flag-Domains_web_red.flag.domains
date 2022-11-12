@@ -1,10 +1,20 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 1,
-        "total": 1
+        "GRANSY s.r.o.": 1,
+        "KEY-SYSTEMS GmbH": 9,
+        "OVH": 2,
+        "One.com A/S": 1,
+        "Realtime Register B.V.": 3,
+        "SAS Ligne Web Services - LWS": 1,
+        "total": 17
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
+        "GRANSY s.r.o.": 5.882352941176471,
+        "KEY-SYSTEMS GmbH": 52.94117647058823,
+        "OVH": 11.764705882352942,
+        "One.com A/S": 5.882352941176471,
+        "Realtime Register B.V.": 17.647058823529413,
+        "SAS Ligne Web Services - LWS": 5.882352941176471,
         "total": 100.0
     }
 }
