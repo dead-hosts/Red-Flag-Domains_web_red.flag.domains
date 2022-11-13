@@ -1,0 +1,20 @@
+{
+    "counter": {
+        "FRENCH CONNEXION": 2,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "KEY-SYSTEMS GmbH": 7,
+        "OVH": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Realtime Register B.V.": 2,
+        "total": 17
+    },
+    "percentage": {
+        "FRENCH CONNEXION": 11.764705882352942,
+        "Hosting Concepts B.V. d/b/a Openprovider": 5.882352941176471,
+        "KEY-SYSTEMS GmbH": 41.1764705882353,
+        "OVH": 23.529411764705884,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5.882352941176471,
+        "Realtime Register B.V.": 11.764705882352942,
+        "total": 100.00000000000001
+    }
+}
