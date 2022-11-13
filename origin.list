@@ -1,4 +1,4 @@
-#last-update:2022-11-10
+#last-update:2022-11-11
 000.tf
 000webhost.fr
 00308.yt
@@ -1218,6 +1218,7 @@ abonnement-disney.fr
 abonnement-france-secures.fr
 abonnement-impayer.fr
 abonnement-netfiix.fr
+abonnement-regularisation.fr
 abonnements-client.fr
 abonnement-secures.fr
 abonnements-netflix.fr
@@ -1393,6 +1394,7 @@ activationderecharge.fr
 activationdesrecharges.fr
 activation-dsp2.fr
 activationdsp2.fr
+activation-idsecurpass.fr
 activation-mabanque-bnpparibas.fr
 activation-netfiix.fr
 activation-pass-securite.fr
@@ -1845,6 +1847,7 @@ amelie-renouvellement.fr
 ameliesantee.fr
 ameliesecu.fr
 amelie-secure.fr
+ameliesecure.fr
 ameliesecurity.fr
 amelie-service.fr
 amelieservice.fr
@@ -2286,6 +2289,7 @@ assistance-client-assurance-maladie.fr
 assistance-client-facturation.fr
 assistanceclient.fr
 assistance-clients.fr
+assistanceclients.fr
 assistance-compte-ameli.fr
 assistance-compte-client.fr
 assistanceedfparticul.fr
@@ -2480,6 +2484,7 @@ assure-cartevital.fr
 assure-cartevit.fr
 assurecompte-ameli.fr
 assure-cpam.fr
+assure-demarche-compte.fr
 assure-espace-cartevitale.fr
 assure-formulaire.fr
 assureinfo-ameli.fr
@@ -2824,6 +2829,7 @@ brydge.fr
 btfuu.yt
 bugattichaussures.fr
 bundesanzeiger.fr
+burkina24.fr
 burley.fr
 business24.fr
 buyagift.fr
@@ -2846,6 +2852,7 @@ ca-cybertek.fr
 ca-czntrefrance.fr
 caeauxfolies.fr
 caf-compte.fr
+caf-connect.fr
 cafe-express.fr
 ca-finistere-france.fr
 cafj.fr
@@ -2872,6 +2879,7 @@ caisse-epargne-appdemo.fr
 caisse-epargnebanxo.fr
 caisse-epargne-espace-client.fr
 caisse-epargnehelp.fr
+caisse-epargne-moncompte.fr
 caisse-epargne-particuliers.fr
 caisse-epargne-pass.fr
 caisse-epargnes-connexion.fr
@@ -2893,6 +2901,7 @@ caissenationalepargne.fr
 caisse-primaire-dassurance-maladie.fr
 caisse-regional-ca.fr
 caisse-regionaleacces.fr
+caisseregionaleca.fr
 caisseregionalessystmverification.fr
 caisses-epargne.fr
 caissesepargne.fr
@@ -3048,6 +3057,7 @@ cartoonnetworkarabic.fr
 ca-scurepass-majlog.fr
 ca-serviceclient-france.fr
 ca-service.fr
+cash-converters.fr
 casiersjudiciaires.fr
 casino-banque.fr
 casmundo.fr
@@ -3287,6 +3297,7 @@ chronopost-suividecommande.fr
 chronopostsuivi.fr
 chronopostsuivis.fr
 chronopost-suivit.fr
+chronopost-support-douane.fr
 chronopost-support.fr
 chronopostsupport.fr
 chronopost-support-france.fr
@@ -3490,10 +3501,12 @@ comptepaypal.fr
 compteperso-acce.fr
 compteperso-acces.fr
 compte-reactivation.fr
+compte-regularisation.fr
 compte-renouvellement.fr
 comptereset.fr
 compte-secure-ameli-france.fr
 compte-secure.fr
+comptesecure.fr
 comptesecurisation.fr
 comptesg-securepass.fr
 compte-snapchat.fr
@@ -3675,6 +3688,8 @@ cpam-inforenouvellement.fr
 cpam-inforenouv.fr
 cpam-macarte.fr
 cpamrenouv-carte.fr
+cpam-renouvcartevitale.fr
+cpam-renouvcartevital.fr
 cpam-renouvellement.fr
 cpam-renouvellement-secure.fr
 cpam-renouv.fr
@@ -3964,6 +3979,7 @@ diplomatie-gouv-france.fr
 directcarparts.fr
 direction-finances.fr
 dirtmountainbike.fr
+discord-claim.fr
 disnayplusabonne.fr
 disnayplusclient.fr
 disneyapp.fr
@@ -4049,6 +4065,7 @@ douanes-chronopost.fr
 doublesense.fr
 dozd.fr
 dpzjn.yt
+drect-assurance.fr
 dress-store.fr
 drmartens-france.fr
 drmartenshomme.fr
@@ -4110,6 +4127,7 @@ eb56d9-societegenerale.fr
 ebayy.fr
 ecantal.fr
 eccochaussures.fr
+eccoshoesshop.fr
 ecirque.fr
 eckosport.fr
 ecosolaris.fr
@@ -4220,6 +4238,7 @@ esim-ciient-sfr.fr
 e-sim-sfr.fr
 esmoutonsenrages.fr
 espaceabonneameli.fr
+espace-abonne.fr
 espaceagazines.fr
 espace-agricol.fr
 espace-ameii.fr
@@ -4473,6 +4492,7 @@ fdijx.yt
 fdwz.fr
 federal-finances.fr
 fedexexpress.fr
+femme-magazine.fr
 festicolor.fr
 ffacebookk.fr
 ffesm.fr
@@ -4641,6 +4661,7 @@ freeconnex.fr
 freedon.fr
 freef.fr
 freelanced.fr
+freenewes.fr
 free-recharge-authentifcation.fr
 fref.fr
 frenchbweb.fr
@@ -5898,6 +5919,7 @@ meetics.fr
 melthy.fr
 memberserviceleboncoin.fr
 memecosmetic.fr
+mercedes-benz-group.fr
 mer-cybertek.fr
 merignac-cybertek.fr
 merignaccybertek.fr
@@ -5997,6 +6019,7 @@ min-sante-gouve-france.fr
 minuitsurterre.fr
 miowstore.fr
 mipay.fr
+mircosoftonline.fr
 mircrosoft.fr
 mirillis.fr
 misd.fr
@@ -6214,6 +6237,7 @@ monespacevital.fr
 moneuvre.fr
 mon-expiration-vitale.fr
 moneycontrol.fr
+mon-info-vitale.fr
 moninterface-netflix.fr
 mon-mode.fr
 monnetfiix.fr
@@ -6355,6 +6379,7 @@ netfiix-facturations.fr
 netfiix.fr
 netfiix-france.fr
 netfiixfrance.fr
+netfiix-heip.fr
 netfiix-help.fr
 netfiixhelp.fr
 netfiix-identification.fr
@@ -6525,6 +6550,7 @@ netflix-secure-paiement.fr
 netflix-secure-serv.fr
 netflixsecureservice.fr
 netflix-securite.fr
+netflixsecurite.fr
 netflix-serie.fr
 netflixseries.fr
 netflix-service-abonnement.fr
@@ -6551,6 +6577,7 @@ netflixsupportclients.fr
 netflix-support.fr
 netflixsupport.fr
 netflix-support-france.fr
+netflix-support-secure.fr
 netflixsupports.fr
 netflix-supports-france.fr
 netflix-supprt.fr
@@ -6661,6 +6688,7 @@ ntflx-auth.fr
 ntflxfrance.fr
 ntflx-login.fr
 ntflx-paiement.fr
+ntflx-renouvellement.fr
 ntflx-subscribe.fr
 ntfx-interverifications.fr
 ntli.fr
@@ -6756,6 +6784,7 @@ osalto.fr
 osonscomprendre.fr
 ostalgie.fr
 ouestfranceimmo.fr
+oui-car-paiement.fr
 ouicar-paiement.fr
 ouicar-reservation.fr
 outlet-asics.fr
@@ -6813,6 +6842,7 @@ paipal.fr
 palladiumfemme.fr
 palmangelspascher.fr
 pamini.fr
+pandasecurity.fr
 panimi.fr
 pantaya.fr
 pap-verif.fr
@@ -6933,6 +6963,7 @@ paypalaccount-infos.fr
 paypal-account-panel.fr
 paypal-ameli.fr
 paypal-authapp.fr
+paypal-auth.fr
 paypal-config.fr
 paypal-connect.fr
 paypal-connexion.fr
@@ -6998,6 +7029,7 @@ pharmacie-carte-sante.fr
 phildarstore.fr
 phising-initiative.fr
 pianolessons.fr
+pickup-chronopost.fr
 pickupchronopost.fr
 pidoco.fr
 piecediscount24.fr
@@ -7060,6 +7092,7 @@ powertrfic.fr
 p-particuliers.fr
 ppl-aide.fr
 ppl-auth-acc.fr
+ppl-authly.fr
 pplconnexion.fr
 ppl-doc.fr
 ppl-information.fr
@@ -7069,6 +7102,7 @@ pplpromotions.fr
 ppl-secure.fr
 pplsecure.fr
 ppl-support.fr
+ppl-supports.fr
 ppl-verif.fr
 pref-gouv93.fr
 prepaidlebon-coin.fr
@@ -7535,6 +7569,7 @@ secuameli.fr
 secu-ameli-info.fr
 secu-caisse-epargne.fr
 secu-carte-vitale.fr
+secucvitaleinfo.fr
 secuinfovitale.fr
 secupay-lebonc.fr
 secu-portail.fr
@@ -7900,6 +7935,7 @@ servicesdeleboncoin.fr
 services-dsp.fr
 servicesecurebnpparimacledigital.fr
 service-secure.fr
+service-securite.fr
 servicesecuritevitale.fr
 services-info-ameli.fr
 services-mabanquebnpparibas.fr
@@ -8128,6 +8164,7 @@ sneakies.fr
 sneakiesfrance.fr
 snikeed.fr
 snkrsbest.fr
+snkrsbst.fr
 snscf.fr
 soccoopergroupemachatcentreleclerc.fr
 sociale-cartesecu.fr
@@ -8467,8 +8504,10 @@ support-securise-paiement.fr
 support-securite-ce.fr
 support-securites.fr
 support-service-client.fr
+supportserviceclients.fr
 supports-leboncoin.fr
 support-snapchat.fr
+support-snapchat-france.fr
 supportsncf.fr
 support-societegenerale.fr
 supports-securite.fr
@@ -8649,6 +8688,7 @@ uniguide.fr
 uni-littoral.fr
 uni-tlse3.fr
 univ6lehavre.fr
+univ-caen.fr
 univ-cote-dazur.fr
 univ-droit-rouen.fr
 unive-montp3.fr
@@ -9063,6 +9103,7 @@ wwwcoco.fr
 wwwcolissimo.fr
 www-credit-du-nord.fr
 www-credit-du-nord-vpass.fr
+wwwcyves-rocher.fr
 www-dofus-com.fr
 www-groupe-credit-du-nord.fr
 www-groupes-credit-du-nord.fr
