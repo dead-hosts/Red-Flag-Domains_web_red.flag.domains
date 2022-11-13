@@ -1,26 +1,28 @@
 {
     "counter": {
         "AMEN / Agence des Médias Numériques": 2,
+        "EPAG Domainservices GmbH": 1,
         "FRENCH CONNEXION": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 3,
-        "KEY-SYSTEMS GmbH": 15,
+        "KEY-SYSTEMS GmbH": 17,
         "NETIM": 1,
-        "OVH": 6,
+        "OVH": 9,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 34
+        "SAS Ligne Web Services - LWS": 2,
+        "total": 41
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 5.882352941176471,
-        "FRENCH CONNEXION": 5.882352941176471,
-        "Hosting Concepts B.V. d/b/a Openprovider": 8.823529411764707,
-        "KEY-SYSTEMS GmbH": 44.11764705882353,
-        "NETIM": 2.9411764705882355,
-        "OVH": 17.647058823529413,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.9411764705882355,
-        "Realtime Register B.V.": 8.823529411764707,
-        "SAS Ligne Web Services - LWS": 2.9411764705882355,
+        "AMEN / Agence des Médias Numériques": 4.878048780487805,
+        "EPAG Domainservices GmbH": 2.4390243902439024,
+        "FRENCH CONNEXION": 4.878048780487805,
+        "Hosting Concepts B.V. d/b/a Openprovider": 7.317073170731708,
+        "KEY-SYSTEMS GmbH": 41.46341463414634,
+        "NETIM": 2.4390243902439024,
+        "OVH": 21.951219512195124,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.4390243902439024,
+        "Realtime Register B.V.": 7.317073170731708,
+        "SAS Ligne Web Services - LWS": 4.878048780487805,
         "total": 99.99999999999999
     }
 }
