@@ -1,20 +1,16 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 16,
-        "OVH": 1,
+        "1API GmbH": 1,
+        "GANDI": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "Realtime Register B.V.": 1,
-        "Sarek Oy": 1,
-        "total": 22
+        "total": 5
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 9.090909090909092,
-        "IONOS SE": 4.545454545454546,
-        "KEY-SYSTEMS GmbH": 72.72727272727273,
-        "OVH": 4.545454545454546,
-        "Realtime Register B.V.": 4.545454545454546,
-        "Sarek Oy": 4.545454545454546,
-        "total": 100.00000000000001
+        "1API GmbH": 20.0,
+        "GANDI": 40.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
+        "Realtime Register B.V.": 20.0,
+        "total": 100.0
     }
 }

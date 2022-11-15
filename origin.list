@@ -1,4 +1,4 @@
-#last-update:2022-11-12
+#last-update:2022-10-13
 000.tf
 000webhost.fr
 00308.yt
@@ -127,6 +127,7 @@
 1creditmutueel.fr
 1creedit-mutueel.fr
 1kdigital.fr
+1leroymerlin.fr
 1max2coloriage.fr
 1monespace-lcl.fr
 1monpay-pal.fr
@@ -1476,6 +1477,7 @@ agagp.fr
 agedim.fr
 agelocer.fr
 agencepourlinformatiquefinancieredeletat.fr
+agence-societegenerale.fr
 agen-cybertek.fr
 agencybertek.fr
 agentbnp.fr
@@ -1525,6 +1527,7 @@ aide-support-paiement.fr
 aide-vitale-compte.fr
 aidevitale.fr
 aide-vitales-renew.fr
+aiglepascher.fr
 ailfrance.fr
 ainbnb.fr
 aipec.fr
@@ -1653,6 +1656,8 @@ amazonsecuriteformulaire.fr
 amazon-securite.fr
 amazonsellerperformance.fr
 amazonserviceclient.fr
+amazon-subscription.fr
+amazonsubscription.fr
 amazon-tips.fr
 amazon-verification-compte.fr
 amazon-verification.fr
@@ -1923,7 +1928,9 @@ ameli-infos2022.fr
 ameli-info-sante.fr
 ameli-infosante.fr
 ameli-infosecu.fr
+ameli-infosecurite.fr
 ameli-info-serv.fr
+ameli-infoserv.fr
 ameli-infoservice.fr
 ameli-infos.fr
 ameli-infosmacart.fr
@@ -1931,6 +1938,7 @@ ameli-infos-services.fr
 ameli-infosv3.fr
 ameli-info-vitale.fr
 ameli-infovitale.fr
+ameli-interruption.fr
 ameli-la-carte.fr
 ameli-lacartevitale.fr
 ameli-l.fr
@@ -1973,6 +1981,7 @@ amelipertecartevitale.fr
 ameliplan.fr
 ameli-portailsupport.fr
 ameli-pourtous.fr
+ameli-prevoyances.fr
 ameli-procedure.fr
 ameliprocedure.fr
 ameli-protection.fr
@@ -2650,6 +2659,7 @@ babyliss-pro.fr
 bac-reunion.fr
 bactif.fr
 badsender.fr
+baffinfranceshop.fr
 bagaboo-bags.fr
 bagagescabine.fr
 baka-tsuki.fr
@@ -2972,6 +2982,7 @@ cartes-ameli-vitales.fr
 carte-sante-vital.fr
 cartesante-vital.fr
 cartesantevital.fr
+carte-servicevitale.fr
 cartes-vitale-ameli.fr
 cartes-vitale.fr
 cartesvitalemaelie.fr
@@ -2992,6 +3003,7 @@ cartevital-assure.fr
 cartevital-assur.fr
 cartevital-cmu.fr
 cartevitale-amelie.fr
+cartevitaleamelie.fr
 carte-vitaleameli.fr
 cartevitaleameli.fr
 cartevitaleameliinfo.fr
@@ -3298,6 +3310,7 @@ chrono-post-secure.fr
 chronopostserviceclient.fr
 chronopostservice.fr
 chronopost-sms.fr
+chronopost-suivi-colis.fr
 chronopost-suivicommande.fr
 chronopost-suividecommande.fr
 chronopostsuivi.fr
@@ -3733,6 +3746,7 @@ credi-agricol.fr
 credit-agreicole.fr
 creditagricole-activation.fr
 credit-agricoleb.fr
+creditagricoleespaceperso.fr
 credit-agricole-france-banque.fr
 creditagricoleparis.fr
 credit-agricole-securipass.fr
@@ -3840,6 +3854,7 @@ critsairz.fr
 crocfemme.fr
 crochomme.fr
 crocpascher.fr
+crocsoutletparis.fr
 croissieres.fr
 crouslyon.fr
 crous-tousouse.fr
@@ -4072,6 +4087,8 @@ dossier-ameli.fr
 dossier-particulier.fr
 douane-chronopost.fr
 douanechronopost.fr
+douane-laposte.fr
+douanelaposte.fr
 douanes-chronopost.fr
 doublesense.fr
 dozd.fr
@@ -4546,6 +4563,7 @@ flnns.yt
 florenceoutlet.fr
 florilstore.fr
 flta.fr
+fly-store.fr
 fnacdarty-groupe.fr
 fnac-gaming.fr
 fnac-magasin.fr
@@ -4644,6 +4662,7 @@ francesantegouv.fr
 francesantepublique.fr
 france-televions.fr
 francetelevisons.fr
+france-verif.fr
 france-verify-connect.fr
 france-vinciconstruction.fr
 francostore.fr
@@ -4823,6 +4842,7 @@ greffetc-paris.fr
 greta-grand-est.fr
 grossiste3d.fr
 groundieschaussure.fr
+groundiesoutletfr.fr
 groupama-sud.fr
 groupcybertek.fr
 groupcybertekfr.fr
@@ -4916,6 +4936,7 @@ hkdht.pm
 hn412.paris
 hocolats-voisin.fr
 hodlt.pm
+hokaoneonefrance.fr
 hoka.pm
 hollister-france.fr
 hommetendance.fr
@@ -5136,6 +5157,7 @@ info-impotsgouv.fr
 infoimpotsgouv.fr
 info-leboncoin.fr
 infomacartevitaleameli.fr
+info-macarte-vitale.fr
 info-macartevitale.fr
 infomacartevitale.fr
 info-macartevitalev3.fr
@@ -6191,6 +6213,7 @@ monespaceclientele.fr
 monespace-client.fr
 monespace-client-netflix.fr
 mon-espace-client-orange.fr
+monespace-clientsfr.fr
 monespaceclient-vitale.fr
 monespace-cmb.fr
 monespace-cmso.fr
@@ -6232,6 +6255,7 @@ mon-espacesantes.fr
 monespacesante-vitale.fr
 monespace-secu.fr
 monespace-securipass.fr
+monespace-sfr.fr
 mon-espace-sgen.fr
 monespace-sg.fr
 monespace-sg-particulier.fr
@@ -6277,6 +6301,7 @@ mon-resultatgouv.fr
 monsecurpass-info.fr
 monservice-ameli.fr
 monservicepaypal.fr
+monservicepublique.fr
 mon-suivi-chrono-post.fr
 mon-suivi-chronopost.fr
 monsuivi-chronopost.fr
@@ -6416,6 +6441,7 @@ netfiix-web.fr
 netfilx-authentification.fr
 netfilx-frclients.fr
 netfilx-verifclients.fr
+netfixconnextion.fr
 net-fix.fr
 netfix-service.fr
 netflerxsecure.fr
@@ -6622,6 +6648,7 @@ netflx-facturation.fr
 netflx-login.fr
 netflx-paiement.fr
 netflxpaiement.fr
+netflxpayservice.fr
 netflx-regularisation.fr
 netflx-renouvellement.fr
 netflx-service.fr
@@ -6862,6 +6889,7 @@ palladiumfemme.fr
 palmangelspascher.fr
 pamini.fr
 pandasecurity.fr
+pandora-france.fr
 panimi.fr
 pantaya.fr
 pap-verif.fr
@@ -7187,6 +7215,7 @@ qud.fr
 quickchess.fr
 quickenloans.fr
 quick-sg-govno1linkspayments.fr
+quiksilver-france.fr
 quirinale.fr
 quona.yt
 qwejm.yt
@@ -7589,6 +7618,7 @@ secu-ameli-info.fr
 secu-caisse-epargne.fr
 secu-carte-vitale.fr
 secucvitaleinfo.fr
+secufactuenerg.fr
 secuinfovitale.fr
 secupay-lebonc.fr
 secu-portail.fr
@@ -8311,6 +8341,7 @@ souscription-netfiix.fr
 souscription-ntflx.fr
 soxiete-generale.fr
 sparkassecredit-md-eu.fr
+spartanstore.fr
 s-paypal.fr
 speakplanet.fr
 speechpad.fr
@@ -8543,6 +8574,7 @@ support-vitale.fr
 survarium.fr
 suspension-abonnement.fr
 suspension-colis.fr
+suspension-commandes.fr
 suspension-compte.fr
 suspension-compte-france.fr
 suspension-netflix.fr
@@ -8654,6 +8686,7 @@ tourfrance.fr
 tourismelenslievin.fr
 tracfin-france.fr
 track-chronopost.fr
+track-suivi-chronopost.fr
 tradeinn.fr
 traitementdesinfos.fr
 tranisere.fr
@@ -9147,6 +9180,7 @@ xitf.fr
 xn--accueil-socit-generale-m8bb.fr
 xn--amazn-9ta.fr
 xn--amazon-scu-i7a.fr
+xn--amel-tpa.fr
 xn--amelie-sant-lbb.fr
 xn--ameli-espacesant-qqb.fr
 xn--amelie-vrif-ibb.fr
@@ -9178,6 +9212,7 @@ xn--cartevitaleamli-nnb.fr
 xn--cartevitale-sant-qqb.fr
 xn--cdscount-m2a.fr
 xn--chquevacances-xgb.fr
+xn--chronopost-rgulation-m2b.fr
 xn--compteamlie-ibb.fr
 xn--compte-vrif-ibb.fr
 xn--compte-vrification-iwb.fr
@@ -9201,6 +9236,7 @@ xn--infosant-i1a.fr
 xn--info-santpublique-jtb.fr
 xn--infossant-j4a.fr
 xn--laposte-vrification-jzb.fr
+xn--lecanardenchain-pnb.fr
 xn--lettrerecommandelectronique-pocb.fr
 xn--maif-1oa.fr
 xn--meli-zna.fr
