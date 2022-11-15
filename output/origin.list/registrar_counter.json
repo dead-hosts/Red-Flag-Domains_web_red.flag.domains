@@ -1,16 +1,26 @@
 {
     "counter": {
         "1API GmbH": 1,
+        "EURODNS S.A.": 1,
         "GANDI": 2,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "Realtime Register B.V.": 1,
-        "total": 5
+        "GRANSY s.r.o.": 2,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 7,
+        "OVH": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5,
+        "Realtime Register B.V.": 3,
+        "total": 24
     },
     "percentage": {
-        "1API GmbH": 20.0,
-        "GANDI": 40.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
-        "Realtime Register B.V.": 20.0,
+        "1API GmbH": 4.166666666666667,
+        "EURODNS S.A.": 4.166666666666667,
+        "GANDI": 8.333333333333334,
+        "GRANSY s.r.o.": 8.333333333333334,
+        "IONOS SE": 4.166666666666667,
+        "KEY-SYSTEMS GmbH": 29.166666666666668,
+        "OVH": 8.333333333333334,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.833333333333332,
+        "Realtime Register B.V.": 12.5,
         "total": 100.0
     }
 }
