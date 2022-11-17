@@ -1,26 +1,36 @@
 {
     "counter": {
-        "GRANSY s.r.o.": 2,
+        "EPAG Domainservices GmbH": 1,
+        "GRANSY s.r.o.": 3,
         "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 13,
+        "IONOS SE": 4,
+        "InterNetX GmbH": 1,
+        "KEY-SYSTEMS GmbH": 27,
         "Metaregistrar BV": 1,
-        "OVH": 3,
-        "Realtime Register B.V.": 1,
+        "OVH": 4,
+        "One.com A/S": 1,
+        "Realtime Register B.V.": 2,
+        "SAS Ligne Web Services - LWS": 1,
+        "SCALEWAY": 4,
         "Sarek Oy": 1,
         "TLD Registrar Solutions Ltd": 2,
-        "total": 25
+        "total": 53
     },
     "percentage": {
-        "GRANSY s.r.o.": 8.0,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4.0,
-        "IONOS SE": 4.0,
-        "KEY-SYSTEMS GmbH": 52.0,
-        "Metaregistrar BV": 4.0,
-        "OVH": 12.0,
-        "Realtime Register B.V.": 4.0,
-        "Sarek Oy": 4.0,
-        "TLD Registrar Solutions Ltd": 8.0,
-        "total": 100.0
+        "EPAG Domainservices GmbH": 1.8867924528301887,
+        "GRANSY s.r.o.": 5.660377358490566,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1.8867924528301887,
+        "IONOS SE": 7.547169811320755,
+        "InterNetX GmbH": 1.8867924528301887,
+        "KEY-SYSTEMS GmbH": 50.943396226415096,
+        "Metaregistrar BV": 1.8867924528301887,
+        "OVH": 7.547169811320755,
+        "One.com A/S": 1.8867924528301887,
+        "Realtime Register B.V.": 3.7735849056603774,
+        "SAS Ligne Web Services - LWS": 1.8867924528301887,
+        "SCALEWAY": 7.547169811320755,
+        "Sarek Oy": 1.8867924528301887,
+        "TLD Registrar Solutions Ltd": 3.7735849056603774,
+        "total": 100.00000000000001
     }
 }
