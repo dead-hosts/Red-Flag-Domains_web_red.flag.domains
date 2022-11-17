@@ -1,0 +1,26 @@
+{
+    "counter": {
+        "GRANSY s.r.o.": 2,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 13,
+        "Metaregistrar BV": 1,
+        "OVH": 3,
+        "Realtime Register B.V.": 1,
+        "Sarek Oy": 1,
+        "TLD Registrar Solutions Ltd": 2,
+        "total": 25
+    },
+    "percentage": {
+        "GRANSY s.r.o.": 8.0,
+        "Hosting Concepts B.V. d/b/a Openprovider": 4.0,
+        "IONOS SE": 4.0,
+        "KEY-SYSTEMS GmbH": 52.0,
+        "Metaregistrar BV": 4.0,
+        "OVH": 12.0,
+        "Realtime Register B.V.": 4.0,
+        "Sarek Oy": 4.0,
+        "TLD Registrar Solutions Ltd": 8.0,
+        "total": 100.0
+    }
+}
