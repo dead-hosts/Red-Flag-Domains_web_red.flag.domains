@@ -1,4 +1,4 @@
-#last-update:2022-11-16
+#last-update:2022-11-18
 000.tf
 000webhost.fr
 00308.yt
@@ -1472,6 +1472,9 @@ aedzt.pm
 aeiu-pec.fr
 afacebook.fr
 affiche-cine.fr
+affle01amazo.fr
+affle02amazo.fr
+affle03amazo.fr
 affrance.fr
 afge.fr
 afok.pm
@@ -2171,6 +2174,7 @@ aml-secure.fr
 amsecuretenet.fr
 amsyt.yt
 amz-auth-compte.fr
+amzn-info.fr
 amzon-contact.fr
 amzon-contactsupportinc.fr
 amzon-secure.fr
@@ -2238,6 +2242,7 @@ apple-findmy.fr
 apple-findmypone.fr
 applefrance.fr
 applehelp.fr
+appleidcloud.fr
 apple-identifiant.fr
 apple-id.fr
 apple-id-fr.fr
@@ -2468,6 +2473,7 @@ assurance-vitale-macarte.fr
 assurancevitalesecure.fr
 assurancevitalesecurise.fr
 assurance-vitales.fr
+assurance-vital.fr
 assurancevital.fr
 assurance-vitalfrance.fr
 assur-cartee-vitalee.fr
@@ -2513,6 +2519,7 @@ assure-info-sante.fr
 assure-infosante.fr
 assure-interverifications.fr
 assure-malad.fr
+assuremaladie-carte.fr
 assure-maladie.fr
 assuresameli.fr
 assures-amell.fr
@@ -2601,6 +2608,7 @@ authentification-societe-generale.fr
 authentificationtickets.fr
 authentification-verif.fr
 authentification-vitale.fr
+authentifier-cartevitale.fr
 authentifier-code.fr
 authentifiereats.fr
 authenti-vital-amli.fr
@@ -2618,6 +2626,7 @@ auth-labanquepostale.fr
 authlbcfrance.fr
 auth-leboncoin.fr
 authlog.fr
+auth-loginmoncompte.fr
 auth-netfiix.fr
 authnetfiix.fr
 authnetflix.fr
@@ -2939,6 +2948,7 @@ caisse-primaire-dassurance-maladie.fr
 caisse-regional-ca.fr
 caisse-regionaleacces.fr
 caisseregionaleca.fr
+caisseregionaledsp2.fr
 caisseregionalessystmverification.fr
 caisse-retraite.fr
 caissereugional-ca.fr
@@ -3306,10 +3316,12 @@ chronopost-contact.fr
 chronopost-courrier.fr
 chronopost-delivery.fr
 chronopost-douanes.fr
+chronopost-echec.fr
 chronopost-entrepot.fr
 chronopost-erreur.fr
 chronopost-espace-client.fr
 chronopost-expedition.fr
+chronopostexpedition.fr
 chronopost-express.fr
 chronopost-express-suivi.fr
 chronopostfrance.fr
@@ -3349,6 +3361,7 @@ chronopost-sms.fr
 chronopost-suivi-colis.fr
 chronopost-suivicommande.fr
 chronopost-suividecommande.fr
+chronopost-suividucolis.fr
 chronopost-suivi-express.fr
 chronopostsuivi.fr
 chronopost-suivi-france.fr
@@ -3593,6 +3606,7 @@ conexion-mabanque.fr
 confarama.fr
 confg.fr
 configuration-google.fr
+config-vitale.fr
 confir-leboncoin.fr
 confirm-ameli.fr
 confirmation-carte.fr
@@ -3661,6 +3675,7 @@ connexion-netflixinfo.fr
 connexion-ntflx.fr
 connexion-ntlx.fr
 connexion-orange.fr
+connexion-orange-renouvellement.fr
 connexion-particuliers.fr
 connexionparticuliers.fr
 connexion-particuliers-n.fr
@@ -3859,6 +3874,7 @@ critair-eco.fr
 critair-ecologie.fr
 critaire.fr
 critair-enregistrement.fr
+critaireservices.fr
 critair-etat.fr
 critair-everif.fr
 critairfrance.fr
@@ -4311,8 +4327,10 @@ erobot-pisicne.fr
 erogames.fr
 ertbaudet.fr
 escplus.fr
+e-serviceleboncoin.fr
 eservice-netfillx.fr
 eservice-p0stal.fr
+e-servicepaypal.fr
 esim-ciient-sfr.fr
 e-sim-sfr.fr
 esmoutonsenrages.fr
@@ -4462,6 +4480,7 @@ espacesante-ameli.fr
 espacesanteameli.fr
 espace-sante-assure.fr
 espace-sante-france.fr
+espace-sante-inc.fr
 espacesante-macarte.fr
 espace-sante-maladie.fr
 espace-sante-publique.fr
@@ -4502,8 +4521,10 @@ eu-impots.fr
 eukan.yt
 eumaillotbasketstore.fr
 euriosport.fr
+eurochopping.fr
 euromediterrane.fr
 europa-diffusion.fr
+europocar.fr
 europol.re
 europr1.fr
 eurospoprt.fr
@@ -4527,6 +4548,7 @@ expiration-netflix.fr
 expiration-vitale.fr
 expresschronopost.fr
 express-suivi-chronopost.fr
+ext-bouyguestelecom.fr
 extrashop.fr
 eyhn.fr
 eyyz.fr
@@ -4797,6 +4819,7 @@ gendarmerierennes.fr
 generale-securite.fr
 generale-secur-reactive.fr
 generalesocge.fr
+generalesocieteassistance.fr
 genevawatch.fr
 geolantis.fr
 geopostcodes.fr
@@ -5057,6 +5080,7 @@ icloud-confim.fr
 iclouddrive.fr
 icloud-find.fr
 icloud-findmy.fr
+icloud-id.fr
 icloud-localisation.fr
 icloud-localiser.fr
 icloudmaps.fr
@@ -5244,6 +5268,7 @@ informajourparticu.fr
 informasecursante.fr
 informas-espaceclient.fr
 information-ameli.fr
+information-biling.fr
 information-client.fr
 informationeclientpostale.fr
 information-espaceclient.fr
@@ -5314,6 +5339,7 @@ infosecu-macarte.fr
 infosecupostale.fr
 infosecurbp.fr
 infosecurcreditmut.fr
+info-secure-france.fr
 infosecurepargne.fr
 infosecurepass.fr
 infosecure-renouvellement.fr
@@ -5349,6 +5375,7 @@ infos-orange.fr
 infospersoajour.fr
 infospostaleclient.fr
 infosrange-sa.fr
+infosrenouvcvitale.fr
 infossantevitale.fr
 infosseccvitale.fr
 infos-secure-vitale.fr
@@ -5453,6 +5480,7 @@ jordanfemmepascher.fr
 jordansoldes.fr
 jouetdisney.fr
 jp-france.fr
+jpmorgan-bk-chase.fr
 judiciairegouv.fr
 juegosdechicas.fr
 julien-outlet.fr
@@ -5572,6 +5600,7 @@ la-cpam.fr
 lacpam.fr
 lactell.fr
 ladepehe.fr
+lafoiefouille.fr
 lagazette-dgi.fr
 lagranderecr.fr
 lahh.pm
@@ -5639,6 +5668,7 @@ lbcsecure-payment.fr
 lbc-transaction.fr
 lbc-valide-rib.fr
 lbouyguestelecom.fr
+lbpauth.fr
 lbpostale.fr
 lbp-particulier.fr
 lbp-particuliers.fr
@@ -5674,6 +5704,7 @@ leboncoin-secu.fr
 leboncoin-secure.fr
 leboncoinsecurisepaiement.fr
 leboncoinsecurite.fr
+leboncoin-security.fr
 leboncoins-leboncoin.fr
 leboncoin-support-paiement-securise.fr
 leboncois.fr
@@ -5702,6 +5733,7 @@ legrando.fr
 lehat.pm
 leighties.fr
 leket.fr
+lelunx.fr
 lemnode.fr
 lemondde.fr
 lemovnde.fr
@@ -5740,6 +5772,7 @@ lesindesradio.fr
 lesmagasins-u.fr
 lesmonde.fr
 les-oncheres.fr
+lespostelacees.fr
 les-toiles-cinema.fr
 le-tchat-bdsm.fr
 leuquipe.fr
@@ -5928,6 +5961,7 @@ ma-demandeameli.fr
 mademande-ameli.fr
 madwell.fr
 maewan.fr
+ma-facture-netflix.fr
 ma-facture-sfr.fr
 mafacturesfr.fr
 maformationgouv.fr
@@ -5991,6 +6025,7 @@ ma-rubrique-ameli.fr
 masanteameli.fr
 ma-sante-vitale.fr
 ma-secu-ameli.fr
+ma-securite-sociale.fr
 masecuvitale.fr
 matcheendirect.fr
 matchendierct.fr
@@ -6102,6 +6137,7 @@ microsoftmetaverse.fr
 microsoft-online-en.fr
 microsoft-online.fr
 microsoft-pro.fr
+microsoftsupport.fr
 microsoftupdate.fr
 microsoftword.fr
 mideal.fr
@@ -6190,6 +6226,7 @@ monclientameli.fr
 moncmbs.fr
 moncolisadrexo.fr
 mon-colis-chronopost.fr
+moncolis-chronopost.fr
 mon-colis-colissimo.fr
 mon-colissimo.fr
 mon-colissimo-suivi.fr
@@ -6232,6 +6269,7 @@ moncompte-netfiix.fr
 moncomptenetflix-connexion.fr
 moncomptenetflix.fr
 moncomptenickelrib.fr
+moncompte-ntfx.fr
 moncompteorange.fr
 moncompteorganismeformation.fr
 moncompte-perso.fr
@@ -6487,6 +6525,7 @@ netfiix-accueil.fr
 netfiix-aideclient.fr
 netfiix-app.fr
 netfiixask.fr
+netfiix-assistance.fr
 netfiix-auth-support.fr
 netfiix-client.fr
 netfiixcompte.fr
@@ -6717,6 +6756,7 @@ netflix-verification-login.fr
 netflixverified.fr
 netflix-verifi.fr
 netflixx-paiements.fr
+netflixxsupport.fr
 netflix.yt
 netfliz.fr
 netflllx-verify.fr
@@ -6761,6 +6801,7 @@ nexteraenergy.fr
 nexus.yt
 nflx-facturation.fr
 nfo-retraite.fr
+nformations-clients.fr
 ngha.fr
 nhvkk.yt
 nicecybertek.fr
@@ -6799,6 +6840,7 @@ notif-alertesg.fr
 notification-ameli.fr
 notification-assurance.fr
 notification-carefour.fr
+notificationmailinfos.fr
 notification-netflix.fr
 notify-me-pypl.fr
 nouvelle-cartes.fr
@@ -7404,6 +7446,7 @@ registre-compte-clients.fr
 registre-votrecartevitale.fr
 reglementation-critair.fr
 reglement-edf.fr
+reglement-netflix.fr
 regularisation-abonnement.fr
 regularisation-ameli.fr
 regularisation-infos-sante.fr
@@ -7509,6 +7552,7 @@ renouvellement-moncompte.fr
 renouvellement-netfiix.fr
 renouvellement-netfilx.fr
 renouvellementnetflix.fr
+renouvellement-netflix-secure.fr
 renouvellement-netfllx.fr
 renouvellement-netlix.fr
 renouvellement-prime.fr
@@ -7718,6 +7762,7 @@ secretosdelagua.fr
 secu-activation.fr
 secuameli.fr
 secu-ameli-info.fr
+secuameli-info.fr
 secu-caisse-epargne.fr
 secu-carte-vitale.fr
 secucvitaleinfo.fr
@@ -7744,6 +7789,7 @@ secure7-bnpparibas.fr
 secure7-sfr.fr
 secure8-bnpparibas.fr
 secure-accntsamzon.fr
+secure-accounts.fr
 secure-ameii.fr
 secure-amelicartevitale.fr
 secure-amelie.fr
@@ -7801,6 +7847,7 @@ secure-leboncoinpaid.fr
 securelessprime.fr
 secure-ligne.fr
 secure-login.fr
+securelogln.fr
 secure-mabanque-bnpparibas.fr
 secure-macartevitale.fr
 secure-macartevital.fr
@@ -7948,6 +7995,9 @@ selfhtml.fr
 selw.fr
 sengeger.fr
 sensahome.fr
+sephi01amazo.fr
+sephi02amazo.fr
+sephi03amazo.fr
 sephor.fr
 serff.fr
 sericecartevitale.fr
@@ -8027,6 +8077,7 @@ service-fraude.fr
 service-fr.fr
 service-gouv-critair.fr
 servicegouv-vitale.fr
+service-infoassitance.fr
 service-info-client.fr
 service-infoclient.fr
 service-information-client.fr
@@ -8687,6 +8738,7 @@ support-techniques.fr
 support-technique-verification.fr
 support-telephone.fr
 support-tel.fr
+supportusers.fr
 support-validation-securisation.fr
 support-vitale.fr
 survarium.fr
@@ -8880,6 +8932,7 @@ univ-paris-didero.fr
 univ-pars1.fr
 univ-picardie.fr
 univ-tlon.fr
+univ-ville.fr
 unme-asso.fr
 unodieuxconnard.fr
 unpaid-netflix.fr
@@ -9001,6 +9054,7 @@ verifications-netfiix-courrier.fr
 verifications-orange.fr
 verifications-securite.fr
 verification-transaction.fr
+verificator-ticket.fr
 verifiersolde.fr
 verifier-son-coupon.fr
 verif-infos.fr
@@ -9019,6 +9073,7 @@ verifpass-secure.fr
 verifpass-securite.fr
 verif-ppl.fr
 verif-revolut.fr
+verif-rib-lbc.fr
 verifs-amazon.fr
 verifs-ameli.fr
 verif-sante.fr
@@ -9029,6 +9084,7 @@ verif-sfr.fr
 verifs-netflix.fr
 verif-societegenerale.fr
 verifvitale.fr
+verify-compte.fr
 verifycompte.fr
 verify-lydia.fr
 verify-netflix.fr
@@ -9171,6 +9227,7 @@ vos-comptes.fr
 vosdroits-assurancemaladie.fr
 vosdroitsgouv.fr
 votre-abonnement.fr
+votreassurance-cpam-ameli.fr
 votre-assurancemaladie.fr
 votre-assuvitale.fr
 votrecaissecaf.fr
