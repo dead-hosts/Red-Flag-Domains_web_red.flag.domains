@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-info-secure-france.fr,AVAILABILITY,origin.list,2022-11-19 05:49:41.264903
 service-attestation-recharge.fr,AVAILABILITY,origin.list,2022-11-19 06:26:11.870326
 9163.yt,AVAILABILITY,origin.list,2022-11-19 06:26:11.968978
 9101.yt,AVAILABILITY,origin.list,2022-11-19 06:26:12.362972
@@ -2781,3 +2780,4 @@ caisseallocationfamiliale.fr,AVAILABILITY,origin.list,2022-11-19 06:44:38.663469
 8905.yt,AVAILABILITY,origin.list,2022-11-19 06:47:06.774568
 8869.yt,AVAILABILITY,origin.list,2022-11-19 06:47:06.786269
 9099.yt,AVAILABILITY,origin.list,2022-11-19 06:47:06.795120
+info-secure-france.fr,AVAILABILITY,origin.list,2022-11-20 06:11:09.042015
