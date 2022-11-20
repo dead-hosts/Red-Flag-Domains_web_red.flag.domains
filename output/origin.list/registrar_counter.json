@@ -1,12 +1,20 @@
 {
     "counter": {
+        "AMEN / Agence des Médias Numériques": 1,
+        "GRANSY s.r.o.": 3,
         "IONOS SE": 1,
-        "Realtime Register B.V.": 1,
-        "total": 2
+        "KEY-SYSTEMS GmbH": 17,
+        "Realtime Register B.V.": 3,
+        "SONEXO B.V": 1,
+        "total": 26
     },
     "percentage": {
-        "IONOS SE": 50.0,
-        "Realtime Register B.V.": 50.0,
-        "total": 100.0
+        "AMEN / Agence des Médias Numériques": 3.8461538461538463,
+        "GRANSY s.r.o.": 11.538461538461538,
+        "IONOS SE": 3.8461538461538463,
+        "KEY-SYSTEMS GmbH": 65.38461538461539,
+        "Realtime Register B.V.": 11.538461538461538,
+        "SONEXO B.V": 3.8461538461538463,
+        "total": 99.99999999999999
     }
 }
