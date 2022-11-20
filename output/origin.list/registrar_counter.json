@@ -1,30 +1,12 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 3,
-        "KEY-SYSTEMS GmbH": 39,
-        "Metaregistrar BV": 1,
-        "NETIM": 1,
-        "Name SRS AB": 1,
-        "Name.com LLC": 2,
-        "OVH": 3,
-        "PLANETHOSTER": 1,
+        "IONOS SE": 1,
         "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 2,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 56
+        "total": 2
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 5.357142857142857,
-        "KEY-SYSTEMS GmbH": 69.64285714285714,
-        "Metaregistrar BV": 1.7857142857142858,
-        "NETIM": 1.7857142857142858,
-        "Name SRS AB": 1.7857142857142858,
-        "Name.com LLC": 3.5714285714285716,
-        "OVH": 5.357142857142857,
-        "PLANETHOSTER": 1.7857142857142858,
-        "Realtime Register B.V.": 1.7857142857142858,
-        "SAS Ligne Web Services - LWS": 3.5714285714285716,
-        "TLD Registrar Solutions Ltd": 3.5714285714285716,
-        "total": 100.00000000000003
+        "IONOS SE": 50.0,
+        "Realtime Register B.V.": 50.0,
+        "total": 100.0
     }
 }
