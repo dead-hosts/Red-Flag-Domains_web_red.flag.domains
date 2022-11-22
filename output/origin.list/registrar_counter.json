@@ -1,12 +1,22 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 2,
-        "Realtime Register B.V.": 1,
-        "total": 3
+        "AMEN / Agence des Médias Numériques": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 12,
+        "OVH": 2,
+        "Realtime Register B.V.": 2,
+        "SAS Ligne Web Services - LWS": 1,
+        "total": 21
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 66.66666666666667,
-        "Realtime Register B.V.": 33.333333333333336,
-        "total": 100.0
+        "AMEN / Agence des Médias Numériques": 4.761904761904762,
+        "Hosting Concepts B.V. d/b/a Openprovider": 9.523809523809524,
+        "IONOS SE": 4.761904761904762,
+        "KEY-SYSTEMS GmbH": 57.142857142857146,
+        "OVH": 9.523809523809524,
+        "Realtime Register B.V.": 9.523809523809524,
+        "SAS Ligne Web Services - LWS": 4.761904761904762,
+        "total": 99.99999999999999
     }
 }
