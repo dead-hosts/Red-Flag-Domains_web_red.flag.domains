@@ -1,0 +1,18 @@
+{
+    "counter": {
+        "1API GmbH": 2,
+        "IONOS SE": 1,
+        "OVH": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Realtime Register B.V.": 1,
+        "total": 6
+    },
+    "percentage": {
+        "1API GmbH": 33.333333333333336,
+        "IONOS SE": 16.666666666666668,
+        "OVH": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
+        "Realtime Register B.V.": 16.666666666666668,
+        "total": 100.00000000000001
+    }
+}

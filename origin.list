@@ -1,4 +1,4 @@
-#last-update:2022-11-21
+#last-update:2022-11-22
 000.tf
 000webhost.fr
 00308.yt
@@ -122,7 +122,9 @@
 1983.yt
 1an1.fr
 1appleid-apple.fr
+1auchan.fr
 1bet.fr
+1but.fr
 1cares.fr
 1creditmutueel.fr
 1creedit-mutueel.fr
@@ -133,6 +135,7 @@
 1monpay-pal.fr
 1percent.fr
 1sale.fr
+1zooplus.fr
 20001jeux.fr
 2009.pm
 2013.yt
@@ -1464,6 +1467,7 @@ adobemaxdyf.fr
 adobemax-france.fr
 adobemaxstudi.fr
 adobemaxwebfrance.fr
+adopteunmecsav.fr
 adpays.fr
 adquantum.fr
 advair.fr
@@ -1659,6 +1663,7 @@ amazoni.fr
 amazon-info.fr
 amazon-log.fr
 amazon-login.fr
+amazonlogin.fr
 amazon-login-secure.fr
 amazon-payement-remboursement.fr
 amazonppc.fr
@@ -2001,6 +2006,7 @@ ameliplan.fr
 ameli-portailsupport.fr
 ameli-pourtous.fr
 ameli-prevoyances.fr
+ameli-prevoyesante.fr
 ameli-procedure.fr
 ameliprocedure.fr
 ameli-protection.fr
@@ -2534,6 +2540,7 @@ assures-amell.fr
 assures-cartesvital.fr
 assures-cartevitale.fr
 assures-formulaires.fr
+assures-malad.fr
 assurevital-ameli.fr
 assurevitale-amei.fr
 assurevitale-formulaire.fr
@@ -2889,6 +2896,7 @@ burkina24.fr
 burley.fr
 burtonparis.fr
 business24.fr
+but-fr.fr
 buyagift.fr
 bvvaq.yt
 bwbdbd.fr
@@ -3200,6 +3208,7 @@ certificat-air-gv.fr
 certificat-air-info.fr
 certificat-air-infos.fr
 certificat-air-secure.fr
+certificat-air-vignette.fr
 certificatairvignettegouv.fr
 certificat-air-web.fr
 certificat-cirtair.fr
@@ -3280,6 +3289,7 @@ chaussures-keen.fr
 chaussureskeen.fr
 chaussuresnike.fr
 chaussurespascher.fr
+chaussurespikolinos.fr
 chaussuressalomonsoldes.fr
 chaussuressupra.fr
 chaussuressuprasolde.fr
@@ -3332,7 +3342,9 @@ chronopost-contact.fr
 chronopost-courrier.fr
 chronopost-delivery.fr
 chronopost-domicile.fr
+chronopostdomicile.fr
 chronopost-douanes.fr
+chronopost-dpd-verif.fr
 chronopost-echec.fr
 chronopost-entrepot.fr
 chronopost-erreur.fr
@@ -3341,6 +3353,7 @@ chronopost-espace-client.fr
 chronopost-expedition.fr
 chronopostexpedition.fr
 chronopost-express.fr
+chronopostexpress.fr
 chronopost-express-suivi.fr
 chronopostfrance.fr
 chronopost-france-support.fr
@@ -3356,6 +3369,7 @@ chronopost-instructions.fr
 chronopost-interruption.fr
 chronopostlivraison.fr
 chronopost-login.fr
+chronopost-ma-livraison.fr
 chronopost-mon-colis.fr
 chronopost-moncolis.fr
 chronopost-mon-suivi.fr
@@ -3491,6 +3505,7 @@ client-support.fr
 clientverif-boursorama.fr
 clnronopost.fr
 cloudamazon.fr
+cloud-ovh.fr
 clyy.fr
 cm185.paris
 cm254.paris
@@ -4367,6 +4382,7 @@ e-servicepaypal.fr
 esim-ciient-sfr.fr
 e-sim-sfr.fr
 esim-sfr-france.fr
+esim-sfr-support.fr
 esmoutonsenrages.fr
 espaceabonneameli.fr
 espace-abonne.fr
@@ -4430,6 +4446,7 @@ espaceclient-infos.fr
 espaceclient-lcl.fr
 espaceclient-malade.fr
 espaceclient-malad.fr
+espace-client-netflix.fr
 espaceclient-netflix.fr
 espaceclient-netflx.fr
 espace-client-orange.fr
@@ -4472,6 +4489,7 @@ espace-facturation.fr
 espace-factures.fr
 espaceformulaire-ameli.fr
 espace-formulaire.fr
+espacegouv-critair.fr
 espace-identification.fr
 espace-infoclient.fr
 espace-lcl.fr
@@ -4565,6 +4583,7 @@ eurospoprt.fr
 eu-snapchat.fr
 euw-snapchat.fr
 eviebot.fr
+evrisure.fr
 ewea.fr
 ex96va-societegenerale.fr
 exchangemarket.fr
@@ -4625,6 +4644,7 @@ fclb.fr
 fdga.fr
 fdggm.yt
 fdijx.yt
+fdj-millionseuros.fr
 fdwz.fr
 federal-finances.fr
 fedexexpress.fr
@@ -5267,6 +5287,10 @@ infodepartementameli.fr
 info-disneyplus.fr
 infodjour.fr
 info-dlsneyplus.fr
+info-enedis.fr
+infoenedis.fr
+info-eneidis.fr
+info-espaceclients.fr
 info-espace.fr
 info-etraite.fr
 infofonctionameli.fr
@@ -5293,6 +5317,7 @@ info-orange-france.fr
 info-paiement-abonnement.fr
 infoparticuliers-sg.fr
 info-particuliers-societegenerale.fr
+info-pass.fr
 infopaypalsms.fr
 info-pro-mms.fr
 info-qonto.fr
@@ -5313,6 +5338,7 @@ information-biling.fr
 information-client.fr
 informationeclientpostale.fr
 information-espaceclient.fr
+information-espaceclients.fr
 information-impots.fr
 information-macartevitale.fr
 information-personnel.fr
@@ -5656,6 +5682,7 @@ lananquepostale.fr
 lanouvellecartevitale.fr
 lanutration.fr
 lanvinfrance.fr
+laopostemobile.fr
 laphoceen.fr
 laposqte.fr
 lapostecolissimo.fr
@@ -5733,6 +5760,7 @@ lebnocion.fr
 leboncoan.fr
 leboncoin-certif.fr
 leboncoinchronopost.fr
+lebonco-in.fr
 leboncoinfrance.fr
 leboncoin-leboncoin.fr
 leboncoinn.fr
@@ -6349,6 +6377,7 @@ mondossier-ameli.fr
 mon-droit-cpf.fr
 mon-e-paiement-securise.fr
 monepaimentsecurise.fr
+monepay-cdn.fr
 mon-espace-amazon.fr
 mon-espaceameii.fr
 monespaceameii.fr
@@ -7452,6 +7481,7 @@ recapitulatif-ameli.fr
 recensement-service-public.fr
 recettes-vegetariennes.fr
 recevoirlatntn.fr
+recevoir-ma-vignette.fr
 recharge-coupon.fr
 rechargecptelbc.fr
 recharge-lycamobile.fr
@@ -8560,6 +8590,7 @@ sonymusicgroup.fr
 soports.fr
 sorbone.fr
 sorelchaussures.fr
+souscription-abonnements.fr
 souscription-ameli.fr
 souscription-netfiix.fr
 souscription-ntflx.fr
@@ -8794,6 +8825,7 @@ support-snapchat.fr
 support-snapchat-france.fr
 supportsncf.fr
 support-societegenerale.fr
+support-societegeneral.fr
 supports-securite.fr
 supports-technique.fr
 support-suivi-chrono.fr
@@ -9091,6 +9123,7 @@ verif-france-connect.fr
 verificatio-dsp2-secure.fr
 verification-aide-netflix.fr
 verification-amazon.fr
+verification-amazon-fr.fr
 verificationassurance.fr
 verificationbysecury.fr
 verification-center.fr
