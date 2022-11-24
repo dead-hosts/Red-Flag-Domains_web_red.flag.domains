@@ -4,25 +4,25 @@
         "AMEN / Agence des Médias Numériques": 2,
         "GRANSY s.r.o.": 1,
         "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 11,
+        "KEY-SYSTEMS GmbH": 14,
         "OVH": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Realtime Register B.V.": 4,
+        "Realtime Register B.V.": 5,
         "SAS Ligne Web Services - LWS": 2,
         "Sarek Oy": 1,
-        "total": 28
+        "total": 32
     },
     "percentage": {
-        "1API GmbH": 7.142857142857143,
-        "AMEN / Agence des Médias Numériques": 7.142857142857143,
-        "GRANSY s.r.o.": 3.5714285714285716,
-        "IONOS SE": 7.142857142857143,
-        "KEY-SYSTEMS GmbH": 39.285714285714285,
-        "OVH": 3.5714285714285716,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.142857142857143,
-        "Realtime Register B.V.": 14.285714285714286,
-        "SAS Ligne Web Services - LWS": 7.142857142857143,
-        "Sarek Oy": 3.5714285714285716,
-        "total": 99.99999999999999
+        "1API GmbH": 6.25,
+        "AMEN / Agence des Médias Numériques": 6.25,
+        "GRANSY s.r.o.": 3.125,
+        "IONOS SE": 6.25,
+        "KEY-SYSTEMS GmbH": 43.75,
+        "OVH": 3.125,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6.25,
+        "Realtime Register B.V.": 15.625,
+        "SAS Ligne Web Services - LWS": 6.25,
+        "Sarek Oy": 3.125,
+        "total": 100.0
     }
 }
