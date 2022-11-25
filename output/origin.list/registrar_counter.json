@@ -1,12 +1,18 @@
 {
     "counter": {
         "1API GmbH": 1,
-        "KEY-SYSTEMS GmbH": 1,
-        "total": 2
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "KEY-SYSTEMS GmbH": 10,
+        "OVH": 1,
+        "Realtime Register B.V.": 2,
+        "total": 15
     },
     "percentage": {
-        "1API GmbH": 50.0,
-        "KEY-SYSTEMS GmbH": 50.0,
+        "1API GmbH": 6.666666666666667,
+        "Hosting Concepts B.V. d/b/a Openprovider": 6.666666666666667,
+        "KEY-SYSTEMS GmbH": 66.66666666666667,
+        "OVH": 6.666666666666667,
+        "Realtime Register B.V.": 13.333333333333334,
         "total": 100.0
     }
 }
