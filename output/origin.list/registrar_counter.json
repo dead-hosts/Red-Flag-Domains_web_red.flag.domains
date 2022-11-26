@@ -1,10 +1,20 @@
 {
     "counter": {
+        "AMEN / Agence des Médias Numériques": 2,
+        "GRANSY s.r.o.": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
         "IONOS SE": 1,
-        "total": 1
+        "KEY-SYSTEMS GmbH": 2,
+        "OVH": 1,
+        "total": 8
     },
     "percentage": {
-        "IONOS SE": 100.0,
+        "AMEN / Agence des Médias Numériques": 25.0,
+        "GRANSY s.r.o.": 12.5,
+        "Hosting Concepts B.V. d/b/a Openprovider": 12.5,
+        "IONOS SE": 12.5,
+        "KEY-SYSTEMS GmbH": 25.0,
+        "OVH": 12.5,
         "total": 100.0
     }
 }
