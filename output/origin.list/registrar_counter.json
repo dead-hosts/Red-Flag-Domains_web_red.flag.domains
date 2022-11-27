@@ -1,20 +1,26 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 2,
-        "GRANSY s.r.o.": 1,
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 3,
+        "GRANSY s.r.o.": 2,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 8,
+        "KEY-SYSTEMS GmbH": 16,
         "NETIM": 2,
         "Realtime Register B.V.": 1,
-        "total": 15
+        "SAS Ligne Web Services - LWS": 2,
+        "total": 29
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 13.333333333333334,
-        "GRANSY s.r.o.": 6.666666666666667,
-        "IONOS SE": 6.666666666666667,
-        "KEY-SYSTEMS GmbH": 53.333333333333336,
-        "NETIM": 13.333333333333334,
-        "Realtime Register B.V.": 6.666666666666667,
+        "1API GmbH": 3.4482758620689653,
+        "AMEN / Agence des Médias Numériques": 10.344827586206897,
+        "GRANSY s.r.o.": 6.896551724137931,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3.4482758620689653,
+        "IONOS SE": 3.4482758620689653,
+        "KEY-SYSTEMS GmbH": 55.172413793103445,
+        "NETIM": 6.896551724137931,
+        "Realtime Register B.V.": 3.4482758620689653,
+        "SAS Ligne Web Services - LWS": 6.896551724137931,
         "total": 100.00000000000001
     }
 }
