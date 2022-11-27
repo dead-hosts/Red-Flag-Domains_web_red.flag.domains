@@ -1,24 +1,10 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 5,
-        "GRANSY s.r.o.": 3,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 24,
-        "OVH": 5,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 2,
-        "total": 42
+        "AMEN / Agence des Médias Numériques": 2,
+        "total": 2
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 11.904761904761905,
-        "GRANSY s.r.o.": 7.142857142857143,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.380952380952381,
-        "IONOS SE": 2.380952380952381,
-        "KEY-SYSTEMS GmbH": 57.142857142857146,
-        "OVH": 11.904761904761905,
-        "One.com A/S": 2.380952380952381,
-        "Realtime Register B.V.": 4.761904761904762,
+        "AMEN / Agence des Médias Numériques": 100.0,
         "total": 100.0
     }
 }

@@ -1,4 +1,4 @@
-#last-update:2022-11-24
+#last-update:2022-11-25
 000.tf
 000webhost.fr
 00308.yt
@@ -1274,8 +1274,10 @@ accesdesign.fr
 acces-netflix.fr
 acces-particuliers-sg.fr
 accesperso-voscompte.fr
+acces-securite-societegenerale.fr
 access-netflix.fr
 acces-societe-generale.fr
+acces-societegenerale.fr
 acces-voscompte.fr
 acceuil-ameli.fr
 acceuil-caf.fr
@@ -3041,6 +3043,7 @@ carrfefour.fr
 carsglass.fr
 carta-vitale-maladie.fr
 carte-actualisation.fr
+carteamelie.fr
 carteameli.fr
 carte-ameli-support-sms.fr
 carte-ameli-vitale.fr
@@ -3303,6 +3306,7 @@ chaussuresjordan.fr
 chaussures-keds.fr
 chaussures-keen.fr
 chaussureskeen.fr
+chaussuresmerrellfemme.fr
 chaussuresnike.fr
 chaussurespascher.fr
 chaussurespikolinos.fr
@@ -3345,6 +3349,7 @@ chronopost-acheminent.fr
 chronopost-affranchissement.fr
 chronopost-aide.fr
 chronopostaide.fr
+chronopost-aides.fr
 chronopostaides.fr
 chronopost-arrivage.fr
 chronopost-client-acheminement.fr
@@ -3375,6 +3380,7 @@ chronopostfrance.fr
 chronopost-france-support.fr
 chronopost-fr.fr
 chronopost-gestion.fr
+chronopostgestion.fr
 chronopost-gestions.fr
 chronopostinfo.fr
 chronopost-information.fr
@@ -3394,7 +3400,9 @@ chronopost-online.fr
 chronopost-paiement.fr
 chronopost-pickup.fr
 chronopostpickup.fr
+chronopost-registre.fr
 chronopost-regulation.fr
+chronopostregulation.fr
 chronopost-relais.fr
 chronopostrelais.fr
 chronopost-renvoie.fr
@@ -4167,6 +4175,7 @@ disneyplushqedmdr.fr
 disneyplusofficiel.fr
 disneyplus-regularisation.fr
 disney-pluss.fr
+disneyplus-support.fr
 disneyplusverif.fr
 disneyplus-web.fr
 disney.pm
@@ -4272,6 +4281,8 @@ dunlopillo-france.fr
 duson.fr
 dwkkk.yt
 dwund.yt
+dysneyservice.fr
+dysneysupport.fr
 dzef.fr
 dzft.fr
 dzfw.fr
@@ -4916,6 +4927,7 @@ gfouv.fr
 ghhi.fr
 gicgouv.fr
 gifii.fr
+gigngrouvinternet.fr
 g-interieurgouv.fr
 giottiline.fr
 giulli.fr
@@ -5126,6 +5138,8 @@ httpsassurance-cartevitale-ameli.fr
 httpscpam-ameli.fr
 httpsupport-amelifrances.fr
 huak.pm
+huawei.tf
+huawei.yt
 hudnd.yt
 huffingtopost.fr
 huijm.yt
@@ -5245,6 +5259,7 @@ inc-ameli.fr
 inc-compte.fr
 inc-netflix.fr
 indication-ameli.fr
+inf-clientspro.fr
 info-activation-cartevitale.fr
 info-activation.fr
 infoactivation.fr
@@ -5344,6 +5359,7 @@ info-pass.fr
 infopaypalsms.fr
 info-pro-mms.fr
 info-qonto.fr
+info-reactivation.fr
 info-regionale.fr
 inforegistre-ameli.fr
 info-renouvellement-account.fr
@@ -5917,6 +5933,7 @@ livraison-chrono-post.fr
 livraison-chronopost.fr
 livraisonchronopost.fr
 livraison-colis-chrono-post.fr
+livraison-colis-chronopost.fr
 livraison-commande-chronopost.fr
 livraison-info.fr
 livraison-laposte.fr
@@ -6159,6 +6176,7 @@ mcfgvt.fr
 mcleaks.fr
 m-creditagricole.fr
 m-cybertek.fr
+mdoctolib.fr
 me-cybertek.fr
 medecinsansfrontiere.fr
 mediaterre.fr
@@ -6169,6 +6187,7 @@ meetics.fr
 melthy.fr
 memberserviceleboncoin.fr
 memecosmetic.fr
+mephistofranceshop.fr
 mercedes-benz-group.fr
 mer-cybertek.fr
 merignac-cybertek.fr
@@ -6835,6 +6854,7 @@ netflix-secure-paiement.fr
 netflix-secure-payment.fr
 netflix-secure-serv.fr
 netflixsecureservice.fr
+netflix-secureslogin.fr
 netflix-securite.fr
 netflixsecurite.fr
 netflix-serie.fr
@@ -7033,6 +7053,7 @@ onepager.fr
 onilne.fr
 online-auchan.fr
 online-banquepostal.fr
+online-support.fr
 onylfans.fr
 onyxboox.fr
 oolo.fr
@@ -7154,6 +7175,7 @@ panimi.fr
 pantaya.fr
 pap-verif.fr
 parcasterixfrance.fr
+parccoursup.fr
 parcel-chronopost.fr
 parcticuliers-societegenerale.fr
 paribas-mise-a-jour.fr
@@ -7191,6 +7213,7 @@ particulierengie.fr
 particuliere-societegenerale.fr
 particulierespace.fr
 particulierespacemiseaj.fr
+particulier-espace-societegenerale.fr
 particulierespacesocieteg.fr
 particulier-messageriepro.fr
 particuliermonespacemiseaj.fr
@@ -7711,6 +7734,7 @@ renouvellement-service.fr
 renouvellements.fr
 renouvellementsfr.fr
 renouvellements-services.fr
+renouvellement-supportameli.fr
 renouvellement-support-francais.fr
 renouvellements-vitale.fr
 renouvellementsvitale.fr
@@ -8120,6 +8144,7 @@ securpass-creditagricole.fr
 securpass-lacaisse-epargne.fr
 securpass-societegenerale.fr
 securpasssocietegenerale.fr
+securpay-cdn.fr
 securpay-credit-du-nord.fr
 securteagricol.fr
 securvitale-pass.fr
@@ -8201,6 +8226,7 @@ serviceclientleboncoin.fr
 service-client-mabanque-bnpparibas.fr
 service-client-macartevitale.fr
 service-client-mailorange.fr
+serviceclient-netfiix.fr
 serviceclient-netflix.fr
 serviceclientnetflix.fr
 serviceclient-orange.fr
@@ -8768,6 +8794,7 @@ supportameli.fr
 support-amelifrances.fr
 support-ameli-renouvellement.fr
 supportamelisms.fr
+supportameli-vitale.fr
 support-ankama.fr
 support-appie.fr
 support-apple.fr
@@ -8993,6 +9020,7 @@ timberland-france.fr
 timberlandfrsoldes.fr
 timberland-pas-cher.fr
 timberlandprosoldes.fr
+timberland-solde.fr
 timberland-soldes.fr
 timbrelaposte.fr
 tipadvisor.fr
@@ -9175,12 +9203,14 @@ verfication-edf.fr
 verif-aides.fr
 verif-ameli-carte-vital.fr
 verif-amelie.fr
+verif-anah.fr
 verifbanque.fr
 verif-cagricole.fr
 verif-cdn.fr
 verif-certificat-crit-air.fr
 verif-client.fr
 verif-clients.fr
+verif-compta.fr
 verif-compte.fr
 verifcompte.fr
 verif-disney-plus.fr
@@ -9536,6 +9566,8 @@ xerofrance.fr
 xhamster.tf
 xhamster.wf
 xhye.fr
+xiaomi.tf
+xiaomi.yt
 xitf.fr
 xn--accueil-socit-generale-m8bb.fr
 xn--amazn-9ta.fr
