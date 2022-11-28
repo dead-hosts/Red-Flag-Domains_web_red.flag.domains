@@ -1,0 +1,22 @@
+{
+    "counter": {
+        "AMEN / Agence des Médias Numériques": 1,
+        "GRANSY s.r.o.": 1,
+        "KEY-SYSTEMS GmbH": 9,
+        "OVH": 1,
+        "Realtime Register B.V.": 1,
+        "SCALEWAY": 1,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 15
+    },
+    "percentage": {
+        "AMEN / Agence des Médias Numériques": 6.666666666666667,
+        "GRANSY s.r.o.": 6.666666666666667,
+        "KEY-SYSTEMS GmbH": 60.0,
+        "OVH": 6.666666666666667,
+        "Realtime Register B.V.": 6.666666666666667,
+        "SCALEWAY": 6.666666666666667,
+        "TLD Registrar Solutions Ltd": 6.666666666666667,
+        "total": 100.00000000000001
+    }
+}
