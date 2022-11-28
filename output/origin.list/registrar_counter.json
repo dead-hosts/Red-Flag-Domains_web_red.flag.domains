@@ -1,22 +1,28 @@
 {
     "counter": {
         "AMEN / Agence des Médias Numériques": 1,
-        "GRANSY s.r.o.": 1,
-        "KEY-SYSTEMS GmbH": 9,
-        "OVH": 1,
-        "Realtime Register B.V.": 1,
+        "EPAG Domainservices GmbH": 1,
+        "GRANSY s.r.o.": 2,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 13,
+        "OVH": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Realtime Register B.V.": 3,
         "SCALEWAY": 1,
         "TLD Registrar Solutions Ltd": 1,
-        "total": 15
+        "total": 27
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 6.666666666666667,
-        "GRANSY s.r.o.": 6.666666666666667,
-        "KEY-SYSTEMS GmbH": 60.0,
-        "OVH": 6.666666666666667,
-        "Realtime Register B.V.": 6.666666666666667,
-        "SCALEWAY": 6.666666666666667,
-        "TLD Registrar Solutions Ltd": 6.666666666666667,
+        "AMEN / Agence des Médias Numériques": 3.7037037037037037,
+        "EPAG Domainservices GmbH": 3.7037037037037037,
+        "GRANSY s.r.o.": 7.407407407407407,
+        "IONOS SE": 7.407407407407407,
+        "KEY-SYSTEMS GmbH": 48.148148148148145,
+        "OVH": 7.407407407407407,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.7037037037037037,
+        "Realtime Register B.V.": 11.11111111111111,
+        "SCALEWAY": 3.7037037037037037,
+        "TLD Registrar Solutions Ltd": 3.7037037037037037,
         "total": 100.00000000000001
     }
 }
