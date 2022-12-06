@@ -1,36 +1,12 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 3,
-        "GANDI": 1,
-        "GRANSY s.r.o.": 4,
-        "Hosting Concepts B.V. d/b/a Openprovider": 11,
-        "IONOS SE": 3,
-        "Infomaniak Network SA": 8,
-        "KEY-SYSTEMS GmbH": 58,
-        "Metaregistrar BV": 1,
-        "OVH": 9,
-        "Realtime Register B.V.": 8,
-        "SAS Ligne Web Services - LWS": 3,
-        "Sarek Oy": 3,
-        "TLD Registrar Solutions Ltd": 4,
-        "total": 117
+        "FRENCH CONNEXION": 1,
+        "Realtime Register B.V.": 1,
+        "total": 2
     },
     "percentage": {
-        "1API GmbH": 0.8547008547008547,
-        "AMEN / Agence des Médias Numériques": 2.5641025641025643,
-        "GANDI": 0.8547008547008547,
-        "GRANSY s.r.o.": 3.4188034188034186,
-        "Hosting Concepts B.V. d/b/a Openprovider": 9.401709401709402,
-        "IONOS SE": 2.5641025641025643,
-        "Infomaniak Network SA": 6.837606837606837,
-        "KEY-SYSTEMS GmbH": 49.572649572649574,
-        "Metaregistrar BV": 0.8547008547008547,
-        "OVH": 7.6923076923076925,
-        "Realtime Register B.V.": 6.837606837606837,
-        "SAS Ligne Web Services - LWS": 2.5641025641025643,
-        "Sarek Oy": 2.5641025641025643,
-        "TLD Registrar Solutions Ltd": 3.4188034188034186,
-        "total": 100.00000000000001
+        "FRENCH CONNEXION": 50.0,
+        "Realtime Register B.V.": 50.0,
+        "total": 100.0
     }
 }
