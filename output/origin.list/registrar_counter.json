@@ -1,12 +1,20 @@
 {
     "counter": {
         "FRENCH CONNEXION": 1,
-        "Realtime Register B.V.": 1,
-        "total": 2
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 4,
+        "Marcaria.com International Inc.": 1,
+        "Realtime Register B.V.": 5,
+        "SCALEWAY": 1,
+        "total": 13
     },
     "percentage": {
-        "FRENCH CONNEXION": 50.0,
-        "Realtime Register B.V.": 50.0,
+        "FRENCH CONNEXION": 7.6923076923076925,
+        "IONOS SE": 7.6923076923076925,
+        "KEY-SYSTEMS GmbH": 30.76923076923077,
+        "Marcaria.com International Inc.": 7.6923076923076925,
+        "Realtime Register B.V.": 38.46153846153846,
+        "SCALEWAY": 7.6923076923076925,
         "total": 100.0
     }
 }
