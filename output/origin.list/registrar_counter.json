@@ -4,25 +4,25 @@
         "FRENCH CONNEXION": 1,
         "GRANSY s.r.o.": 1,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 16,
+        "KEY-SYSTEMS GmbH": 17,
         "Marcaria.com International Inc.": 1,
         "Realtime Register B.V.": 7,
         "SAS Ligne Web Services - LWS": 2,
         "SCALEWAY": 1,
         "Sarek Oy": 1,
-        "total": 33
+        "total": 34
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 6.0606060606060606,
-        "FRENCH CONNEXION": 3.0303030303030303,
-        "GRANSY s.r.o.": 3.0303030303030303,
-        "IONOS SE": 3.0303030303030303,
-        "KEY-SYSTEMS GmbH": 48.484848484848484,
-        "Marcaria.com International Inc.": 3.0303030303030303,
-        "Realtime Register B.V.": 21.21212121212121,
-        "SAS Ligne Web Services - LWS": 6.0606060606060606,
-        "SCALEWAY": 3.0303030303030303,
-        "Sarek Oy": 3.0303030303030303,
+        "AMEN / Agence des Médias Numériques": 5.882352941176471,
+        "FRENCH CONNEXION": 2.9411764705882355,
+        "GRANSY s.r.o.": 2.9411764705882355,
+        "IONOS SE": 2.9411764705882355,
+        "KEY-SYSTEMS GmbH": 50.0,
+        "Marcaria.com International Inc.": 2.9411764705882355,
+        "Realtime Register B.V.": 20.58823529411765,
+        "SAS Ligne Web Services - LWS": 5.882352941176471,
+        "SCALEWAY": 2.9411764705882355,
+        "Sarek Oy": 2.9411764705882355,
         "total": 100.0
     }
 }
