@@ -1,28 +1,20 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 2,
-        "FRENCH CONNEXION": 1,
-        "GRANSY s.r.o.": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 17,
-        "Marcaria.com International Inc.": 1,
-        "Realtime Register B.V.": 7,
-        "SAS Ligne Web Services - LWS": 2,
-        "SCALEWAY": 1,
-        "Sarek Oy": 1,
-        "total": 34
+        "Hosting Concepts B.V. d/b/a Openprovider": 3,
+        "IONOS SE": 2,
+        "Infomaniak Network SA": 1,
+        "KEY-SYSTEMS GmbH": 6,
+        "OVH": 1,
+        "Realtime Register B.V.": 1,
+        "total": 14
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 5.882352941176471,
-        "FRENCH CONNEXION": 2.9411764705882355,
-        "GRANSY s.r.o.": 2.9411764705882355,
-        "IONOS SE": 2.9411764705882355,
-        "KEY-SYSTEMS GmbH": 50.0,
-        "Marcaria.com International Inc.": 2.9411764705882355,
-        "Realtime Register B.V.": 20.58823529411765,
-        "SAS Ligne Web Services - LWS": 5.882352941176471,
-        "SCALEWAY": 2.9411764705882355,
-        "Sarek Oy": 2.9411764705882355,
-        "total": 100.0
+        "Hosting Concepts B.V. d/b/a Openprovider": 21.428571428571427,
+        "IONOS SE": 14.285714285714286,
+        "Infomaniak Network SA": 7.142857142857143,
+        "KEY-SYSTEMS GmbH": 42.857142857142854,
+        "OVH": 7.142857142857143,
+        "Realtime Register B.V.": 7.142857142857143,
+        "total": 99.99999999999999
     }
 }
