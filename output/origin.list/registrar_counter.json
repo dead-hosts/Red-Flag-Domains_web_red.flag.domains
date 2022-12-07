@@ -1,20 +1,32 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 3,
-        "IONOS SE": 2,
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 7,
+        "IONOS SE": 7,
         "Infomaniak Network SA": 1,
-        "KEY-SYSTEMS GmbH": 6,
-        "OVH": 1,
-        "Realtime Register B.V.": 1,
-        "total": 14
+        "KEY-SYSTEMS GmbH": 36,
+        "Name.com LLC": 1,
+        "OVH": 5,
+        "Realtime Register B.V.": 7,
+        "SAS Ligne Web Services - LWS": 2,
+        "Sarek Oy": 3,
+        "Vautron Rechenzentrum AG": 1,
+        "total": 72
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 21.428571428571427,
-        "IONOS SE": 14.285714285714286,
-        "Infomaniak Network SA": 7.142857142857143,
-        "KEY-SYSTEMS GmbH": 42.857142857142854,
-        "OVH": 7.142857142857143,
-        "Realtime Register B.V.": 7.142857142857143,
+        "1API GmbH": 1.3888888888888888,
+        "AMEN / Agence des Médias Numériques": 1.3888888888888888,
+        "Hosting Concepts B.V. d/b/a Openprovider": 9.722222222222221,
+        "IONOS SE": 9.722222222222221,
+        "Infomaniak Network SA": 1.3888888888888888,
+        "KEY-SYSTEMS GmbH": 50.0,
+        "Name.com LLC": 1.3888888888888888,
+        "OVH": 6.944444444444445,
+        "Realtime Register B.V.": 9.722222222222221,
+        "SAS Ligne Web Services - LWS": 2.7777777777777777,
+        "Sarek Oy": 4.166666666666667,
+        "Vautron Rechenzentrum AG": 1.3888888888888888,
         "total": 99.99999999999999
     }
 }
