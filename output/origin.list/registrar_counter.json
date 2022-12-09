@@ -1,26 +1,26 @@
 {
     "counter": {
         "AMEN / Agence des Médias Numériques": 2,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 26,
+        "IONOS SE": 3,
+        "KEY-SYSTEMS GmbH": 37,
         "Name.com LLC": 1,
         "OVH": 3,
-        "Realtime Register B.V.": 7,
+        "Realtime Register B.V.": 8,
         "SAS Ligne Web Services - LWS": 1,
-        "Sarek Oy": 2,
-        "TLD Registrar Solutions Ltd": 1,
-        "total": 44
+        "Sarek Oy": 3,
+        "TLD Registrar Solutions Ltd": 7,
+        "total": 65
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 4.545454545454546,
-        "IONOS SE": 2.272727272727273,
-        "KEY-SYSTEMS GmbH": 59.09090909090909,
-        "Name.com LLC": 2.272727272727273,
-        "OVH": 6.818181818181818,
-        "Realtime Register B.V.": 15.909090909090908,
-        "SAS Ligne Web Services - LWS": 2.272727272727273,
-        "Sarek Oy": 4.545454545454546,
-        "TLD Registrar Solutions Ltd": 2.272727272727273,
-        "total": 99.99999999999997
+        "AMEN / Agence des Médias Numériques": 3.076923076923077,
+        "IONOS SE": 4.615384615384615,
+        "KEY-SYSTEMS GmbH": 56.92307692307692,
+        "Name.com LLC": 1.5384615384615385,
+        "OVH": 4.615384615384615,
+        "Realtime Register B.V.": 12.307692307692308,
+        "SAS Ligne Web Services - LWS": 1.5384615384615385,
+        "Sarek Oy": 4.615384615384615,
+        "TLD Registrar Solutions Ltd": 10.76923076923077,
+        "total": 99.99999999999999
     }
 }
