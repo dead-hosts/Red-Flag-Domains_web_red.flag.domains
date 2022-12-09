@@ -1,34 +1,16 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 2,
-        "Hosting Concepts B.V. d/b/a Openprovider": 6,
-        "IONOS SE": 4,
-        "KEY-SYSTEMS GmbH": 40,
-        "Metaregistrar BV": 1,
+        "AMEN / Agence des Médias Numériques": 1,
+        "KEY-SYSTEMS GmbH": 5,
         "Name.com LLC": 1,
-        "OVH": 8,
-        "One.com A/S": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 5,
-        "SCALEWAY": 1,
-        "Sarek Oy": 1,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 73
+        "OVH": 1,
+        "total": 8
     },
     "percentage": {
-        "1API GmbH": 1.36986301369863,
-        "AMEN / Agence des Médias Numériques": 2.73972602739726,
-        "Hosting Concepts B.V. d/b/a Openprovider": 8.219178082191782,
-        "IONOS SE": 5.47945205479452,
-        "KEY-SYSTEMS GmbH": 54.794520547945204,
-        "Metaregistrar BV": 1.36986301369863,
-        "Name.com LLC": 1.36986301369863,
-        "OVH": 10.95890410958904,
-        "One.com A/S": 1.36986301369863,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6.8493150684931505,
-        "SCALEWAY": 1.36986301369863,
-        "Sarek Oy": 1.36986301369863,
-        "TLD Registrar Solutions Ltd": 2.73972602739726,
-        "total": 100.00000000000001
+        "AMEN / Agence des Médias Numériques": 12.5,
+        "KEY-SYSTEMS GmbH": 62.5,
+        "Name.com LLC": 12.5,
+        "OVH": 12.5,
+        "total": 100.0
     }
 }
