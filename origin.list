@@ -1,4 +1,4 @@
-#last-update:2022-12-08
+#last-update:2022-12-09
 000.tf
 000webhost.fr
 00308.yt
@@ -1305,6 +1305,7 @@ accoo.yt
 accor-group.fr
 accountameli.fr
 account-ankama.fr
+account-authentification.fr
 account-leboncoin.fr
 accountlogin.fr
 account-netflix.fr
@@ -1486,6 +1487,7 @@ adobe-france.fr
 adobemax-2022.fr
 adobemaxdyf.fr
 adobemax-france.fr
+adobemaxprojet.fr
 adobemaxstudi.fr
 adobemaxwebfrance.fr
 adopteunmecsav.fr
@@ -1700,6 +1702,7 @@ amazon-log.fr
 amazon-login.fr
 amazonlogin.fr
 amazon-login-secure.fr
+amazonofficiel.fr
 amazon-payement-remboursement.fr
 amazonppc.fr
 amazonprimesec.fr
@@ -1713,6 +1716,7 @@ amazonserviceclient.fr
 amazonsolution.fr
 amazon-subscription.fr
 amazonsubscription.fr
+amazon-suspend.fr
 amazon-tips.fr
 amazon-verification-compte.fr
 amazon-verification.fr
@@ -2834,6 +2838,7 @@ bdsm-fantaisie.fr
 bdvoltaire.fr
 beauten.fr
 beautylicieuse.fr
+beautysuccess-sas.fr
 beautytemple.fr
 beboncoin.fr
 begles-cybertek.fr
@@ -2887,6 +2892,7 @@ bnpparibas-connexion.fr
 bnpparibasconnexion.fr
 bnpparibas-dsp2.fr
 bnpparibas-france.fr
+bnp-paribas-mabanque.fr
 bnpparibas-mabanque.fr
 bnpparibas-moncompte.fr
 bnpparibas-securisation.fr
@@ -3453,6 +3459,8 @@ chronopost-client-service.fr
 chronopostclients.fr
 chronopost-coiis.fr
 chronopostcolis-sav.fr
+chronopost-colis-suivi.fr
+chronopost-colis-suivis.fr
 chronopost-commande.fr
 chronopost-consignation.fr
 chronopost-contact.fr
@@ -3524,6 +3532,7 @@ chronopostscolissimo.fr
 chrono-post-secure.fr
 chronopost-secure.fr
 chronopost-securite.fr
+chronopost-service-client.fr
 chronopostserviceclient.fr
 chronopost-service.fr
 chronopostservice.fr
@@ -3545,6 +3554,7 @@ chronopost-suivis.fr
 chronopostsuivis.fr
 chronopost-suivit.fr
 chronopost-suivre-colis.fr
+chronopost-suivrecolis.fr
 chronopost-suivremoncolis.fr
 chronopost-support-douane.fr
 chronopost-support.fr
@@ -3662,6 +3672,7 @@ clientsocietegeneral.fr
 clients-orange.fr
 clients-paypal.fr
 clients-service.fr
+clients-societegenerale.fr
 clients-support.fr
 client-support.fr
 clientverif-boursorama.fr
@@ -3699,6 +3710,7 @@ colischronopostfacturation.fr
 colis-chrono-post.fr
 colis-chronopost-suivi.fr
 colisdeposte.fr
+colisenattente.fr
 colis-erreur-chronopost.fr
 colis-interruption.fr
 colisismo.fr
@@ -4323,6 +4335,7 @@ disneyconnexion.fr
 disney-espace-facturation.fr
 disney-help.fr
 disneyholidays.fr
+disney-info-paiement.fr
 disneyland-boutique.fr
 disneylandofficiel.fr
 disneylandparisofficiel.fr
@@ -4686,6 +4699,7 @@ espace-client-sg.fr
 espace-clientsg.fr
 espaceclient-sg.fr
 espaceclients-informs.fr
+espaceclients-infos.fr
 espace-client-societegenerale.fr
 espaceclient-societegenerale.fr
 espace-clients-orange.fr
@@ -4763,11 +4777,13 @@ espace-sante-publique.fr
 espacesantes.fr
 espaces-boursorama.fr
 espacesclientele-societegenerale.fr
+espacesclients-disney.fr
 espaces-clients.fr
 espacesecu-ameli.fr
 espace-secure.fr
 espacesecuriser-bp.fr
 espace-service-client.fr
+espacesg-societegenerale.fr
 espaces-netflix.fr
 espace-societegenerale.fr
 espacesociete-generale.fr
@@ -4793,6 +4809,7 @@ etran02amazo.fr
 etribunaldunet.fr
 etsleclerc.fr
 etudiantgouv.fr
+etu-univ-tlse2.fr
 etuu-univ-grenoble-alpes.fr
 etvda.yt
 etvgf.yt
@@ -5144,6 +5161,7 @@ gmai1.fr
 gmailmail.fr
 gmail-shop.fr
 gmails.pm
+gmalto.fr
 gnnt.fr
 gogl.fr
 goldengooseboutique.fr
@@ -5256,12 +5274,14 @@ gtamoding.fr
 gtfz.fr
 gtwf.fr
 guask.yt
+guesfrance.fr
 guessfrance.fr
 guidelon.fr
 guiltygear.fr
 guvan.yt
 gwklaser.fr
 gyjn.yt
+gym-shark-france.fr
 gymsharksoldes.fr
 gymsharkstore.fr
 h59p.paris
@@ -6040,6 +6060,7 @@ lcolissimo.fr
 lcpr.fr
 lddf.pm
 ldzlt.pm
+learedoute.fr
 leb0ncoin.fr
 lebanquepostale.fr
 lebeecoin.fr
@@ -6502,6 +6523,7 @@ messagerileboncoin.fr
 messagerrie-leboncoin.fr
 message-sg.fr
 messages-sg.fr
+messervices-info.fr
 mes-services-mabanquebnpparibas.fr
 mes-services-netfiix.fr
 messgerie-leboncoin.fr
@@ -6767,6 +6789,7 @@ monespace-paypal.fr
 monespacepersonnel-ameli.fr
 monespacepersonnel-leboncoin.fr
 monespace-personnel-nickel.fr
+monespaceprosocietegenerale.fr
 mon-espace-renouvellement.fr
 monespace-renouvellement.fr
 monespacerenouvellement.fr
@@ -7067,6 +7090,7 @@ netflix-factures.fr
 netflix-formulaire.fr
 net-flix.fr
 netf-lix.fr
+netflixfranceconnexion.fr
 netflix-france.fr
 netflixfrancefracture.fr
 netflix-france-renouvellement.fr
@@ -7252,6 +7276,7 @@ nhvkk.yt
 nicecybertek.fr
 nickelcomptes.fr
 nickel-espace-client.fr
+nikeairmax.fr
 nikeairmax-pascher.fr
 nike-chaussure.fr
 nike-france.fr
@@ -7688,6 +7713,7 @@ pickupchronopost.fr
 pidoco.fr
 piecediscount24.fr
 pier-import.fr
+pikolinosfrance.fr
 pillowpets.fr
 pkia.fr
 pl02amazo.fr
@@ -7751,6 +7777,7 @@ postload-leboncoin.fr
 poulascience.fr
 pourvoiries.fr
 powertrfic.fr
+powr-certification.fr
 ppagesjaunes.fr
 p-particuliers.fr
 ppl-aide.fr
@@ -7763,6 +7790,7 @@ ppl-information.fr
 ppl-info-securite.fr
 pplprom.fr
 pplpromotions.fr
+ppl-reviewsupport.fr
 ppl-secure.fr
 pplsecure.fr
 ppl-support.fr
@@ -8054,6 +8082,7 @@ renouvellements-abonnements.fr
 renouvellements-aide.fr
 renouvellements-ameli.fr
 renouvellement-sante.fr
+renouvellement-santes.fr
 renouvellements-assurances.fr
 renouvellements-carte.fr
 renouvellements-cartes.fr
@@ -8534,6 +8563,7 @@ serveursg.fr
 serveur-support.fr
 serviceaccount.fr
 service-agricol.fr
+service-aide-client.fr
 service-aide.fr
 service-aide-paypal.fr
 service-ameli-carte.fr
@@ -8772,6 +8802,7 @@ sfr-recouvrement.fr
 sfrremboursement.fr
 sfrr.fr
 sfr-securite.fr
+sfr-service-esim.fr
 sfr-sim.fr
 sfrsupport.fr
 sfr-telephone.fr
@@ -9132,6 +9163,7 @@ suividecolis-chronopost.fr
 suividecommande-chronopost.fr
 suividecommandechronopost.fr
 suividecommandeschronopost.fr
+suividelivraison-chronopost.fr
 suividemoncolis.fr
 suividucolis-chronopost.fr
 suiviechrono.fr
@@ -9146,6 +9178,7 @@ suivi-support.fr
 suivi-track-chronopost.fr
 suivi-transcash.fr
 suivre-chronopost.fr
+suivrecolischronopost.fr
 suivre-envois-colissimo.fr
 suivre-envois-laposte.fr
 suivre-ma-livraison.fr
@@ -9312,6 +9345,7 @@ support-snapchat.fr
 support-snapchat-france.fr
 supportsncf.fr
 supportsnetfiix.fr
+supports-netfllx.fr
 support-societegenerale.fr
 support-societegeneral.fr
 supports-securite.fr
@@ -9499,6 +9533,7 @@ u-montpellier3.fr
 unbog.fr
 underarmourchaussures.fr
 underarmouroutlet.fr
+uni-angers.fr
 uniguide.fr
 uni-littoral.fr
 uni-tlse3.fr
@@ -9559,6 +9594,7 @@ utauniv-lyon2.fr
 utrace.fr
 utyg.pm
 uugy.fr
+uuniv-fcomte.fr
 u-watch.fr
 uwestore.fr
 uwnd.fr
@@ -9639,6 +9675,7 @@ verification-login.fr
 verification-logins.fr
 verification-netflix-login.fr
 verification-orange.fr
+verification-paiement.fr
 verificationpaymentlogin.fr
 verification-ppl.fr
 verification-rapide.fr
@@ -9917,6 +9954,7 @@ winns.fr
 wirl.fr
 wivy.yt
 wkipedia.fr
+wlequipe.fr
 wmty.yt
 wnadoo.fr
 wnathan.fr
