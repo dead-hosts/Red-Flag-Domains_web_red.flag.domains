@@ -1,16 +1,34 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 1,
-        "KEY-SYSTEMS GmbH": 8,
-        "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 11
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 2,
+        "EPAG Domainservices GmbH": 1,
+        "GRANSY s.r.o.": 3,
+        "Infomaniak Network SA": 1,
+        "KEY-SYSTEMS GmbH": 30,
+        "LINKWEB": 1,
+        "Metaregistrar BV": 1,
+        "OVH": 5,
+        "Realtime Register B.V.": 6,
+        "SAS Ligne Web Services - LWS": 3,
+        "Sarek Oy": 1,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 56
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 9.090909090909092,
-        "KEY-SYSTEMS GmbH": 72.72727272727273,
-        "Realtime Register B.V.": 9.090909090909092,
-        "SAS Ligne Web Services - LWS": 9.090909090909092,
-        "total": 100.00000000000001
+        "1API GmbH": 1.7857142857142858,
+        "AMEN / Agence des Médias Numériques": 3.5714285714285716,
+        "EPAG Domainservices GmbH": 1.7857142857142858,
+        "GRANSY s.r.o.": 5.357142857142857,
+        "Infomaniak Network SA": 1.7857142857142858,
+        "KEY-SYSTEMS GmbH": 53.57142857142857,
+        "LINKWEB": 1.7857142857142858,
+        "Metaregistrar BV": 1.7857142857142858,
+        "OVH": 8.928571428571429,
+        "Realtime Register B.V.": 10.714285714285714,
+        "SAS Ligne Web Services - LWS": 5.357142857142857,
+        "Sarek Oy": 1.7857142857142858,
+        "TLD Registrar Solutions Ltd": 1.7857142857142858,
+        "total": 100.00000000000003
     }
 }
