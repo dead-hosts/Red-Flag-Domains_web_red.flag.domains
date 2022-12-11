@@ -1,26 +1,28 @@
 {
     "counter": {
         "AMEN / Agence des Médias Numériques": 2,
-        "GRANSY s.r.o.": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "GRANSY s.r.o.": 4,
+        "Hosting Concepts B.V. d/b/a Openprovider": 4,
         "InterNetX GmbH": 1,
-        "KEY-SYSTEMS GmbH": 6,
-        "OVH": 3,
+        "KEY-SYSTEMS GmbH": 20,
+        "OVH": 5,
         "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 2,
+        "SAS Ligne Web Services - LWS": 3,
+        "TLD Registrar Solutions Ltd": 1,
         "VIADUC": 1,
-        "total": 19
+        "total": 42
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 10.526315789473685,
-        "GRANSY s.r.o.": 5.2631578947368425,
-        "Hosting Concepts B.V. d/b/a Openprovider": 10.526315789473685,
-        "InterNetX GmbH": 5.2631578947368425,
-        "KEY-SYSTEMS GmbH": 31.57894736842105,
-        "OVH": 15.789473684210526,
-        "Realtime Register B.V.": 5.2631578947368425,
-        "SAS Ligne Web Services - LWS": 10.526315789473685,
-        "VIADUC": 5.2631578947368425,
+        "AMEN / Agence des Médias Numériques": 4.761904761904762,
+        "GRANSY s.r.o.": 9.523809523809524,
+        "Hosting Concepts B.V. d/b/a Openprovider": 9.523809523809524,
+        "InterNetX GmbH": 2.380952380952381,
+        "KEY-SYSTEMS GmbH": 47.61904761904762,
+        "OVH": 11.904761904761905,
+        "Realtime Register B.V.": 2.380952380952381,
+        "SAS Ligne Web Services - LWS": 7.142857142857143,
+        "TLD Registrar Solutions Ltd": 2.380952380952381,
+        "VIADUC": 2.380952380952381,
         "total": 100.0
     }
 }
