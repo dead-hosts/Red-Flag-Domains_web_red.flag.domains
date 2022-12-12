@@ -1,4 +1,4 @@
-#last-update:2022-12-10
+#last-update:2022-12-11
 000.tf
 000webhost.fr
 00308.yt
@@ -3401,10 +3401,12 @@ chaussuresallbirdsparis.fr
 chaussuresalomonfrance.fr
 chaussuresarafrance.fr
 chaussuresaramagasins.fr
+chaussuresasolo.fr
 chaussuresbrunatefrance.fr
 chaussuresbrunateparis.fr
 chaussures-cat.fr
 chaussuresgaborsoldes.fr
+chaussuresgeoxfrance.fr
 chaussuresjordan.fr
 chaussuresjoyafrance.fr
 chaussures-keds.fr
@@ -3480,6 +3482,7 @@ chronopost-consignation.fr
 chronopost-contact.fr
 chronopost-courrier.fr
 chronopost-csuivi.fr
+chronopostdelai.fr
 chronopost-delivery.fr
 chronopost-distribution.fr
 chronopost-domicile.fr
@@ -3507,6 +3510,7 @@ chronopostgestion.fr
 chronopost-gestions.fr
 chronopost-help.fr
 chronopost-inf.fr
+chronopost-info-colis.fr
 chronopostinfo.fr
 chronopost-information.fr
 chronopost-infos.fr
@@ -3523,6 +3527,7 @@ chronopost-livrer.fr
 chronopost-login.fr
 chronopost-logistics.fr
 chronopost-logistique.fr
+chronopostlogistique.fr
 chronopost-logistiques.fr
 chronopost-ma-livraison.fr
 chronopost-malivraison.fr
@@ -3558,6 +3563,7 @@ chronopost-sms.fr
 chronopost-stock.fr
 chronopost-suivi-coiis.fr
 chronopost-suivi-colis.fr
+chronopostsuivi-colis.fr
 chronopost-suivicommande.fr
 chronopost-suividecommande.fr
 chronopost-suividucolis.fr
@@ -3723,6 +3729,7 @@ cofidix.fr
 coiis-chronopost.fr
 coilissimo.fr
 colis-acheminement.fr
+colis-chrono.fr
 colischronopostfacturation.fr
 colis-chrono-post.fr
 colis-chronopost-suivi.fr
@@ -3908,6 +3915,7 @@ connexion-disney.fr
 connexion-espace-client.fr
 connexion-espaceclient.fr
 connexionespacepersomaj.fr
+connexion-fb.fr
 connexion-info.fr
 connexionlbc.fr
 connexion-mabanquebnpparibas.fr
@@ -4378,6 +4386,7 @@ disneyplus-formulaire.fr
 disneyplusfruhqed.fr
 disneyplus-help.fr
 disneyplushqedmdr.fr
+disney-plus-info.fr
 disneyplusofficiel.fr
 disneyplus-regularisation.fr
 disney-pluss.fr
@@ -4623,6 +4632,7 @@ erobot-pisicne.fr
 erogames.fr
 erreur-chronopost.fr
 ertbaudet.fr
+esapcegouv-critair.fr
 escplus.fr
 e-serviceleboncoin.fr
 eservice-netfillx.fr
@@ -4710,6 +4720,7 @@ espace-clients-ameli.fr
 espaceclients-ameli.fr
 espaceclients-connexion.fr
 espaceclients-cpam.fr
+espaceclients-disney.fr
 espaceclients-disneyvod.fr
 espace-clientsecu.fr
 espaceclient-service.fr
@@ -5645,6 +5656,7 @@ information-espaceclient.fr
 information-espaceclients.fr
 information-impots.fr
 information-macartevitale.fr
+information-netflix.fr
 information-personnel.fr
 informations-ameli.fr
 informationsameli.fr
@@ -5997,6 +6009,7 @@ lahh.pm
 laiberation.fr
 laissepastrainertonsite.fr
 lajna.fr
+lalivraisonchronopost.fr
 lama-ole-nydahl.fr
 lamlsace.fr
 lamontgne.fr
@@ -6086,6 +6099,9 @@ ldzlt.pm
 learedoute.fr
 leb0ncoin.fr
 lebanquepostale.fr
+lebar01send.fr
+lebar02send.fr
+lebar03send.fr
 lebeecoin.fr
 lebnocion.fr
 leboncoan.fr
@@ -6802,6 +6818,7 @@ monespace-edf.fr
 monespace-energie.fr
 monespace-expiration.fr
 monespacegenerale.fr
+monespacegouv-critair.fr
 monespace-info.fr
 monespacelabanquepostale.fr
 monespace-lcl-connexion.fr
@@ -6867,6 +6884,7 @@ mon-paypal.fr
 monplanvitale.fr
 mon-plug-anal.fr
 monportail-client.fr
+monportail-disney.fr
 monppaiement.fr
 monprofil-ameli.fr
 mon-renouveiiement-netfiix.fr
@@ -7310,6 +7328,7 @@ nikefrancestore.fr
 nike--huarache.fr
 nikeinc.fr
 nike-maxshoes.fr
+nikeoutlet.fr
 nikepaschere.fr
 nike-paschers.fr
 nike-soldes.fr
@@ -9181,6 +9200,7 @@ suivi-chrono-post.fr
 suivichronopost.fr
 suivichronopostfrance.fr
 suivi-chronopost-livraison.fr
+suivichronopostlivraison.fr
 suiviclient-chronopost.fr
 suiviclients-chronopost.fr
 suivi-colis-chrono.fr
@@ -9513,6 +9533,7 @@ tourismelenslievin.fr
 tpepascher.fr
 tracfin-france.fr
 track-chronopost.fr
+tracker-chronopost.fr
 track-suivi-chronopost.fr
 tradeinn.fr
 traitementdesinfos.fr
@@ -9586,6 +9607,7 @@ univ-loiret45.fr
 univ-lyon-3.fr
 univ-montpelier.fr
 univ-murs.fr
+univ-nimes.fr
 univ-paris10.fr
 univ-paris-decartes.fr
 univ-paris-didero.fr
