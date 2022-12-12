@@ -1,16 +1,18 @@
 {
     "counter": {
         "GRANSY s.r.o.": 3,
-        "KEY-SYSTEMS GmbH": 18,
+        "KEY-SYSTEMS GmbH": 25,
         "OVH": 2,
         "Sarek Oy": 1,
-        "total": 24
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 32
     },
     "percentage": {
-        "GRANSY s.r.o.": 12.5,
-        "KEY-SYSTEMS GmbH": 75.0,
-        "OVH": 8.333333333333334,
-        "Sarek Oy": 4.166666666666667,
+        "GRANSY s.r.o.": 9.375,
+        "KEY-SYSTEMS GmbH": 78.125,
+        "OVH": 6.25,
+        "Sarek Oy": 3.125,
+        "TLD Registrar Solutions Ltd": 3.125,
         "total": 100.0
     }
 }
