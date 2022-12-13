@@ -1,3 +1,4 @@
+_retries: 3
 cli_decoding:
     adblock: false
     adblock_aggressive: false
@@ -148,18 +149,6 @@ lookup:
     timeout: 5
     whois: true
 max_http_retries: 3
-proxy:
-    global:
-        http: null
-        https: null
-    rules: []
-share_logs: false
-user_agent:
-    browser: chrome
-    custom: null
-    platform: linux
-verify_ssl_certificate: false
-_retries: 3
 proxy:
     global:
         http: null
