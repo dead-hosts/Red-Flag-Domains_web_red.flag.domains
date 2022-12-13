@@ -1,14 +1,24 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 9,
-        "KEY-SYSTEMS GmbH": 6,
+        "Hosting Concepts B.V. d/b/a Openprovider": 30,
+        "KEY-SYSTEMS GmbH": 11,
         "Name.com LLC": 1,
-        "total": 16
+        "OVH": 1,
+        "One.com A/S": 1,
+        "Realtime Register B.V.": 6,
+        "SAS Ligne Web Services - LWS": 1,
+        "Sarek Oy": 1,
+        "total": 52
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 56.25,
-        "KEY-SYSTEMS GmbH": 37.5,
-        "Name.com LLC": 6.25,
-        "total": 100.0
+        "Hosting Concepts B.V. d/b/a Openprovider": 57.69230769230769,
+        "KEY-SYSTEMS GmbH": 21.153846153846153,
+        "Name.com LLC": 1.9230769230769231,
+        "OVH": 1.9230769230769231,
+        "One.com A/S": 1.9230769230769231,
+        "Realtime Register B.V.": 11.538461538461538,
+        "SAS Ligne Web Services - LWS": 1.9230769230769231,
+        "Sarek Oy": 1.9230769230769231,
+        "total": 99.99999999999997
     }
 }
