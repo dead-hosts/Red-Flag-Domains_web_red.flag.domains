@@ -1,16 +1,38 @@
 {
     "counter": {
-        "FRENCH CONNEXION": 1,
-        "GANDI": 1,
-        "KEY-SYSTEMS GmbH": 6,
-        "Realtime Register B.V.": 1,
-        "total": 9
+        "AMEN / Agence des Médias Numériques": 1,
+        "FRENCH CONNEXION": 2,
+        "GANDI": 2,
+        "GRANSY s.r.o.": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 28,
+        "OVH": 4,
+        "One.com A/S": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Realtime Register B.V.": 5,
+        "SAS Ligne Web Services - LWS": 2,
+        "SCALEWAY": 1,
+        "Sarek Oy": 1,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 55
     },
     "percentage": {
-        "FRENCH CONNEXION": 11.11111111111111,
-        "GANDI": 11.11111111111111,
-        "KEY-SYSTEMS GmbH": 66.66666666666667,
-        "Realtime Register B.V.": 11.11111111111111,
-        "total": 100.0
+        "AMEN / Agence des Médias Numériques": 1.8181818181818181,
+        "FRENCH CONNEXION": 3.6363636363636362,
+        "GANDI": 3.6363636363636362,
+        "GRANSY s.r.o.": 1.8181818181818181,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3.6363636363636362,
+        "IONOS SE": 3.6363636363636362,
+        "KEY-SYSTEMS GmbH": 50.90909090909091,
+        "OVH": 7.2727272727272725,
+        "One.com A/S": 3.6363636363636362,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.8181818181818181,
+        "Realtime Register B.V.": 9.090909090909092,
+        "SAS Ligne Web Services - LWS": 3.6363636363636362,
+        "SCALEWAY": 1.8181818181818181,
+        "Sarek Oy": 1.8181818181818181,
+        "TLD Registrar Solutions Ltd": 1.8181818181818181,
+        "total": 99.99999999999999
     }
 }
