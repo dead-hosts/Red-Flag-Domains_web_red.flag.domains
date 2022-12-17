@@ -1,36 +1,22 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 1,
-        "EURODNS S.A.": 1,
-        "GANDI": 2,
-        "GRANSY s.r.o.": 3,
-        "Hosting Concepts B.V. d/b/a Openprovider": 6,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 37,
-        "Name.com LLC": 1,
-        "OVH": 3,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
-        "Realtime Register B.V.": 10,
-        "SCALEWAY": 1,
-        "TLD Registrar Solutions Ltd": 5,
-        "total": 79
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "IONOS SE": 3,
+        "KEY-SYSTEMS GmbH": 13,
+        "OVH": 2,
+        "Realtime Register B.V.": 1,
+        "TLD Registrar Solutions Ltd": 1,
+        "Vautron Rechenzentrum AG": 1,
+        "total": 23
     },
     "percentage": {
-        "1API GmbH": 1.2658227848101267,
-        "AMEN / Agence des Médias Numériques": 1.2658227848101267,
-        "EURODNS S.A.": 1.2658227848101267,
-        "GANDI": 2.5316455696202533,
-        "GRANSY s.r.o.": 3.7974683544303796,
-        "Hosting Concepts B.V. d/b/a Openprovider": 7.594936708860759,
-        "IONOS SE": 2.5316455696202533,
-        "KEY-SYSTEMS GmbH": 46.835443037974684,
-        "Name.com LLC": 1.2658227848101267,
-        "OVH": 3.7974683544303796,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.594936708860759,
-        "Realtime Register B.V.": 12.658227848101266,
-        "SCALEWAY": 1.2658227848101267,
-        "TLD Registrar Solutions Ltd": 6.329113924050633,
-        "total": 100.0
+        "Hosting Concepts B.V. d/b/a Openprovider": 8.695652173913043,
+        "IONOS SE": 13.043478260869565,
+        "KEY-SYSTEMS GmbH": 56.52173913043478,
+        "OVH": 8.695652173913043,
+        "Realtime Register B.V.": 4.3478260869565215,
+        "TLD Registrar Solutions Ltd": 4.3478260869565215,
+        "Vautron Rechenzentrum AG": 4.3478260869565215,
+        "total": 99.99999999999999
     }
 }
