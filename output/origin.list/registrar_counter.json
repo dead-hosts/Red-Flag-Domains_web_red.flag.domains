@@ -1,22 +1,32 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "IONOS SE": 3,
-        "KEY-SYSTEMS GmbH": 13,
-        "OVH": 2,
-        "Realtime Register B.V.": 1,
-        "TLD Registrar Solutions Ltd": 1,
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 1,
+        "EURODNS S.A.": 1,
+        "GRANSY s.r.o.": 3,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3,
+        "IONOS SE": 6,
+        "KEY-SYSTEMS GmbH": 27,
+        "OVH": 8,
+        "One.com A/S": 1,
+        "Realtime Register B.V.": 8,
+        "TLD Registrar Solutions Ltd": 3,
         "Vautron Rechenzentrum AG": 1,
-        "total": 23
+        "total": 63
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 8.695652173913043,
-        "IONOS SE": 13.043478260869565,
-        "KEY-SYSTEMS GmbH": 56.52173913043478,
-        "OVH": 8.695652173913043,
-        "Realtime Register B.V.": 4.3478260869565215,
-        "TLD Registrar Solutions Ltd": 4.3478260869565215,
-        "Vautron Rechenzentrum AG": 4.3478260869565215,
-        "total": 99.99999999999999
+        "1API GmbH": 1.5873015873015872,
+        "AMEN / Agence des Médias Numériques": 1.5873015873015872,
+        "EURODNS S.A.": 1.5873015873015872,
+        "GRANSY s.r.o.": 4.761904761904762,
+        "Hosting Concepts B.V. d/b/a Openprovider": 4.761904761904762,
+        "IONOS SE": 9.523809523809524,
+        "KEY-SYSTEMS GmbH": 42.857142857142854,
+        "OVH": 12.698412698412698,
+        "One.com A/S": 1.5873015873015872,
+        "Realtime Register B.V.": 12.698412698412698,
+        "TLD Registrar Solutions Ltd": 4.761904761904762,
+        "Vautron Rechenzentrum AG": 1.5873015873015872,
+        "total": 99.99999999999997
     }
 }
