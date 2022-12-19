@@ -1,10 +1,14 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 5,
-        "total": 5
+        "KEY-SYSTEMS GmbH": 21,
+        "Realtime Register B.V.": 2,
+        "SAS Ligne Web Services - LWS": 1,
+        "total": 24
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
+        "KEY-SYSTEMS GmbH": 87.5,
+        "Realtime Register B.V.": 8.333333333333334,
+        "SAS Ligne Web Services - LWS": 4.166666666666667,
         "total": 100.0
     }
 }
