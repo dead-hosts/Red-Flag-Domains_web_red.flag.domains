@@ -1,14 +1,16 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 21,
-        "Realtime Register B.V.": 2,
+        "AMEN / Agence des Médias Numériques": 1,
+        "KEY-SYSTEMS GmbH": 24,
+        "Realtime Register B.V.": 3,
         "SAS Ligne Web Services - LWS": 1,
-        "total": 24
+        "total": 29
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 87.5,
-        "Realtime Register B.V.": 8.333333333333334,
-        "SAS Ligne Web Services - LWS": 4.166666666666667,
-        "total": 100.0
+        "AMEN / Agence des Médias Numériques": 3.4482758620689653,
+        "KEY-SYSTEMS GmbH": 82.75862068965517,
+        "Realtime Register B.V.": 10.344827586206897,
+        "SAS Ligne Web Services - LWS": 3.4482758620689653,
+        "total": 100.00000000000001
     }
 }
