@@ -1,4 +1,4 @@
-#last-update:2022-12-18
+#last-update:2022-12-19
 000.tf
 000webhost.fr
 00308.yt
@@ -1562,6 +1562,7 @@ aide-bnpparibas.fr
 aide-ca.fr
 aide-cartevital.fr
 aide-centre.fr
+aidechrono.fr
 aide-chronolivraison.fr
 aide-chronopost.fr
 aide-colis.fr
@@ -1700,6 +1701,7 @@ amazonannoncen.fr
 amazon-assistance.fr
 amazonassistance.fr
 amazonassistance-info.fr
+amazonboutique.fr
 amazoncompte.fr
 amazon-comptes.fr
 amazon-compte-suspendu.fr
@@ -3363,6 +3365,7 @@ centerdappel.fr
 centersparcs.fr
 centre-aide-paypal.fr
 centredelivraison-chronopost.fr
+centre-livraison-chronopost.fr
 centre-livraisonchronopost.fr
 centrelivraison-chronopost.fr
 centre-support.fr
@@ -3458,6 +3461,7 @@ chakllenges.fr
 chaliehebdo.fr
 challeges.fr
 changement-paiement.fr
+chargementnetflx-client.fr
 chatroll.fr
 chaturbate.re
 chaussureairjordan.fr
@@ -3544,6 +3548,7 @@ chronopostaide.fr
 chronopost-aides.fr
 chronopostaides.fr
 chronopost-aide-suivi.fr
+chronopostaid.fr
 chronopost-arrivage.fr
 chronopost-assistance.fr
 chronopost-bureau.fr
@@ -3559,6 +3564,7 @@ chrono-post-colis.fr
 chronopostcolis-sav.fr
 chronopost-colis-suivi.fr
 chronopost-colis-suivis.fr
+chronopost-collect.fr
 chronopost-commande.fr
 chronopost-consignation.fr
 chronopost-contact.fr
@@ -3639,6 +3645,7 @@ chronopost-paiements.fr
 chronopostparticulier.fr
 chronopost-pickup.fr
 chronopostpickup.fr
+chronopost-plateforme.fr
 chronopost-reception.fr
 chronopost-registre.fr
 chronopost-reglement.fr
@@ -3908,6 +3915,7 @@ compe-nickel.fr
 comptabilite-mcdonalds.fr
 compte-abonnement.fr
 compteabonnement.fr
+compte-abonnement-plus.fr
 compte-air-bnb.fr
 compteamazon.fr
 compteameli-cartevitale.fr
@@ -4899,6 +4907,7 @@ espacecritair.fr
 espace-demande.fr
 espace-disney.fr
 espacedisney.fr
+espace-disneyplus.fr
 espacedroits-cpam.fr
 espace-edf.fr
 espace-epargne.fr
@@ -5051,6 +5060,7 @@ facturation-abonnement.fr
 facturation-impayer.fr
 facturation-litige.fr
 facturation-netflix.fr
+facturation-orange.fr
 facturation-service.fr
 facturations-netfiix.fr
 facturations-netflix.fr
@@ -5236,6 +5246,7 @@ france-televions.fr
 francetelevisons.fr
 france-verif.fr
 france-verify-connect.fr
+francevignettecritairgouv.fr
 france-vinciconstruction.fr
 francostore.fr
 franetflixcompte.fr
@@ -5791,6 +5802,7 @@ infoimportant.fr
 info-impotsgouv.fr
 infoimpotsgouv.fr
 info-leboncoin.fr
+infolivraison.fr
 infomacartevitaleameli.fr
 info-macarte-vitale.fr
 info-macartevitale.fr
@@ -5827,11 +5839,14 @@ info-retriate.fr
 informa-clients.fr
 informa-espaceclient.fr
 informajourparticu.fr
+informas-client.fr
+informas-clients.fr
 informasecursante.fr
 informas-espaceclient.fr
 information-ameli.fr
 information-biling.fr
 information-client.fr
+information-colis.fr
 informationeclientpostale.fr
 information-espaceclient.fr
 information-espaceclients.fr
@@ -6453,7 +6468,9 @@ livesfoot.fr
 livezfoot.fr
 livraison-ameli.fr
 livraisoncarefour.fr
+livraison--centre-chronopost.fr
 livraison-chrono.fr
+livraisonchronopost24h.fr
 livraison-chrono-post.fr
 livraison-chronopost.fr
 livraisonchronopost.fr
@@ -6466,6 +6483,7 @@ livraison-interrompue.fr
 livraison-laposte.fr
 livraisons-ameli.fr
 livraisons-chronopost.fr
+livraisons-colisparticulier.fr
 livraison-suivie.fr
 livreral.fr
 livrval.fr
@@ -6573,6 +6591,7 @@ macaisseameli.fr
 macaisse-epargne.fr
 ma-caisse-epargne-normandie.fr
 macarteameii.fr
+macarteamelietmoi.fr
 ma-carteameli.fr
 macarteameli.fr
 macarte-assurance.fr
@@ -6680,6 +6699,7 @@ maladie-portail.fr
 maladie-vitale.fr
 maladie-vitale-gouve.fr
 ma-livraison-chronopost.fr
+malivraison-chronopost.fr
 malivraisonchronopost.fr
 ma-livraison-suivi.fr
 m-ameli.fr
@@ -7040,6 +7060,7 @@ mon-espace-cartevitale.fr
 monespace-cartevitale.fr
 mon-espace-cartevital.fr
 monespacechrono.fr
+mon-espace-chronopost.fr
 monespace-chronopost.fr
 monespacechronopost.fr
 mon-espace-client-cnp.fr
@@ -7109,6 +7130,7 @@ monespace-societegenerale.fr
 monespacesocietegenerale.fr
 monespacesocietegenerales.fr
 monespacesocietegeneral.fr
+mon-espace-suivi.fr
 monespacesuivi.fr
 monespaces-vitale.fr
 mon-espace-vitale.fr
@@ -7876,6 +7898,7 @@ particulierbnpparibas.fr
 particuliercaisseep.fr
 particulier-cic.fr
 particulierclientsecurbp.fr
+particulier-client-sg.fr
 particulier-cmb.fr
 particulier-cmso.fr
 particulier-creditmutuel.fr
@@ -8323,6 +8346,7 @@ reglement-edf.fr
 reglement-netflix.fr
 regularisation-abonnement.fr
 regularisation-ameli.fr
+regularisation-chronopost.fr
 regularisation-dsp2.fr
 regularisation-infos-sante.fr
 regularisation-netflix.fr
@@ -9176,6 +9200,7 @@ sfr-forfait-esim.fr
 sfr-forfait.fr
 sfr-forfait-mobile.fr
 sfr-forfait-mobile-france.fr
+sfr-forfaits.fr
 sfr-help.fr
 sfr-login.fr
 sfr-mafacture.fr
@@ -9540,6 +9565,7 @@ suivi-bps.fr
 suivi-cartes.fr
 suivi-chrono-express.fr
 suivichrono.fr
+suivi-chronolivraison.fr
 suivi-chronopost-colis.fr
 suivi-chronopost-commande.fr
 suivichronopost-critair.fr
@@ -9774,6 +9800,7 @@ support-tel.fr
 supportusers.fr
 support-validation-securisation.fr
 support-vitale.fr
+suppot-amzn.fr
 survarium.fr
 suspension-abonnement.fr
 suspension-colis.fr
@@ -9899,6 +9926,7 @@ tpepascher.fr
 tracfin-france.fr
 track-chronopost.fr
 tracker-chronopost.fr
+tracking-livraison.fr
 track-suivi-chronopost.fr
 tradeinn.fr
 traitementdesinfos.fr
@@ -9909,6 +9937,7 @@ transactionsleboncoins.fr
 transcashlogin.fr
 transcashrecharge.fr
 transecach-everificationsecur.fr
+transit-chronopost.fr
 transport-chronopost.fr
 triganot.fr
 trioadvisor.fr
@@ -10180,6 +10209,7 @@ vignette-certificat-air.fr
 vignette-certificati-air.fr
 vignette-critair-automobile.fr
 vignette-critair-certificat.fr
+vignettecritairfrancegouv.fr
 vignettecritairgouv.fr
 vignette-critair-gov.fr
 vignette-critairgov.fr
@@ -10235,6 +10265,7 @@ vitale-amlie.fr
 vitale-assistance.fr
 vitale-ass-s.fr
 vitale-assure.fr
+vitale-assur.fr
 vitale-carte.fr
 vitale-client.fr
 vitale-compte.fr
@@ -10365,6 +10396,7 @@ webpaypal.fr
 web-poste.fr
 web-snapchat.fr
 websnapchat.fr
+websocietegenerale.fr
 webvitale.fr
 webwikis.fr
 weert.yt

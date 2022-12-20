@@ -1,16 +1,18 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 1,
-        "KEY-SYSTEMS GmbH": 24,
-        "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 29
+        "GANDI": 1,
+        "KEY-SYSTEMS GmbH": 7,
+        "Name SRS AB": 1,
+        "Name.com LLC": 1,
+        "OVH": 1,
+        "total": 11
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 3.4482758620689653,
-        "KEY-SYSTEMS GmbH": 82.75862068965517,
-        "Realtime Register B.V.": 10.344827586206897,
-        "SAS Ligne Web Services - LWS": 3.4482758620689653,
-        "total": 100.00000000000001
+        "GANDI": 9.090909090909092,
+        "KEY-SYSTEMS GmbH": 63.63636363636363,
+        "Name SRS AB": 9.090909090909092,
+        "Name.com LLC": 9.090909090909092,
+        "OVH": 9.090909090909092,
+        "total": 100.0
     }
 }
