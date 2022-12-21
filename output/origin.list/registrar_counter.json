@@ -1,32 +1,16 @@
 {
     "counter": {
-        "GANDI": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 3,
-        "KEY-SYSTEMS GmbH": 74,
-        "Metaregistrar BV": 1,
-        "NETIM": 1,
-        "Name SRS AB": 1,
-        "Name.com LLC": 2,
-        "OVH": 5,
-        "PLANETHOSTER": 1,
-        "Realtime Register B.V.": 5,
-        "SAS Ligne Web Services - LWS": 2,
-        "TLD Registrar Solutions Ltd": 3,
-        "total": 99
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 5,
+        "OVH": 1,
+        "Realtime Register B.V.": 3,
+        "total": 10
     },
     "percentage": {
-        "GANDI": 1.0101010101010102,
-        "Hosting Concepts B.V. d/b/a Openprovider": 3.0303030303030303,
-        "KEY-SYSTEMS GmbH": 74.74747474747475,
-        "Metaregistrar BV": 1.0101010101010102,
-        "NETIM": 1.0101010101010102,
-        "Name SRS AB": 1.0101010101010102,
-        "Name.com LLC": 2.0202020202020203,
-        "OVH": 5.05050505050505,
-        "PLANETHOSTER": 1.0101010101010102,
-        "Realtime Register B.V.": 5.05050505050505,
-        "SAS Ligne Web Services - LWS": 2.0202020202020203,
-        "TLD Registrar Solutions Ltd": 3.0303030303030303,
-        "total": 100.00000000000001
+        "IONOS SE": 10.0,
+        "KEY-SYSTEMS GmbH": 50.0,
+        "OVH": 10.0,
+        "Realtime Register B.V.": 30.0,
+        "total": 100.0
     }
 }
