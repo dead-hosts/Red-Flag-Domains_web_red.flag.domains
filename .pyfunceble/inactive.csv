@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-suppot-amzn.fr,AVAILABILITY,origin.list,2022-12-20 06:11:34.528437
 websocietegenerale.fr,AVAILABILITY,origin.list,2022-12-20 06:24:04.190419
 amazon-suspend.fr,AVAILABILITY,origin.list,2022-12-20 06:29:55.007364
 sgagence-societegenerale.fr,AVAILABILITY,origin.list,2022-12-20 06:29:55.082881
@@ -2647,3 +2646,4 @@ cpamcartevitale.fr,AVAILABILITY,origin.list,2022-12-20 06:52:46.475706
 ameligouvfr.fr,AVAILABILITY,origin.list,2022-12-20 06:52:46.528946
 cpamfrance.fr,AVAILABILITY,origin.list,2022-12-20 06:52:46.800605
 couponpcs.fr,AVAILABILITY,origin.list,2022-12-20 06:52:46.845110
+suppot-amzn.fr,AVAILABILITY,origin.list,2022-12-21 06:32:21.195390
