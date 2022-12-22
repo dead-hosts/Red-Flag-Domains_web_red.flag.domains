@@ -1,28 +1,12 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 2,
-        "GRANSY s.r.o.": 2,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 50,
-        "OVH": 2,
-        "Realtime Register B.V.": 9,
-        "SAS Ligne Web Services - LWS": 1,
-        "SONEXO B.V": 1,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 72
+        "AMEN / Agence des Médias Numériques": 1,
+        "KEY-SYSTEMS GmbH": 3,
+        "total": 4
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 2.7777777777777777,
-        "GRANSY s.r.o.": 2.7777777777777777,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.7777777777777777,
-        "IONOS SE": 1.3888888888888888,
-        "KEY-SYSTEMS GmbH": 69.44444444444444,
-        "OVH": 2.7777777777777777,
-        "Realtime Register B.V.": 12.5,
-        "SAS Ligne Web Services - LWS": 1.3888888888888888,
-        "SONEXO B.V": 1.3888888888888888,
-        "TLD Registrar Solutions Ltd": 2.7777777777777777,
-        "total": 99.99999999999997
+        "AMEN / Agence des Médias Numériques": 25.0,
+        "KEY-SYSTEMS GmbH": 75.0,
+        "total": 100.0
     }
 }

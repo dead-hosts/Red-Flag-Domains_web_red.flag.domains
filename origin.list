@@ -1,4 +1,4 @@
-#last-update:2022-12-20
+#last-update:2022-12-21
 000.tf
 000webhost.fr
 00308.yt
@@ -1379,6 +1379,7 @@ achantelecom.fr
 achatleboncoin.fr
 achatpermifrancais.fr
 achats-fnac.fr
+acheminement-chrono.fr
 acheminement-chronopost.fr
 acheminement-info.fr
 acheminement-laposte.fr
@@ -1548,6 +1549,7 @@ agla.fr
 agn-cybertek.fr
 agonia.fr
 agri-activation.fr
+agricole-ca.fr
 agricoleopt-verif.fr
 agricol-secure.fr
 agri-securicode.fr
@@ -2782,6 +2784,7 @@ auth-suivi-chronopost.fr
 auth-support-chronopost.fr
 authverification.fr
 authverified.fr
+auth-verifyclt.fr
 auto-entrereneur.fr
 automedik.fr
 automobible.fr
@@ -2846,6 +2849,7 @@ banque-defrance.fr
 banquede-france.fr
 banquedefrance-secure.fr
 banquedefrance-securepass.fr
+banque-dsp2.fr
 banque-federale.fr
 banque-france-dsp2.fr
 banque-hsbc.fr
@@ -2887,6 +2891,7 @@ bbcode.fr
 bboss.fr
 bcoinlbc.fr
 bd3h.yt
+bd48xz-societegenerale.fr
 bdsm-fantaisie.fr
 bdvoltaire.fr
 beauten.fr
@@ -3548,6 +3553,7 @@ chronopost-accueil.fr
 chronopost-acheminement-colis.fr
 chronopost-acheminementcolis.fr
 chronopost-acheminement.fr
+chronopostacheminement.fr
 chronopost-acheminement-secure.fr
 chronopost-acheminements.fr
 chronopost-acheminent.fr
@@ -3569,7 +3575,9 @@ chronopost-client-france.fr
 chronopost-client-service.fr
 chronopost-clients.fr
 chronopostclients.fr
+chronopost-client-support-france.fr
 chronopost-coiis.fr
+chronopostcoiis.fr
 chrono-post-colis.fr
 chronopostcolis-sav.fr
 chronopost-colis-suivi.fr
@@ -3586,6 +3594,7 @@ chronopost-delivery.fr
 chronopost-distribution.fr
 chronopost-domicile.fr
 chronopostdomicile.fr
+chronopost-douane.fr
 chronopost-douanes.fr
 chronopost-dpd-verif.fr
 chronopost-drive.fr
@@ -3623,11 +3632,13 @@ chronopost-information.fr
 chronopost-infos.fr
 chronopost-info-suivie.fr
 chronopost-info-suivi.fr
+chronopostinfosuivi.fr
 chronopost-instruction.fr
 chronopost-instructions.fr
 chronopost-interruption.fr
 chronopost-laposte.fr
 chronopost-livraison-aide.fr
+chronopost-livraison-delai.fr
 chrono-post-livraison.fr
 chronopostlivraison.fr
 chronopost-livraison-info.fr
@@ -3682,6 +3693,7 @@ chronopostservices.fr
 chronoposts-livraison.fr
 chronopost-sms.fr
 chronopost-stock.fr
+chronopost-suiviacheminement.fr
 chronopost-suivi-coiis.fr
 chronopost-suivi-colis.fr
 chronopostsuivi-colis.fr
@@ -3876,6 +3888,7 @@ colisismo.fr
 colispost.fr
 colispost-suivi.fr
 colisprove.fr
+colisrelais.fr
 colissimo-agence.fr
 colissimo-client.fr
 colissimo-contact.fr
@@ -4693,6 +4706,7 @@ ecirque.fr
 eckosport.fr
 ecosolaris.fr
 ecowatt-edf.fr
+ed49vy-societegenerale.fr
 ed96xy-societegenerale.fr
 edecideur.fr
 edf-agence.fr
@@ -5011,6 +5025,7 @@ espacli.fr
 espaparticulieca.fr
 espclientcolis.fr
 espclientservice.fr
+espparticul2022.fr
 espub.fr
 et49vh-societegenerale.fr
 etape-ameli.fr
@@ -5041,10 +5056,12 @@ eurospoprt.fr
 eu-snapchat.fr
 euw-snapchat.fr
 eviebot.fr
+evolumagsas.fr
 evrisure.fr
 evz.re
 ewea.fr
 ex96va-societegenerale.fr
+exaprin.fr
 exchangemarket.fr
 exelformation.fr
 exepdia.fr
@@ -5188,6 +5205,7 @@ formulaire-assurance.fr
 formulaire-assurancemaladie-ameli.fr
 formulaire-assurancemaladie-cartevitale.fr
 formulaireassurancemaladie.fr
+formulaire-assurance-sante.fr
 formulaire-assurancesante.fr
 formulaire-assure.fr
 formulaire-assurevital.fr
@@ -5247,6 +5265,7 @@ franceameli.fr
 france-assurance-maladie.fr
 francebootball.fr
 francebqsecu.fr
+france-chronopost.fr
 franceconnectameli.fr
 france-connexion-support.fr
 francecoupon.fr
@@ -5408,6 +5427,7 @@ googleia.fr
 googleimage.fr
 googlemaii.fr
 google-mail.fr
+googlenow.fr
 google-security.fr
 googlesupport.fr
 googletagmanager.fr
@@ -5483,6 +5503,7 @@ groupe-ca-info.fr
 groupecanal.fr
 groupecible.fr
 groupe-creditdunord.fr
+groupe-credit-mutuel.fr
 groupe-cybertek.fr
 groupecybertek.fr
 groupe-econocom.fr
@@ -5685,6 +5706,7 @@ igendarmerie.fr
 ignitioncasino.fr
 ihtz.fr
 iiey.fr
+iinsa-lyon.fr
 ikarus342000.fr
 ikebana-store.fr
 iledefrance-mutualite.fr
@@ -6001,6 +6023,7 @@ info-suivi-chronopost.fr
 infosuivi-chronopost.fr
 info-suivi-colis.fr
 infosuivi-colis.fr
+info-suivie.fr
 info-supports.fr
 infos-vitale.fr
 infosvitale.fr
@@ -6018,6 +6041,7 @@ ing-secure.fr
 inload-leboncoin.fr
 innoveox.fr
 inoreader.fr
+inrj.fr
 insatgram.fr
 inseee.fr
 inspectionparticuliers.fr
@@ -6222,6 +6246,7 @@ lacaisse-depargne.fr
 la-caisse-epargne.fr
 lacaisse-epargnes.fr
 lacartevitale-ameli.fr
+lacartevitaleameli.fr
 la-carte-vitale.fr
 lacartevitalepourtous.fr
 lac-bordeaux-cybertek.fr
@@ -6347,6 +6372,9 @@ lebar03send.fr
 lebar04send.fr
 lebar05send.fr
 lebar06send.fr
+lebar07send.fr
+lebar08send.fr
+lebar09send.fr
 lebeecoin.fr
 lebnocion.fr
 leboncoan.fr
@@ -6378,6 +6406,7 @@ leboncon-sale-transaction-2926503910.fr
 lebonecoin.fr
 lebooncoin.fr
 lebopncoin.fr
+lebosncoin.fr
 le-chineur.fr
 leclercrive.fr
 leclerc-socamaine.fr
@@ -6460,6 +6489,7 @@ lhgyn.yt
 l-histoire.fr
 lhok.pm
 liaz.fr
+liberafion.fr
 liberatiobn.fr
 liberationt.fr
 liberatiuon.fr
@@ -6498,6 +6528,7 @@ livraison-chronopost.fr
 livraisonchronopost.fr
 livraison-colis-chrono-post.fr
 livraison-colis-chronopost.fr
+livraison-colis-chronopost-france.fr
 livraison-colis.fr
 livraison-commande-chronopost.fr
 livraison-info.fr
@@ -6583,6 +6614,7 @@ lyophililse.fr
 m0ud0u-fucker.fr
 m20minutes.fr
 m6distribution-digital.fr
+m6i.fr
 maanageo.fr
 mabanque-assur.fr
 mabanque-bnparib.fr
@@ -6745,6 +6777,7 @@ mariaje.fr
 marie-gerardmer.fr
 marinescence.fr
 marionnau.fr
+marlinkeventssas.fr
 ma-rubrique-amelie.fr
 ma-rubrique-ameli.fr
 masanteameli.fr
@@ -6775,6 +6808,7 @@ m-carrefour.fr
 mcartevitale-ameli.fr
 mc-cybertek.fr
 mc-do.fr
+mcdonlads.fr
 mcfgvt.fr
 mcir0osoft.fr
 mcleaks.fr
@@ -6925,6 +6959,7 @@ mise-a-jour-moncompte-ppal.fr
 missdiva.fr
 missetam.fr
 missfronce.fr
+mistrasgroupsas.fr
 m-labanquepostale.fr
 mlefigaro.fr
 mnecraft.fr
@@ -7679,6 +7714,7 @@ notif-alertesg.fr
 notification-ameli.fr
 notification-assurance.fr
 notification-carefour.fr
+notification-chronopost.fr
 notificationmailinfos.fr
 notification-netflix.fr
 notificationsacces-ca.fr
@@ -7726,6 +7762,7 @@ obozchaussures.fr
 obvy-pay-app.fr
 occasneaks.fr
 oclopes.fr
+odeonsas.fr
 odtl.fr
 oechestra.fr
 oeee.pm
@@ -7968,6 +8005,7 @@ particuliersg.fr
 particulier-sg-secure.fr
 particuliers-impots.fr
 particuliers-lbp.fr
+particulierslivraisons-colis.fr
 particuliers-mabanque-bnpparibas.fr
 particuliers-messageriemail.fr
 particuliers-messagerieprive.fr
@@ -8085,6 +8123,7 @@ peomod.fr
 peoplefinders.fr
 pepsimetaverse.fr
 percantil.fr
+percevalgouv.fr
 peremiere.fr
 permisdeconduire-ants.fr
 permisdeconduireantsgouv.fr
@@ -8110,6 +8149,7 @@ pikolinosfrance.fr
 pillowpets.fr
 pinayflix.re
 pinterest.re
+pirtekhydrauliqueservicesas.fr
 pkia.fr
 pl02amazo.fr
 plagtracker.fr
@@ -8703,6 +8743,7 @@ sante-vitale-infos.fr
 sante-vital.fr
 sanukshoes.fr
 saojq.yt
+saroulsas.fr
 sartoriz.fr
 sas-auchan.fr
 sashasneakers.fr
@@ -8732,6 +8773,7 @@ seconnecterbanquepopulaire.fr
 seconnecter-secure.fr
 secourspaypal.fr
 secpaydirect.fr
+secpayle-bonc.fr
 secretosdelagua.fr
 secu-activation.fr
 secuameli.fr
@@ -8741,6 +8783,7 @@ secu-caisse-epargne.fr
 secu-carte-vitale.fr
 secucvitaleinfo.fr
 secuespacepers.fr
+secuespapersoaj.fr
 secufactuenerg.fr
 secuinfovitale.fr
 secupay-lebonc.fr
@@ -10130,6 +10173,7 @@ vdyr.yt
 vehicule-information.fr
 ventespriveesfrancaises.fr
 veoneerfrancesas.fr
+verbtbaudet.fr
 verfication-edf.fr
 verif-aides.fr
 verif-ameli-carte-vital.fr
