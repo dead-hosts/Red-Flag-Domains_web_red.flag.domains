@@ -1,12 +1,20 @@
 {
     "counter": {
         "AMEN / Agence des Médias Numériques": 1,
-        "KEY-SYSTEMS GmbH": 3,
-        "total": 4
+        "Catchtiger B.V.": 1,
+        "KEY-SYSTEMS GmbH": 23,
+        "Marcaria.com International Inc.": 1,
+        "SAS Ligne Web Services - LWS": 2,
+        "Sarek Oy": 1,
+        "total": 29
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 25.0,
-        "KEY-SYSTEMS GmbH": 75.0,
-        "total": 100.0
+        "AMEN / Agence des Médias Numériques": 3.4482758620689653,
+        "Catchtiger B.V.": 3.4482758620689653,
+        "KEY-SYSTEMS GmbH": 79.3103448275862,
+        "Marcaria.com International Inc.": 3.4482758620689653,
+        "SAS Ligne Web Services - LWS": 6.896551724137931,
+        "Sarek Oy": 3.4482758620689653,
+        "total": 100.00000000000001
     }
 }
