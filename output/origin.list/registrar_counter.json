@@ -4,21 +4,23 @@
         "GRANSY s.r.o.": 1,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 20,
+        "KEY-SYSTEMS GmbH": 23,
         "OVH": 1,
+        "One.com A/S": 2,
         "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 33
+        "SAS Ligne Web Services - LWS": 2,
+        "total": 39
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 9.090909090909092,
-        "GRANSY s.r.o.": 3.0303030303030303,
-        "Hosting Concepts B.V. d/b/a Openprovider": 6.0606060606060606,
-        "IONOS SE": 6.0606060606060606,
-        "KEY-SYSTEMS GmbH": 60.60606060606061,
-        "OVH": 3.0303030303030303,
-        "Realtime Register B.V.": 9.090909090909092,
-        "SAS Ligne Web Services - LWS": 3.0303030303030303,
+        "AMEN / Agence des Médias Numériques": 7.6923076923076925,
+        "GRANSY s.r.o.": 2.5641025641025643,
+        "Hosting Concepts B.V. d/b/a Openprovider": 5.128205128205129,
+        "IONOS SE": 5.128205128205129,
+        "KEY-SYSTEMS GmbH": 58.97435897435897,
+        "OVH": 2.5641025641025643,
+        "One.com A/S": 5.128205128205129,
+        "Realtime Register B.V.": 7.6923076923076925,
+        "SAS Ligne Web Services - LWS": 5.128205128205129,
         "total": 100.0
     }
 }
