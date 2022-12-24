@@ -1,16 +1,24 @@
 {
     "counter": {
+        "AMEN / Agence des Médias Numériques": 1,
         "GANDI": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "INSTRA CORPORATION PTY LTD": 1,
-        "KEY-SYSTEMS GmbH": 5,
-        "total": 8
+        "KEY-SYSTEMS GmbH": 14,
+        "OVH": 2,
+        "One.com A/S": 2,
+        "Realtime Register B.V.": 1,
+        "total": 24
     },
     "percentage": {
-        "GANDI": 12.5,
-        "Hosting Concepts B.V. d/b/a Openprovider": 12.5,
-        "INSTRA CORPORATION PTY LTD": 12.5,
-        "KEY-SYSTEMS GmbH": 62.5,
+        "AMEN / Agence des Médias Numériques": 4.166666666666667,
+        "GANDI": 4.166666666666667,
+        "Hosting Concepts B.V. d/b/a Openprovider": 8.333333333333334,
+        "INSTRA CORPORATION PTY LTD": 4.166666666666667,
+        "KEY-SYSTEMS GmbH": 58.333333333333336,
+        "OVH": 8.333333333333334,
+        "One.com A/S": 8.333333333333334,
+        "Realtime Register B.V.": 4.166666666666667,
         "total": 100.0
     }
 }
