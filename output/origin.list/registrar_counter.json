@@ -1,28 +1,16 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 4,
-        "Combell NV": 1,
-        "GRANSY s.r.o.": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 30,
-        "OVH": 1,
-        "One.com A/S": 2,
-        "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 2,
-        "total": 48
+        "GANDI": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "INSTRA CORPORATION PTY LTD": 1,
+        "KEY-SYSTEMS GmbH": 5,
+        "total": 8
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 8.333333333333334,
-        "Combell NV": 2.0833333333333335,
-        "GRANSY s.r.o.": 2.0833333333333335,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4.166666666666667,
-        "IONOS SE": 4.166666666666667,
+        "GANDI": 12.5,
+        "Hosting Concepts B.V. d/b/a Openprovider": 12.5,
+        "INSTRA CORPORATION PTY LTD": 12.5,
         "KEY-SYSTEMS GmbH": 62.5,
-        "OVH": 2.0833333333333335,
-        "One.com A/S": 4.166666666666667,
-        "Realtime Register B.V.": 6.25,
-        "SAS Ligne Web Services - LWS": 4.166666666666667,
-        "total": 100.00000000000001
+        "total": 100.0
     }
 }
