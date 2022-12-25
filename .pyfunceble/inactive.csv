@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ex86vp-societegenerale.fr,AVAILABILITY,origin.list,2022-12-24 05:41:46.144011
 ameli-supports.fr,AVAILABILITY,origin.list,2022-12-24 06:44:47.265919
 ameli-vitalefrance.fr,AVAILABILITY,origin.list,2022-12-24 06:44:47.275020
 amelisecureinfo.fr,AVAILABILITY,origin.list,2022-12-24 06:44:47.959051
@@ -2645,3 +2644,4 @@ ameli-supportauth.fr,AVAILABILITY,origin.list,2022-12-24 07:11:00.810127
 ameli-support-france.fr,AVAILABILITY,origin.list,2022-12-24 07:11:00.838984
 ameli-supportsfrance.fr,AVAILABILITY,origin.list,2022-12-24 07:11:00.978231
 ameli-verifie.fr,AVAILABILITY,origin.list,2022-12-24 07:11:01.127783
+ex86vp-societegenerale.fr,AVAILABILITY,origin.list,2022-12-25 06:43:43.236384
