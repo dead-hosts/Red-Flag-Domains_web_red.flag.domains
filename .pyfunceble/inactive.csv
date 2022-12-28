@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-amelisecufr.fr,AVAILABILITY,origin.list,2022-12-26 07:41:13.466058
-amelisantegouv.fr,AVAILABILITY,origin.list,2022-12-26 07:41:13.511181
-amelisantemaladie.fr,AVAILABILITY,origin.list,2022-12-26 07:41:14.817028
-ameli-support-france.fr,AVAILABILITY,origin.list,2022-12-26 07:41:16.013826
-ameli-supportsfrance.fr,AVAILABILITY,origin.list,2022-12-26 07:41:16.305203
-ex86vp-societegenerale.fr,AVAILABILITY,origin.list,2022-12-26 07:41:16.360936
-ameli-verifie.fr,AVAILABILITY,origin.list,2022-12-26 07:41:16.366598
 ameli-supports.fr,AVAILABILITY,origin.list,2022-12-28 06:45:38.884058
 ameli-vitalefrance.fr,AVAILABILITY,origin.list,2022-12-28 06:45:39.041274
 amelisecureinfo.fr,AVAILABILITY,origin.list,2022-12-28 06:45:39.564062
@@ -2637,3 +2630,10 @@ amelis-secure.fr,AVAILABILITY,origin.list,2022-12-28 07:15:29.627028
 amelis-infos.fr,AVAILABILITY,origin.list,2022-12-28 07:15:30.310132
 amelis-sfrance.fr,AVAILABILITY,origin.list,2022-12-28 07:15:30.353144
 ameli-supportauth.fr,AVAILABILITY,origin.list,2022-12-28 07:15:31.070034
+amelisantegouv.fr,AVAILABILITY,origin.list,2022-12-28 07:27:51.797848
+amelisecufr.fr,AVAILABILITY,origin.list,2022-12-28 07:27:51.823724
+ameli-supportsfrance.fr,AVAILABILITY,origin.list,2022-12-28 07:27:51.876797
+ameli-support-france.fr,AVAILABILITY,origin.list,2022-12-28 07:27:51.951052
+amelisantemaladie.fr,AVAILABILITY,origin.list,2022-12-28 07:27:52.004589
+ex86vp-societegenerale.fr,AVAILABILITY,origin.list,2022-12-28 07:27:52.585745
+ameli-verifie.fr,AVAILABILITY,origin.list,2022-12-28 07:27:52.604888
