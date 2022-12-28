@@ -1,4 +1,4 @@
-#last-update:2022-12-26
+#last-update:2022-12-27
 000.tf
 000webhost.fr
 00308.yt
@@ -1545,6 +1545,7 @@ agedim.fr
 agelocer.fr
 agencebanque.fr
 agenceclient-societegenerale.fr
+agencefrancepresses.fr
 agenceidf-societegenerale.fr
 agencepourlinformatiquefinancieredeletat.fr
 agencesg-societegenerale.fr
@@ -2965,6 +2966,7 @@ blablacar-ticket.fr
 blablacar-tickets.fr
 blablcar.fr
 blackfriday-cookeo.fr
+bloctelgouv.fr
 blstore.fr
 bluepartner.fr
 blushconceptstore.fr
@@ -3403,6 +3405,7 @@ centerdappel.fr
 centersparcs.fr
 centre-aide-paypal.fr
 centredelivraison-chronopost.fr
+centredepaiement-amazon.fr
 centre-livraison-chronopost.fr
 centre-livraisonchronopost.fr
 centrelivraison-chronopost.fr
@@ -4083,6 +4086,7 @@ confirmation-netflix.fr
 confirmation-paiementfrance.fr
 confirmation-ppl.fr
 confirmation-service.fr
+confirmations-information.fr
 confirmationsupportclient.fr
 confirmatipaiment.fr
 confirm-carterenouve.fr
@@ -4532,6 +4536,7 @@ denx.fr
 departementvitale.fr
 department06.fr
 depositphotos.fr
+depot-chronopost.fr
 depotchronopost.fr
 desir-cam.fr
 desneakers.fr
@@ -5045,6 +5050,7 @@ espacepersonnelameli.fr
 espacepersonnel-cartepass.fr
 espacepersonnel-netflix.fr
 espacepersonnel-securite.fr
+espacepro-lcl.fr
 espace-registration.fr
 espaceremboursement.fr
 espace-renouvellement.fr
@@ -5092,6 +5098,7 @@ espclientcolis.fr
 espclientservice.fr
 espparticul2022.fr
 espub.fr
+e-suivi-chronopost.fr
 et49vh-societegenerale.fr
 etape-ameli.fr
 etnieschaussures.fr
@@ -6369,6 +6376,7 @@ laposte-france.fr
 laposteidentitenumerique.fr
 lapostem0bile.fr
 laposte-modification.fr
+laposteobile.fr
 laposte.re
 laposte-relivraison.fr
 laposteservice.fr
@@ -6885,6 +6893,7 @@ ma-verification.fr
 ma-verification-impots.fr
 ma-vignette-critair.fr
 mavignette-critair.fr
+ma-vitae.fr
 maxadobe.fr
 maxseainternational.fr
 maypos.yt
@@ -7096,6 +7105,7 @@ mon-chronopost-suivi-client.fr
 moncialrelay.fr
 monclientameli.fr
 moncmbs.fr
+moncolichronopost.fr
 moncolisadrexo.fr
 mon-colis-chronopost.fr
 moncolis-chronopost.fr
@@ -7289,6 +7299,7 @@ monespacesocietegenerale.fr
 monespacesocietegenerales.fr
 monespacesocietegeneral.fr
 mon-espace-suivi.fr
+monespace-suivi.fr
 monespacesuivi.fr
 monespaces-vitale.fr
 mon-espace-vitale.fr
@@ -7462,6 +7473,7 @@ netfiix-echeance.fr
 netfiixerreur.fr
 netfiix-espace.fr
 netfiix-facturation.fr
+netfiixfacturation.fr
 netfiix-facturations.fr
 netfiix.fr
 netfiix-france.fr
@@ -7811,6 +7823,7 @@ nos-services-bnpparibas.fr
 nosservices-mabanque-bnpparibas.fr
 noticeinformaion-ca.fr
 notif-alertesg.fr
+notif-chronopost.fr
 notification-ameli.fr
 notification-assurance.fr
 notification-carefour.fr
@@ -7840,6 +7853,7 @@ nrjr.fr
 ntcy.pm
 nteg.fr
 ntflixabonnement.fr
+ntflix-login.fr
 ntfllx-redirection.fr
 ntflx-account.fr
 ntflx-auth.fr
@@ -8544,6 +8558,7 @@ relaischronoposts.fr
 relance-moncomptecpf.fr
 relations-client.fr
 relaycolis.fr
+reliefstore.fr
 reliezvous.fr
 relivraison.fr
 remboursement-ameli.fr
@@ -8593,6 +8608,7 @@ renouveler-abonnement.fr
 renouvelez-votre-vitale.fr
 renouvellemcvitale.fr
 renouvellement2022.fr
+renouvellement-abonnement.fr
 renouvellement-abonnement-netflix.fr
 renouvellement-aide.fr
 renouvellement-ameli-carte-vitale.fr
@@ -8654,6 +8670,7 @@ renouvellement-santes.fr
 renouvellements-assurances.fr
 renouvellements-carte.fr
 renouvellements-cartes.fr
+renouvellements-carte-vitale.fr
 renouvellementscartevitale.fr
 renouvellementscartevital.fr
 renouvellement-secure.fr
@@ -8666,6 +8683,7 @@ renouvellementsfr.fr
 renouvellementsinfo.fr
 renouvellements-infos.fr
 renouvellements-netflix.fr
+renouvellementsrepresentervitale.fr
 renouvellements-sante.fr
 renouvellements-santes.fr
 renouvellements-services.fr
@@ -10190,6 +10208,7 @@ uni-angers.fr
 uni-bpclermont.fr
 uniguide.fr
 uni-littoral.fr
+uni-rouen.fr
 uni-tlse3.fr
 univ6lehavre.fr
 univ-caen.fr
@@ -10693,6 +10712,7 @@ xiaomi.tf
 xiaomi.yt
 xitf.fr
 xn--accueil-socit-generale-m8bb.fr
+xn--activation-cl-digitale-n8b.fr
 xn--amazn-9ta.fr
 xn--amazon-scu-i7a.fr
 xn--amelie-sant-lbb.fr
