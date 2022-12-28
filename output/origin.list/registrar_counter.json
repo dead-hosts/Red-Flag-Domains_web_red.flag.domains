@@ -2,29 +2,31 @@
     "counter": {
         "1API GmbH": 1,
         "AMEN / Agence des Médias Numériques": 3,
-        "GRANSY s.r.o.": 1,
+        "GRANSY s.r.o.": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 1,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 21,
-        "NETIM": 2,
+        "KEY-SYSTEMS GmbH": 26,
+        "NETIM": 4,
         "OVH": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
         "Realtime Register B.V.": 7,
+        "SAS Ligne Web Services - LWS": 2,
         "TLD Registrar Solutions Ltd": 1,
-        "total": 41
+        "total": 51
     },
     "percentage": {
-        "1API GmbH": 2.4390243902439024,
-        "AMEN / Agence des Médias Numériques": 7.317073170731708,
-        "GRANSY s.r.o.": 2.4390243902439024,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.4390243902439024,
-        "IONOS SE": 2.4390243902439024,
-        "KEY-SYSTEMS GmbH": 51.21951219512195,
-        "NETIM": 4.878048780487805,
-        "OVH": 4.878048780487805,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.4390243902439024,
-        "Realtime Register B.V.": 17.073170731707318,
-        "TLD Registrar Solutions Ltd": 2.4390243902439024,
-        "total": 100.0
+        "1API GmbH": 1.9607843137254901,
+        "AMEN / Agence des Médias Numériques": 5.882352941176471,
+        "GRANSY s.r.o.": 3.9215686274509802,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1.9607843137254901,
+        "IONOS SE": 1.9607843137254901,
+        "KEY-SYSTEMS GmbH": 50.98039215686274,
+        "NETIM": 7.8431372549019605,
+        "OVH": 3.9215686274509802,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.9607843137254901,
+        "Realtime Register B.V.": 13.72549019607843,
+        "SAS Ligne Web Services - LWS": 3.9215686274509802,
+        "TLD Registrar Solutions Ltd": 1.9607843137254901,
+        "total": 99.99999999999997
     }
 }
