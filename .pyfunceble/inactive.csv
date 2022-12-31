@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-suspension-societe-generale.fr,AVAILABILITY,origin.list,2022-12-30 06:26:37.839436
 ameli-vitalefrance.fr,AVAILABILITY,origin.list,2022-12-30 06:45:50.058732
 ameli-supports.fr,AVAILABILITY,origin.list,2022-12-30 06:45:50.423094
 amelisecureinfo.fr,AVAILABILITY,origin.list,2022-12-30 06:45:50.829585
@@ -2631,3 +2630,4 @@ amelisantemaladie.fr,AVAILABILITY,origin.list,2022-12-30 07:28:02.831421
 ex86vp-societegenerale.fr,AVAILABILITY,origin.list,2022-12-30 07:28:03.022309
 ameli-verifie.fr,AVAILABILITY,origin.list,2022-12-30 07:28:03.036398
 suivis-livraisons.fr,AVAILABILITY,origin.list,2022-12-31 06:24:45.151018
+suspension-societe-generale.fr,AVAILABILITY,origin.list,2022-12-31 06:47:44.865181
