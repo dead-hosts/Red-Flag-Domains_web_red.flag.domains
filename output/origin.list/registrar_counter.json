@@ -1,12 +1,14 @@
 {
     "counter": {
-        "INWX GmbH": 3,
-        "KEY-SYSTEMS GmbH": 2,
-        "total": 5
+        "GANDI": 1,
+        "INWX GmbH": 15,
+        "KEY-SYSTEMS GmbH": 15,
+        "total": 31
     },
     "percentage": {
-        "INWX GmbH": 60.0,
-        "KEY-SYSTEMS GmbH": 40.0,
+        "GANDI": 3.225806451612903,
+        "INWX GmbH": 48.38709677419355,
+        "KEY-SYSTEMS GmbH": 48.38709677419355,
         "total": 100.0
     }
 }
