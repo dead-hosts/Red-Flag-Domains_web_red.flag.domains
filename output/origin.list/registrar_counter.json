@@ -1,30 +1,12 @@
 {
     "counter": {
-        "Combell NV": 1,
-        "EPAG Domainservices GmbH": 1,
-        "GRANSY s.r.o.": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 20,
-        "OVH": 2,
-        "One.com A/S": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "Realtime Register B.V.": 4,
-        "SAS Ligne Web Services - LWS": 3,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 37
+        "INWX GmbH": 3,
+        "KEY-SYSTEMS GmbH": 2,
+        "total": 5
     },
     "percentage": {
-        "Combell NV": 2.7027027027027026,
-        "EPAG Domainservices GmbH": 2.7027027027027026,
-        "GRANSY s.r.o.": 2.7027027027027026,
-        "IONOS SE": 2.7027027027027026,
-        "KEY-SYSTEMS GmbH": 54.054054054054056,
-        "OVH": 5.405405405405405,
-        "One.com A/S": 2.7027027027027026,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.7027027027027026,
-        "Realtime Register B.V.": 10.81081081081081,
-        "SAS Ligne Web Services - LWS": 8.108108108108109,
-        "TLD Registrar Solutions Ltd": 5.405405405405405,
-        "total": 100.00000000000001
+        "INWX GmbH": 60.0,
+        "KEY-SYSTEMS GmbH": 40.0,
+        "total": 100.0
     }
 }
