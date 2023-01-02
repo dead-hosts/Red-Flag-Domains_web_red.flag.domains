@@ -1,10 +1,16 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 2,
-        "total": 2
+        "Combell NV": 1,
+        "KEY-SYSTEMS GmbH": 7,
+        "Realtime Register B.V.": 2,
+        "SAS Ligne Web Services - LWS": 7,
+        "total": 17
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
+        "Combell NV": 5.882352941176471,
+        "KEY-SYSTEMS GmbH": 41.1764705882353,
+        "Realtime Register B.V.": 11.764705882352942,
+        "SAS Ligne Web Services - LWS": 41.1764705882353,
         "total": 100.0
     }
 }
