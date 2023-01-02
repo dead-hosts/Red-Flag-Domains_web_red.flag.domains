@@ -1,22 +1,10 @@
 {
     "counter": {
-        "GANDI": 1,
-        "INWX GmbH": 22,
-        "KEY-SYSTEMS GmbH": 27,
-        "NETIM": 1,
-        "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 2,
-        "TLD Registrar Solutions Ltd": 1,
-        "total": 57
+        "KEY-SYSTEMS GmbH": 2,
+        "total": 2
     },
     "percentage": {
-        "GANDI": 1.7543859649122806,
-        "INWX GmbH": 38.59649122807018,
-        "KEY-SYSTEMS GmbH": 47.36842105263158,
-        "NETIM": 1.7543859649122806,
-        "Realtime Register B.V.": 5.2631578947368425,
-        "SAS Ligne Web Services - LWS": 3.508771929824561,
-        "TLD Registrar Solutions Ltd": 1.7543859649122806,
-        "total": 99.99999999999999
+        "KEY-SYSTEMS GmbH": 100.0,
+        "total": 100.0
     }
 }
