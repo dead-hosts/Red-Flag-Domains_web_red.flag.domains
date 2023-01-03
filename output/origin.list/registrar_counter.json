@@ -1,14 +1,16 @@
 {
     "counter": {
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 19,
+        "KEY-SYSTEMS GmbH": 32,
         "Realtime Register B.V.": 2,
-        "total": 22
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 36
     },
     "percentage": {
-        "IONOS SE": 4.545454545454546,
-        "KEY-SYSTEMS GmbH": 86.36363636363636,
-        "Realtime Register B.V.": 9.090909090909092,
-        "total": 100.0
+        "IONOS SE": 2.7777777777777777,
+        "KEY-SYSTEMS GmbH": 88.88888888888889,
+        "Realtime Register B.V.": 5.555555555555555,
+        "TLD Registrar Solutions Ltd": 2.7777777777777777,
+        "total": 99.99999999999999
     }
 }
