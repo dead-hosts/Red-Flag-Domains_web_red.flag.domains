@@ -1,14 +1,14 @@
 {
     "counter": {
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 12,
+        "KEY-SYSTEMS GmbH": 19,
         "Realtime Register B.V.": 2,
-        "total": 15
+        "total": 22
     },
     "percentage": {
-        "IONOS SE": 6.666666666666667,
-        "KEY-SYSTEMS GmbH": 80.0,
-        "Realtime Register B.V.": 13.333333333333334,
+        "IONOS SE": 4.545454545454546,
+        "KEY-SYSTEMS GmbH": 86.36363636363636,
+        "Realtime Register B.V.": 9.090909090909092,
         "total": 100.0
     }
 }
