@@ -1,18 +1,10 @@
 {
     "counter": {
-        "Combell NV": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 11,
-        "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 7,
-        "total": 23
+        "KEY-SYSTEMS GmbH": 4,
+        "total": 4
     },
     "percentage": {
-        "Combell NV": 4.3478260869565215,
-        "IONOS SE": 4.3478260869565215,
-        "KEY-SYSTEMS GmbH": 47.82608695652174,
-        "Realtime Register B.V.": 13.043478260869565,
-        "SAS Ligne Web Services - LWS": 30.434782608695652,
+        "KEY-SYSTEMS GmbH": 100.0,
         "total": 100.0
     }
 }
