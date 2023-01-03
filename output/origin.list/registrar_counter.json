@@ -1,18 +1,18 @@
 {
     "counter": {
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 32,
+        "KEY-SYSTEMS GmbH": 33,
         "Realtime Register B.V.": 2,
         "SAS Ligne Web Services - LWS": 1,
         "TLD Registrar Solutions Ltd": 1,
-        "total": 37
+        "total": 38
     },
     "percentage": {
-        "IONOS SE": 2.7027027027027026,
-        "KEY-SYSTEMS GmbH": 86.48648648648648,
-        "Realtime Register B.V.": 5.405405405405405,
-        "SAS Ligne Web Services - LWS": 2.7027027027027026,
-        "TLD Registrar Solutions Ltd": 2.7027027027027026,
-        "total": 100.00000000000001
+        "IONOS SE": 2.6315789473684212,
+        "KEY-SYSTEMS GmbH": 86.84210526315789,
+        "Realtime Register B.V.": 5.2631578947368425,
+        "SAS Ligne Web Services - LWS": 2.6315789473684212,
+        "TLD Registrar Solutions Ltd": 2.6315789473684212,
+        "total": 100.0
     }
 }
