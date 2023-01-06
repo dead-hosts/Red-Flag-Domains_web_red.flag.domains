@@ -1,42 +1,16 @@
 {
     "counter": {
-        "1API GmbH": 2,
-        "AMEN / Agence des Médias Numériques": 7,
-        "GANDI": 2,
-        "GRANSY s.r.o.": 5,
-        "Groupe PulseHeberg": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 12,
-        "IONOS SE": 3,
-        "Infomaniak Network SA": 4,
-        "InterNetX GmbH": 1,
-        "KEY-SYSTEMS GmbH": 108,
-        "Metaregistrar BV": 1,
-        "OVH": 10,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 12,
-        "SAS Ligne Web Services - LWS": 2,
-        "Sarek Oy": 3,
-        "TLD Registrar Solutions Ltd": 5,
-        "total": 179
+        "FRENCH CONNEXION": 1,
+        "KEY-SYSTEMS GmbH": 3,
+        "Realtime Register B.V.": 1,
+        "SAS Ligne Web Services - LWS": 1,
+        "total": 6
     },
     "percentage": {
-        "1API GmbH": 1.1173184357541899,
-        "AMEN / Agence des Médias Numériques": 3.910614525139665,
-        "GANDI": 1.1173184357541899,
-        "GRANSY s.r.o.": 2.793296089385475,
-        "Groupe PulseHeberg": 0.5586592178770949,
-        "Hosting Concepts B.V. d/b/a Openprovider": 6.70391061452514,
-        "IONOS SE": 1.675977653631285,
-        "Infomaniak Network SA": 2.2346368715083798,
-        "InterNetX GmbH": 0.5586592178770949,
-        "KEY-SYSTEMS GmbH": 60.33519553072626,
-        "Metaregistrar BV": 0.5586592178770949,
-        "OVH": 5.58659217877095,
-        "One.com A/S": 0.5586592178770949,
-        "Realtime Register B.V.": 6.70391061452514,
-        "SAS Ligne Web Services - LWS": 1.1173184357541899,
-        "Sarek Oy": 1.675977653631285,
-        "TLD Registrar Solutions Ltd": 2.793296089385475,
-        "total": 100.0
+        "FRENCH CONNEXION": 16.666666666666668,
+        "KEY-SYSTEMS GmbH": 50.0,
+        "Realtime Register B.V.": 16.666666666666668,
+        "SAS Ligne Web Services - LWS": 16.666666666666668,
+        "total": 100.00000000000001
     }
 }
