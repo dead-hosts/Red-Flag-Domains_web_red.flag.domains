@@ -1,16 +1,32 @@
 {
     "counter": {
         "FRENCH CONNEXION": 1,
-        "KEY-SYSTEMS GmbH": 3,
-        "Realtime Register B.V.": 1,
+        "GRANSY s.r.o.": 1,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 21,
+        "Marcaria.com International Inc.": 1,
+        "OVH": 3,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "Realtime Register B.V.": 6,
         "SAS Ligne Web Services - LWS": 1,
-        "total": 6
+        "SCALEWAY": 1,
+        "Sarek Oy": 1,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 40
     },
     "percentage": {
-        "FRENCH CONNEXION": 16.666666666666668,
-        "KEY-SYSTEMS GmbH": 50.0,
-        "Realtime Register B.V.": 16.666666666666668,
-        "SAS Ligne Web Services - LWS": 16.666666666666668,
-        "total": 100.00000000000001
+        "FRENCH CONNEXION": 2.5,
+        "GRANSY s.r.o.": 2.5,
+        "IONOS SE": 5.0,
+        "KEY-SYSTEMS GmbH": 52.5,
+        "Marcaria.com International Inc.": 2.5,
+        "OVH": 7.5,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.5,
+        "Realtime Register B.V.": 15.0,
+        "SAS Ligne Web Services - LWS": 2.5,
+        "SCALEWAY": 2.5,
+        "Sarek Oy": 2.5,
+        "TLD Registrar Solutions Ltd": 2.5,
+        "total": 100.0
     }
 }
