@@ -1,16 +1,32 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 2,
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 5,
+        "IONOS SE": 3,
+        "KEY-SYSTEMS GmbH": 40,
+        "Metaregistrar BV": 1,
+        "NAMEBAY": 1,
+        "OVH": 4,
+        "One.com A/S": 1,
+        "Realtime Register B.V.": 6,
         "SCALEWAY": 1,
-        "total": 5
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 65
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 20.0,
-        "IONOS SE": 20.0,
-        "KEY-SYSTEMS GmbH": 40.0,
-        "SCALEWAY": 20.0,
-        "total": 100.0
+        "1API GmbH": 1.5384615384615385,
+        "AMEN / Agence des Médias Numériques": 1.5384615384615385,
+        "Hosting Concepts B.V. d/b/a Openprovider": 7.6923076923076925,
+        "IONOS SE": 4.615384615384615,
+        "KEY-SYSTEMS GmbH": 61.53846153846154,
+        "Metaregistrar BV": 1.5384615384615385,
+        "NAMEBAY": 1.5384615384615385,
+        "OVH": 6.153846153846154,
+        "One.com A/S": 1.5384615384615385,
+        "Realtime Register B.V.": 9.23076923076923,
+        "SCALEWAY": 1.5384615384615385,
+        "TLD Registrar Solutions Ltd": 1.5384615384615385,
+        "total": 99.99999999999997
     }
 }
