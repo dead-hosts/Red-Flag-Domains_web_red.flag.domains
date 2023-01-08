@@ -1,38 +1,16 @@
 {
     "counter": {
-        "1API GmbH": 3,
-        "AMEN / Agence des Médias Numériques": 5,
-        "GANDI": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 11,
-        "IONOS SE": 8,
-        "Infomaniak Network SA": 1,
-        "KEY-SYSTEMS GmbH": 89,
-        "Name.com LLC": 1,
-        "OVH": 7,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Realtime Register B.V.": 14,
-        "SAS Ligne Web Services - LWS": 7,
-        "Sarek Oy": 3,
-        "TLD Registrar Solutions Ltd": 2,
-        "Vautron Rechenzentrum AG": 1,
-        "total": 155
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 2,
+        "SCALEWAY": 1,
+        "total": 5
     },
     "percentage": {
-        "1API GmbH": 1.935483870967742,
-        "AMEN / Agence des Médias Numériques": 3.225806451612903,
-        "GANDI": 0.6451612903225806,
-        "Hosting Concepts B.V. d/b/a Openprovider": 7.096774193548387,
-        "IONOS SE": 5.161290322580645,
-        "Infomaniak Network SA": 0.6451612903225806,
-        "KEY-SYSTEMS GmbH": 57.41935483870968,
-        "Name.com LLC": 0.6451612903225806,
-        "OVH": 4.516129032258065,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.2903225806451613,
-        "Realtime Register B.V.": 9.03225806451613,
-        "SAS Ligne Web Services - LWS": 4.516129032258065,
-        "Sarek Oy": 1.935483870967742,
-        "TLD Registrar Solutions Ltd": 1.2903225806451613,
-        "Vautron Rechenzentrum AG": 0.6451612903225806,
+        "Hosting Concepts B.V. d/b/a Openprovider": 20.0,
+        "IONOS SE": 20.0,
+        "KEY-SYSTEMS GmbH": 40.0,
+        "SCALEWAY": 20.0,
         "total": 100.0
     }
 }
