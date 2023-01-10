@@ -1,18 +1,26 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 2,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 11,
-        "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 16
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 3,
+        "GRANSY s.r.o.": 2,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 34,
+        "OVH": 3,
+        "Realtime Register B.V.": 6,
+        "SAS Ligne Web Services - LWS": 2,
+        "Sarek Oy": 1,
+        "total": 54
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 12.5,
-        "IONOS SE": 6.25,
-        "KEY-SYSTEMS GmbH": 68.75,
-        "Realtime Register B.V.": 6.25,
-        "SAS Ligne Web Services - LWS": 6.25,
+        "1API GmbH": 1.8518518518518519,
+        "AMEN / Agence des Médias Numériques": 5.555555555555555,
+        "GRANSY s.r.o.": 3.7037037037037037,
+        "IONOS SE": 3.7037037037037037,
+        "KEY-SYSTEMS GmbH": 62.96296296296296,
+        "OVH": 5.555555555555555,
+        "Realtime Register B.V.": 11.11111111111111,
+        "SAS Ligne Web Services - LWS": 3.7037037037037037,
+        "Sarek Oy": 1.8518518518518519,
         "total": 100.0
     }
 }
