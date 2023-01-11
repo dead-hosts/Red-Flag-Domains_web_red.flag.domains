@@ -1,34 +1,20 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 5,
-        "EPAG Domainservices GmbH": 1,
-        "GRANSY s.r.o.": 2,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 68,
-        "OVH": 12,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 9,
-        "SAS Ligne Web Services - LWS": 5,
-        "SONEXO B.V": 1,
-        "Sarek Oy": 1,
-        "total": 109
+        "AMEN / Agence des Médias Numériques": 2,
+        "KEY-SYSTEMS GmbH": 9,
+        "OVH": 3,
+        "Realtime Register B.V.": 1,
+        "SAS Ligne Web Services - LWS": 2,
+        "VIADUC": 1,
+        "total": 18
     },
     "percentage": {
-        "1API GmbH": 0.9174311926605505,
-        "AMEN / Agence des Médias Numériques": 4.587155963302752,
-        "EPAG Domainservices GmbH": 0.9174311926605505,
-        "GRANSY s.r.o.": 1.834862385321101,
-        "Hosting Concepts B.V. d/b/a Openprovider": 0.9174311926605505,
-        "IONOS SE": 1.834862385321101,
-        "KEY-SYSTEMS GmbH": 62.38532110091743,
-        "OVH": 11.009174311926605,
-        "One.com A/S": 0.9174311926605505,
-        "Realtime Register B.V.": 8.256880733944953,
-        "SAS Ligne Web Services - LWS": 4.587155963302752,
-        "SONEXO B.V": 0.9174311926605505,
-        "Sarek Oy": 0.9174311926605505,
-        "total": 99.99999999999997
+        "AMEN / Agence des Médias Numériques": 11.11111111111111,
+        "KEY-SYSTEMS GmbH": 50.0,
+        "OVH": 16.666666666666668,
+        "Realtime Register B.V.": 5.555555555555555,
+        "SAS Ligne Web Services - LWS": 11.11111111111111,
+        "VIADUC": 5.555555555555555,
+        "total": 100.00000000000001
     }
 }
