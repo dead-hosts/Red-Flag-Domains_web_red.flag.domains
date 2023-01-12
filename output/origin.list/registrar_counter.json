@@ -1,10 +1,26 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 5,
-        "total": 5
+        "ARSYS INTERNET EURL": 1,
+        "GANDI": 1,
+        "GRANSY s.r.o.": 2,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "KEY-SYSTEMS GmbH": 31,
+        "OVH": 3,
+        "Realtime Register B.V.": 3,
+        "SAS Ligne Web Services - LWS": 5,
+        "Sarek Oy": 1,
+        "total": 48
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
+        "ARSYS INTERNET EURL": 2.0833333333333335,
+        "GANDI": 2.0833333333333335,
+        "GRANSY s.r.o.": 4.166666666666667,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.0833333333333335,
+        "KEY-SYSTEMS GmbH": 64.58333333333333,
+        "OVH": 6.25,
+        "Realtime Register B.V.": 6.25,
+        "SAS Ligne Web Services - LWS": 10.416666666666666,
+        "Sarek Oy": 2.0833333333333335,
         "total": 100.0
     }
 }
