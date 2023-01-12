@@ -1,40 +1,10 @@
 {
     "counter": {
-        "1API GmbH": 3,
-        "AMEN / Agence des Médias Numériques": 3,
-        "EPAG Domainservices GmbH": 2,
-        "GRANSY s.r.o.": 5,
-        "Hosting Concepts B.V. d/b/a Openprovider": 5,
-        "IONOS SE": 3,
-        "InterNetX GmbH": 1,
-        "KEY-SYSTEMS GmbH": 54,
-        "Metaregistrar BV": 1,
-        "Name.com LLC": 2,
-        "OVH": 6,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 6,
-        "SAS Ligne Web Services - LWS": 3,
-        "TLD Registrar Solutions Ltd": 1,
-        "VIADUC": 2,
-        "total": 98
+        "KEY-SYSTEMS GmbH": 5,
+        "total": 5
     },
     "percentage": {
-        "1API GmbH": 3.061224489795918,
-        "AMEN / Agence des Médias Numériques": 3.061224489795918,
-        "EPAG Domainservices GmbH": 2.0408163265306123,
-        "GRANSY s.r.o.": 5.1020408163265305,
-        "Hosting Concepts B.V. d/b/a Openprovider": 5.1020408163265305,
-        "IONOS SE": 3.061224489795918,
-        "InterNetX GmbH": 1.0204081632653061,
-        "KEY-SYSTEMS GmbH": 55.10204081632653,
-        "Metaregistrar BV": 1.0204081632653061,
-        "Name.com LLC": 2.0408163265306123,
-        "OVH": 6.122448979591836,
-        "One.com A/S": 1.0204081632653061,
-        "Realtime Register B.V.": 6.122448979591836,
-        "SAS Ligne Web Services - LWS": 3.061224489795918,
-        "TLD Registrar Solutions Ltd": 1.0204081632653061,
-        "VIADUC": 2.0408163265306123,
+        "KEY-SYSTEMS GmbH": 100.0,
         "total": 100.0
     }
 }
