@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-banque-cic.fr,AVAILABILITY,origin.list,2023-01-11 05:28:50.540590
-messagerieboncoin.fr,AVAILABILITY,origin.list,2023-01-11 06:02:13.905568
 ameli-supports.fr,AVAILABILITY,origin.list,2023-01-11 06:46:24.195366
 ameli-vitalefrance.fr,AVAILABILITY,origin.list,2023-01-11 06:46:24.207626
 ameli-vitajour.fr,AVAILABILITY,origin.list,2023-01-11 06:46:24.808171
@@ -2552,3 +2550,5 @@ ez89vm-societegenerale.fr,AVAILABILITY,origin.list,2023-01-11 07:27:25.098262
 sfr-paiements.fr,AVAILABILITY,origin.list,2023-01-11 07:27:25.105081
 sfr-abonnements.fr,AVAILABILITY,origin.list,2023-01-11 07:27:25.111221
 ameli-carte-vitale.fr,AVAILABILITY,origin.list,2023-01-12 05:26:21.673379
+banque-cic.fr,AVAILABILITY,origin.list,2023-01-12 06:46:08.009467
+messagerieboncoin.fr,AVAILABILITY,origin.list,2023-01-12 06:46:08.192419
