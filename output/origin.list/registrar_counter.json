@@ -1,32 +1,16 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "ARSYS INTERNET EURL": 1,
-        "EPAG Domainservices GmbH": 1,
-        "GANDI": 2,
-        "GRANSY s.r.o.": 4,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4,
-        "KEY-SYSTEMS GmbH": 56,
-        "OVH": 4,
-        "Realtime Register B.V.": 3,
-        "SAS Ligne Web Services - LWS": 5,
-        "Sarek Oy": 1,
-        "TLD Registrar Solutions Ltd": 1,
-        "total": 83
+        "Hosting Concepts B.V. d/b/a Openprovider": 6,
+        "KEY-SYSTEMS GmbH": 9,
+        "Name.com LLC": 1,
+        "One.com A/S": 1,
+        "total": 17
     },
     "percentage": {
-        "1API GmbH": 1.2048192771084338,
-        "ARSYS INTERNET EURL": 1.2048192771084338,
-        "EPAG Domainservices GmbH": 1.2048192771084338,
-        "GANDI": 2.4096385542168677,
-        "GRANSY s.r.o.": 4.819277108433735,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4.819277108433735,
-        "KEY-SYSTEMS GmbH": 67.46987951807229,
-        "OVH": 4.819277108433735,
-        "Realtime Register B.V.": 3.6144578313253013,
-        "SAS Ligne Web Services - LWS": 6.024096385542169,
-        "Sarek Oy": 1.2048192771084338,
-        "TLD Registrar Solutions Ltd": 1.2048192771084338,
-        "total": 99.99999999999999
+        "Hosting Concepts B.V. d/b/a Openprovider": 35.294117647058826,
+        "KEY-SYSTEMS GmbH": 52.94117647058823,
+        "Name.com LLC": 5.882352941176471,
+        "One.com A/S": 5.882352941176471,
+        "total": 100.0
     }
 }
