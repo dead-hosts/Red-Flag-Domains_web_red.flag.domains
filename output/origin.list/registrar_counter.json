@@ -1,22 +1,32 @@
 {
     "counter": {
         "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 1,
+        "EURODNS S.A.": 1,
         "GANDI": 2,
-        "GRANSY s.r.o.": 1,
-        "KEY-SYSTEMS GmbH": 6,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "Realtime Register B.V.": 2,
+        "GRANSY s.r.o.": 3,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 22,
+        "OVH": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6,
+        "Realtime Register B.V.": 4,
         "SCALEWAY": 1,
-        "total": 17
+        "total": 45
     },
     "percentage": {
-        "1API GmbH": 5.882352941176471,
-        "GANDI": 11.764705882352942,
-        "GRANSY s.r.o.": 5.882352941176471,
-        "KEY-SYSTEMS GmbH": 35.294117647058826,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 23.529411764705884,
-        "Realtime Register B.V.": 11.764705882352942,
-        "SCALEWAY": 5.882352941176471,
+        "1API GmbH": 2.2222222222222223,
+        "AMEN / Agence des Médias Numériques": 2.2222222222222223,
+        "EURODNS S.A.": 2.2222222222222223,
+        "GANDI": 4.444444444444445,
+        "GRANSY s.r.o.": 6.666666666666667,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.2222222222222223,
+        "IONOS SE": 2.2222222222222223,
+        "KEY-SYSTEMS GmbH": 48.888888888888886,
+        "OVH": 4.444444444444445,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 13.333333333333334,
+        "Realtime Register B.V.": 8.88888888888889,
+        "SCALEWAY": 2.2222222222222223,
         "total": 100.0
     }
 }
