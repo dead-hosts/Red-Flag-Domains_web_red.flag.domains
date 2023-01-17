@@ -1,4 +1,4 @@
-#last-update:2023-01-13
+#last-update:2023-01-16
 000.tf
 000webhost.fr
 00308.yt
@@ -1473,6 +1473,7 @@ activation-societegenerale.fr
 activebeat.fr
 active-cvitale.fr
 activeitzone.fr
+activer-mon-abonnement.fr
 activer-mon-compte-cpf.fr
 activespparticul.fr
 activite-clients.fr
@@ -1791,6 +1792,7 @@ amazon-verification-compte.fr
 amazon-verification.fr
 amazonverification.fr
 amazon-verifications.fr
+amazon-verify.fr
 amazonvpnclient.fr
 amazon-web-connexion.fr
 amazonzon.fr
@@ -2020,6 +2022,7 @@ ameli-eu.fr
 amelie-verification.fr
 amelie-verifications.fr
 amelievitale.fr
+amelie-vital.fr
 ameli-expedition.fr
 ameli-expiration.fr
 ameli-facturation.fr
@@ -2164,6 +2167,7 @@ ameli-renouvellementcarte.fr
 ameli-renouvellementcartes.fr
 ameli-renouvellement-cartevitale.fr
 ameli-renouvellementcartevitale.fr
+ameli-renouvellement-cartevital.fr
 ameli-renouvellement.fr
 ameli-renouvellement-france.fr
 ameli-renouvellementgouv.fr
@@ -2821,6 +2825,7 @@ authentification-bnpparibas.fr
 authentification-ca.fr
 authentification-cartevitale.fr
 authentification-client.fr
+authentification-d3secured.fr
 authentificationdesrecharges.fr
 authentification-mabanque-bnpparibas.fr
 authentification-mabanquebnpparibas.fr
@@ -3787,6 +3792,7 @@ chronopost-acheminement-colis.fr
 chronopost-acheminementcolis.fr
 chronopost-acheminement.fr
 chronopostacheminement.fr
+chronopost-acheminementscolis.fr
 chronopost-acheminement-secure.fr
 chronopost-acheminements.fr
 chronopost-acheminent.fr
@@ -3991,6 +3997,7 @@ chronopostsuivicolis.fr
 chronopost-suivicommande.fr
 chronopost-suividacheminement.fr
 chronopost-suividecolis.fr
+chronopostsuividecolis.fr
 chronopost-suividecommande.fr
 chronopost-suividucolis.fr
 chronopost-suivie.fr
@@ -3999,6 +4006,7 @@ chronopost-suivi-express.fr
 chronopostsuivi.fr
 chronopost-suivi-france.fr
 chronopostsuivifrance.fr
+chronopost-suivi-information.fr
 chronopost-suivi-livraison.fr
 chronopost-suivis-colis.fr
 chrono-postsuivis.fr
@@ -4037,6 +4045,7 @@ chronopst-client-support.fr
 chronopstservice.fr
 chronop-suivi.fr
 chronoqost.fr
+chrono-rectification.fr
 chrono-reprise-livraison.fr
 chronosav.fr
 chrono-service-sav.fr
@@ -4056,6 +4065,7 @@ chronotepost.fr
 chronotopost.fr
 chronotrieservis.fr
 chrono-verif.fr
+chrronopost.fr
 chru-brest.fr
 chru-montpellier.fr
 ch-sjm.fr
@@ -4237,6 +4247,7 @@ colissimo-domicile.fr
 colissimo-douane.fr
 colissimo-entreprise.fr
 colissimo-entreprise-laposte.fr
+colissimo-express.fr
 colissimo-formalites.fr
 colissimo-frais.fr
 colissimo-impaye.fr
@@ -6365,6 +6376,7 @@ infoclientsantevitale.fr
 infoclients-prox.fr
 info-colis-chrono.fr
 info-colis-chronopost.fr
+infocolis-envoi.fr
 infocolis-livraison.fr
 info-colissimo.fr
 info-compte-ameli.fr
@@ -7377,6 +7389,7 @@ maia-asso.fr
 maiadie-assurance.fr
 mail01oranve.fr
 mail-ameli.fr
+mail-chronopost.fr
 mail-en-marche.fr
 mailgenerali.fr
 mail-icloud.fr
@@ -7668,6 +7681,7 @@ momentspa.fr
 momster.fr
 monabofier.fr
 monabonetflix.fr
+mon-abonnement-client.fr
 monabonnement-connexion.fr
 mon-abonnement-info.fr
 monabonnement-netflix.fr
@@ -7731,6 +7745,7 @@ moncomptecic.fr
 mon-compte-client.fr
 moncompte-client.fr
 moncompte-connexion.fr
+moncomptecpf.fr
 mon-compte-credit-agricole.fr
 moncomptecreditagricole.fr
 mon-compte-creditmutuel.fr
@@ -7976,6 +7991,7 @@ montig.fr
 montre-automatique.fr
 montredeluxepascher.fr
 montresfrance.fr
+montreslip.fr
 moovitapp.fr
 m-orange.fr
 mora-shop.fr
@@ -8013,6 +8029,7 @@ mybnpparibas.fr
 mycaal.fr
 mycartevitale.fr
 mycartevital.fr
+mycheap-netflix.fr
 mychronopost.fr
 mycnal.fr
 my-compte-orange.fr
@@ -8129,11 +8146,13 @@ netfilx-frclients.fr
 netfilx-verifclients.fr
 netfixconnextion.fr
 net-fix.fr
+netfix-prelevement.fr
 netfix-service.fr
 netflerxsecure.fr
 netfliassistancefr.fr
 net-fli.fr
 netfli-france.fr
+netfliix.fr
 netfliw.fr
 netflix2023.fr
 netflix-abonnement-web.fr
@@ -8498,6 +8517,7 @@ nouvellecartevitale.fr
 nouvellecarte-vitale-maladie.fr
 nouvellecartevital.fr
 nouvelle-cle-digital-mabanquebnpparibas.fr
+nouvelleespac2023.fr
 nouvellelivebox-orange.fr
 nouvelle-vignette-critair.fr
 nozarrivage.fr
@@ -9451,6 +9471,7 @@ renvcvitale.fr
 renvoi-chronopost.fr
 renvouvelement-cv.fr
 replaytf1.fr
+reprendre-mon-abonnement.fr
 republictechnologiesfrancesas.fr
 reseau-client.fr
 reseau-enedis.fr
@@ -9553,6 +9574,7 @@ samsung-smartphones.fr
 samsung.tf
 samsung.wf
 samsung.yt
+sanctions-cnil.fr
 sanofi-france.fr
 santanderbank.fr
 sante-acpam-2022.fr
@@ -10369,6 +10391,7 @@ sncf-voyageurs.fr
 sneak-easy.fr
 sneakers-company.fr
 sneakerscompany.fr
+sneakersdealer.fr
 sneakers-supply.fr
 sneakies52.fr
 sneakies.fr
@@ -10550,6 +10573,7 @@ stationtotal.fr
 statut-abonnement.fr
 statut-acheminement.fr
 statutchrono-acheminement.fr
+statut-colis-chronopost.fr
 statut-coupons.fr
 statutcoupontoneo.fr
 statut-netflix.fr
@@ -10784,6 +10808,7 @@ support-macartevitale.fr
 supportmacartevitale.fr
 supportmacleditalemiseajour.fr
 support-netfii.fr
+supportnetfix.fr
 support-netflix-client.fr
 support-netflix-complication.fr
 support-netflix-connexion.fr
@@ -11142,6 +11167,7 @@ validationetactualisationdevosinformations.fr
 validation-leboncoin.fr
 validation-paypal.fr
 validationpaypal.fr
+validite-societe-generale.fr
 vanschaussures.fr
 vansfrance.fr
 vans-pas-cher.fr
@@ -11294,6 +11320,7 @@ vignette-critairs.fr
 vignette-demande.fr
 vignette-france.fr
 vignettegouv.fr
+vignettesairgouv.fr
 vihted.fr
 vijted.fr
 villepariis.fr
@@ -11382,6 +11409,7 @@ vitale-servicegouv.fr
 vitale-sms-auto.fr
 vitale-sms-renouvellement.fr
 vitale-verif.fr
+vital-express.fr
 vital-info.fr
 vital-infosante.fr
 vitalnfo.fr
@@ -11426,6 +11454,7 @@ votrecartevitale.fr
 votrecartevitalemisejourformulaire.fr
 votre-carte-vital.fr
 votre-colis-chronopost.fr
+votrecolischronopost.fr
 votrecolisposte.fr
 votrecomptenetfiix.fr
 votrecompte-securepass.fr
@@ -11751,6 +11780,7 @@ xn--votre-banque-franaise-i4b.fr
 xn--vrif-ameli-b7a.fr
 xn--vrification-client-bwb.fr
 xn--vrification-colis-btb.fr
+xn--vrification-informations-bfc.fr
 xn--vrification-lbp-bnb.fr
 xn--vrification-netflix-bzb.fr
 xn--vrification-requis-bwb.fr
