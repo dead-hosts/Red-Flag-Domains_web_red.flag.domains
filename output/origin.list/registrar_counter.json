@@ -3,26 +3,26 @@
         "AMEN / Agence des Médias Numériques": 1,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 48,
+        "KEY-SYSTEMS GmbH": 51,
         "NameWeb bvba": 1,
         "OVH": 1,
-        "Realtime Register B.V.": 4,
+        "Realtime Register B.V.": 6,
         "SAS Ligne Web Services - LWS": 7,
         "Sarek Oy": 1,
         "TLD Registrar Solutions Ltd": 2,
-        "total": 68
+        "total": 73
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 1.4705882352941178,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.9411764705882355,
-        "IONOS SE": 1.4705882352941178,
-        "KEY-SYSTEMS GmbH": 70.58823529411765,
-        "NameWeb bvba": 1.4705882352941178,
-        "OVH": 1.4705882352941178,
-        "Realtime Register B.V.": 5.882352941176471,
-        "SAS Ligne Web Services - LWS": 10.294117647058824,
-        "Sarek Oy": 1.4705882352941178,
-        "TLD Registrar Solutions Ltd": 2.9411764705882355,
-        "total": 99.99999999999999
+        "AMEN / Agence des Médias Numériques": 1.36986301369863,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.73972602739726,
+        "IONOS SE": 1.36986301369863,
+        "KEY-SYSTEMS GmbH": 69.86301369863014,
+        "NameWeb bvba": 1.36986301369863,
+        "OVH": 1.36986301369863,
+        "Realtime Register B.V.": 8.219178082191782,
+        "SAS Ligne Web Services - LWS": 9.58904109589041,
+        "Sarek Oy": 1.36986301369863,
+        "TLD Registrar Solutions Ltd": 2.73972602739726,
+        "total": 100.00000000000001
     }
 }
