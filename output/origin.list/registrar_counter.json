@@ -1,10 +1,18 @@
 {
     "counter": {
-        "KEY-SYSTEMS GmbH": 7,
-        "total": 7
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 29,
+        "Realtime Register B.V.": 1,
+        "SAS Ligne Web Services - LWS": 4,
+        "total": 36
     },
     "percentage": {
-        "KEY-SYSTEMS GmbH": 100.0,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.7777777777777777,
+        "IONOS SE": 2.7777777777777777,
+        "KEY-SYSTEMS GmbH": 80.55555555555556,
+        "Realtime Register B.V.": 2.7777777777777777,
+        "SAS Ligne Web Services - LWS": 11.11111111111111,
         "total": 100.0
     }
 }
