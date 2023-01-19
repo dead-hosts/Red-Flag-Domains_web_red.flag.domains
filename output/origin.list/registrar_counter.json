@@ -1,18 +1,22 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 29,
-        "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 4,
-        "total": 36
+        "KEY-SYSTEMS GmbH": 42,
+        "OVH": 1,
+        "Realtime Register B.V.": 3,
+        "SAS Ligne Web Services - LWS": 7,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 57
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.7777777777777777,
-        "IONOS SE": 2.7777777777777777,
-        "KEY-SYSTEMS GmbH": 80.55555555555556,
-        "Realtime Register B.V.": 2.7777777777777777,
-        "SAS Ligne Web Services - LWS": 11.11111111111111,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3.508771929824561,
+        "IONOS SE": 1.7543859649122806,
+        "KEY-SYSTEMS GmbH": 73.6842105263158,
+        "OVH": 1.7543859649122806,
+        "Realtime Register B.V.": 5.2631578947368425,
+        "SAS Ligne Web Services - LWS": 12.280701754385966,
+        "TLD Registrar Solutions Ltd": 1.7543859649122806,
         "total": 100.0
     }
 }
