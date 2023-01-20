@@ -1,28 +1,30 @@
 {
     "counter": {
         "GANDI": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "KEY-SYSTEMS GmbH": 46,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "KEY-SYSTEMS GmbH": 75,
+        "Metaregistrar BV": 1,
         "Name SRS AB": 1,
         "Name.com LLC": 2,
-        "OVH": 3,
+        "OVH": 4,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "Realtime Register B.V.": 3,
+        "Realtime Register B.V.": 7,
         "SAS Ligne Web Services - LWS": 3,
         "TLD Registrar Solutions Ltd": 3,
-        "total": 64
+        "total": 100
     },
     "percentage": {
-        "GANDI": 1.5625,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1.5625,
-        "KEY-SYSTEMS GmbH": 71.875,
-        "Name SRS AB": 1.5625,
-        "Name.com LLC": 3.125,
-        "OVH": 4.6875,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.5625,
-        "Realtime Register B.V.": 4.6875,
-        "SAS Ligne Web Services - LWS": 4.6875,
-        "TLD Registrar Solutions Ltd": 4.6875,
+        "GANDI": 1.0,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.0,
+        "KEY-SYSTEMS GmbH": 75.0,
+        "Metaregistrar BV": 1.0,
+        "Name SRS AB": 1.0,
+        "Name.com LLC": 2.0,
+        "OVH": 4.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.0,
+        "Realtime Register B.V.": 7.0,
+        "SAS Ligne Web Services - LWS": 3.0,
+        "TLD Registrar Solutions Ltd": 3.0,
         "total": 100.0
     }
 }
