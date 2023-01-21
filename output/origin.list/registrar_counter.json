@@ -1,18 +1,26 @@
 {
     "counter": {
         "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 2,
+        "GRANSY s.r.o.": 3,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
         "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 10,
-        "OVH": 3,
-        "Realtime Register B.V.": 3,
-        "total": 19
+        "KEY-SYSTEMS GmbH": 36,
+        "OVH": 6,
+        "Realtime Register B.V.": 8,
+        "SONEXO B.V": 1,
+        "total": 60
     },
     "percentage": {
-        "1API GmbH": 5.2631578947368425,
-        "IONOS SE": 10.526315789473685,
-        "KEY-SYSTEMS GmbH": 52.63157894736842,
-        "OVH": 15.789473684210526,
-        "Realtime Register B.V.": 15.789473684210526,
-        "total": 99.99999999999999
+        "1API GmbH": 1.6666666666666667,
+        "AMEN / Agence des Médias Numériques": 3.3333333333333335,
+        "GRANSY s.r.o.": 5.0,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1.6666666666666667,
+        "IONOS SE": 3.3333333333333335,
+        "KEY-SYSTEMS GmbH": 60.0,
+        "OVH": 10.0,
+        "Realtime Register B.V.": 13.333333333333334,
+        "SONEXO B.V": 1.6666666666666667,
+        "total": 100.0
     }
 }
