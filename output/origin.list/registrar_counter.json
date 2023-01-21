@@ -5,26 +5,26 @@
         "GRANSY s.r.o.": 3,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 71,
-        "OVH": 14,
+        "KEY-SYSTEMS GmbH": 75,
+        "OVH": 18,
         "Realtime Register B.V.": 11,
         "SAS Ligne Web Services - LWS": 2,
         "SONEXO B.V": 1,
-        "TLD Registrar Solutions Ltd": 1,
-        "total": 110
+        "TLD Registrar Solutions Ltd": 2,
+        "total": 119
     },
     "percentage": {
-        "1API GmbH": 0.9090909090909091,
-        "AMEN / Agence des Médias Numériques": 1.8181818181818181,
-        "GRANSY s.r.o.": 2.727272727272727,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1.8181818181818181,
-        "IONOS SE": 1.8181818181818181,
-        "KEY-SYSTEMS GmbH": 64.54545454545455,
-        "OVH": 12.727272727272727,
-        "Realtime Register B.V.": 10.0,
-        "SAS Ligne Web Services - LWS": 1.8181818181818181,
-        "SONEXO B.V": 0.9090909090909091,
-        "TLD Registrar Solutions Ltd": 0.9090909090909091,
-        "total": 100.0
+        "1API GmbH": 0.8403361344537815,
+        "AMEN / Agence des Médias Numériques": 1.680672268907563,
+        "GRANSY s.r.o.": 2.5210084033613445,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1.680672268907563,
+        "IONOS SE": 1.680672268907563,
+        "KEY-SYSTEMS GmbH": 63.02521008403362,
+        "OVH": 15.126050420168067,
+        "Realtime Register B.V.": 9.243697478991596,
+        "SAS Ligne Web Services - LWS": 1.680672268907563,
+        "SONEXO B.V": 0.8403361344537815,
+        "TLD Registrar Solutions Ltd": 1.680672268907563,
+        "total": 99.99999999999999
     }
 }
