@@ -2,25 +2,29 @@
     "counter": {
         "AMEN / Agence des Médias Numériques": 1,
         "Catchtiger B.V.": 1,
-        "KEY-SYSTEMS GmbH": 28,
+        "GRANSY s.r.o.": 1,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 44,
         "Marcaria.com International Inc.": 1,
-        "OVH": 2,
-        "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 1,
+        "OVH": 4,
+        "Realtime Register B.V.": 2,
+        "SAS Ligne Web Services - LWS": 4,
         "SCALEWAY": 1,
         "Sarek Oy": 1,
-        "total": 37
+        "total": 61
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 2.7027027027027026,
-        "Catchtiger B.V.": 2.7027027027027026,
-        "KEY-SYSTEMS GmbH": 75.67567567567568,
-        "Marcaria.com International Inc.": 2.7027027027027026,
-        "OVH": 5.405405405405405,
-        "Realtime Register B.V.": 2.7027027027027026,
-        "SAS Ligne Web Services - LWS": 2.7027027027027026,
-        "SCALEWAY": 2.7027027027027026,
-        "Sarek Oy": 2.7027027027027026,
-        "total": 100.00000000000003
+        "AMEN / Agence des Médias Numériques": 1.639344262295082,
+        "Catchtiger B.V.": 1.639344262295082,
+        "GRANSY s.r.o.": 1.639344262295082,
+        "IONOS SE": 1.639344262295082,
+        "KEY-SYSTEMS GmbH": 72.1311475409836,
+        "Marcaria.com International Inc.": 1.639344262295082,
+        "OVH": 6.557377049180328,
+        "Realtime Register B.V.": 3.278688524590164,
+        "SAS Ligne Web Services - LWS": 6.557377049180328,
+        "SCALEWAY": 1.639344262295082,
+        "Sarek Oy": 1.639344262295082,
+        "total": 100.00000000000001
     }
 }
