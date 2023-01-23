@@ -1,4 +1,4 @@
-#last-update:2023-01-21
+#last-update:2023-01-22
 000.tf
 000webhost.fr
 00308.yt
@@ -1783,11 +1783,13 @@ amazon-login-secure.fr
 amazonofficiel.fr
 amazon-online.fr
 amazon-payement-remboursement.fr
+amazon-payment.fr
 amazonppc.fr
 amazonprimesec.fr
 amazon-prine.fr
 amazon-reactivation.fr
 amazon-regist.fr
+amazon-renouvellement.fr
 amazonrenouvellement.fr
 amazon-safety.fr
 amazon-secu.fr
@@ -2874,6 +2876,7 @@ authentification-recharge.fr
 authentification-secure-ameli.fr
 authentification-securipass.fr
 authentification-securite.fr
+authentification-securpass.fr
 authentification-societe-generale.fr
 authentificationtickets.fr
 authentification-verif.fr
@@ -3149,6 +3152,7 @@ bnpparibas-service-technique.fr
 bnp-partenaires.fr
 bnp-secure.fr
 bnpsecure.fr
+bnp-secure-sms.fr
 bnp-support.fr
 boardgamearena.fr
 bobgear.fr
@@ -3445,6 +3449,7 @@ carte-actualisation.fr
 carteamelie.fr
 carte-ameli.fr
 carteameli.fr
+carte-ameli-renouvellement.fr
 carte-ameli-support-sms.fr
 carte-ameli-vitale.fr
 carte-assurance-maladie.fr
@@ -3946,6 +3951,7 @@ chronopost-express.fr
 chronopostexpress.fr
 chronopost-express-suivi.fr
 chronopost-facturation.fr
+chronopost-facturations.fr
 chronopost-faq.fr
 chronopos-t.fr
 chronopost-frais-colis.fr
@@ -4069,6 +4075,7 @@ chronoposts-livraison.fr
 chronopost-sms.fr
 chronopost-stock.fr
 chronopost-suiviacheminement.fr
+chronopost-suivi-aide.fr
 chronopost-suivi-client.fr
 chronopostsuiviclient.fr
 chronopost-suivi-clients.fr
@@ -4415,6 +4422,7 @@ compte-edf.fr
 compte-espace-client.fr
 comptefacturation.fr
 compte-info.fr
+compteinfo.fr
 compte-maladie.fr
 compte-nelflix.fr
 compte-netflix.fr
@@ -4451,6 +4459,7 @@ compte-support.fr
 compte-support-france.fr
 compte-support-netflix.fr
 compte-verif.fr
+compte-verification.fr
 compte-vitale.fr
 comptevitale.fr
 comptevitale-renouv.fr
@@ -5521,6 +5530,7 @@ espace-info-netflix.fr
 espace-infos.fr
 espace-lcl.fr
 espacelientellessecuritaireauthentifs.fr
+espace-livraison.fr
 espace-mabanque-bnpparibas.fr
 espace-macarte-ameli.fr
 espacemacartevitale-ameli.fr
@@ -6253,7 +6263,9 @@ helpcarteevitalee.fr
 help-chronopost.fr
 helpchronopost.fr
 help-chronopost-france.fr
+help-compte.fr
 helpdesksupport.ovh
+helpdisneyplus.fr
 helper-amazon.fr
 helper-netfiix.fr
 help-netflixfacturation.fr
@@ -6783,6 +6795,7 @@ inssee.fr
 instabook.fr
 instagra.fr
 instagram-compte.fr
+instagrame.fr
 instagramfrance.fr
 instagramofficel.fr
 instagram-redirect.fr
@@ -7014,6 +7027,7 @@ lacartevitale-ameli.fr
 lacartevitaleameli.fr
 la-carte-vitale.fr
 lacartevitalepourtous.fr
+lacartevitale-renouvellement.fr
 lac-bordeaux-cybertek.fr
 lacentrele.fr
 lacentrrale.fr
@@ -9082,6 +9096,7 @@ pay-blablacar.fr
 pay-dsp2.fr
 payement-leboncoin.fr
 payfrlibsecure.fr
+paylib-activation2023.fr
 paylink-online.fr
 payment3descurelimited.fr
 paymentboncoin.fr
@@ -9196,6 +9211,9 @@ plan-vitale.fr
 planvitale.fr
 plasticker.fr
 plastuninormandiesas.fr
+plateforme-chronopost.fr
+plateforme-service-validation.fr
+platerforme-chronopost.fr
 platinmods.fr
 playbaspresse.fr
 playmobill.fr
@@ -9817,6 +9835,7 @@ samsung.yt
 sanctions-cnil.fr
 sanofi-france.fr
 santanderbank.fr
+sante-2023.fr
 sante-acpam-2022.fr
 sante-ameli-assurance.fr
 santeamelicarte.fr
@@ -10149,6 +10168,7 @@ security-verif.fr
 securlogin-societegeneral.fr
 securnetfiix.fr
 secur-pass-activation.fr
+securpass-authentification.fr
 securpass-banquepopulaire.fr
 securpass-banxo.fr
 securpass-creditagricole.fr
@@ -10237,6 +10257,7 @@ service-client-ama.fr
 service-client-amazon.fr
 serviceclient-amazonfrance.fr
 service-client-ameli.fr
+serviceclientameli.fr
 serviceclient-auth.fr
 serviceclientbnpparis.fr
 service-client-chronoposte.fr
@@ -10430,6 +10451,7 @@ sfr-aide.fr
 sfr-annulation-esim.fr
 sfr-annulation.fr
 sfr-anti-fraude.fr
+sfr-antifraude.fr
 sfr-clientele.fr
 sfr-client-esim.fr
 sfr-client.fr
@@ -10476,6 +10498,7 @@ sfr-mail.fr
 sfr-messageriemail.fr
 sfr-mon-compte.fr
 sfr-numero.fr
+sfr-paiement-abonnement.fr
 sfr-paiements.fr
 sfr-particuliers.fr
 sfrprosav.fr
@@ -10851,6 +10874,7 @@ sthil-revendeur.fr
 stilnovo.fr
 stirileprotv.re
 st-nazaire-cybertek.fr
+stokomani-group.fr
 store-disney.fr
 store-hiver.fr
 story-snapchat.fr
@@ -11021,6 +11045,7 @@ supportcartevital.fr
 support-centre.fr
 support-chronoposte.fr
 support-chronopost.fr
+supportchronopost.fr
 support-client-ameli.fr
 supportclient-ameli.fr
 support-client-assistance.fr
@@ -11162,6 +11187,7 @@ suspension-client.fr
 suspension-colis.fr
 suspension-commandes.fr
 suspension-compte.fr
+suspensioncompte.fr
 suspension-compte-france.fr
 suspension-netflix.fr
 suspensionnetflix.fr
@@ -11293,6 +11319,7 @@ toutsalon.fr
 tpepascher.fr
 tracfin-france.fr
 track-chronopost.fr
+trackchronopost.fr
 tracker-chronopost.fr
 tracking-colissimo.fr
 tracking-livraison.fr
@@ -11925,6 +11952,7 @@ xn--accueil-socit-generale-m8bb.fr
 xn--activation-cl-digitale-n8b.fr
 xn--amazn-9ta.fr
 xn--amazon-scu-i7a.fr
+xn--ameli-connexion-scurise-rccf.fr
 xn--amelie-sant-lbb.fr
 xn--ameli-espacesant-qqb.fr
 xn--amelie-vrif-ibb.fr
