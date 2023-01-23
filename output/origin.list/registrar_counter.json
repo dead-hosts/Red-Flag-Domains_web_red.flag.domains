@@ -4,23 +4,27 @@
         "GRANSY s.r.o.": 1,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 27,
-        "OVH": 2,
+        "KEY-SYSTEMS GmbH": 29,
+        "NETIM": 2,
+        "OVH": 4,
+        "One.com A/S": 2,
         "PLANETHOSTER": 1,
         "Realtime Register B.V.": 4,
         "SAS Ligne Web Services - LWS": 1,
-        "total": 44
+        "total": 52
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 9.090909090909092,
-        "GRANSY s.r.o.": 2.272727272727273,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4.545454545454546,
-        "IONOS SE": 4.545454545454546,
-        "KEY-SYSTEMS GmbH": 61.36363636363637,
-        "OVH": 4.545454545454546,
-        "PLANETHOSTER": 2.272727272727273,
-        "Realtime Register B.V.": 9.090909090909092,
-        "SAS Ligne Web Services - LWS": 2.272727272727273,
-        "total": 100.0
+        "AMEN / Agence des Médias Numériques": 7.6923076923076925,
+        "GRANSY s.r.o.": 1.9230769230769231,
+        "Hosting Concepts B.V. d/b/a Openprovider": 3.8461538461538463,
+        "IONOS SE": 3.8461538461538463,
+        "KEY-SYSTEMS GmbH": 55.76923076923077,
+        "NETIM": 3.8461538461538463,
+        "OVH": 7.6923076923076925,
+        "One.com A/S": 3.8461538461538463,
+        "PLANETHOSTER": 1.9230769230769231,
+        "Realtime Register B.V.": 7.6923076923076925,
+        "SAS Ligne Web Services - LWS": 1.9230769230769231,
+        "total": 99.99999999999997
     }
 }
