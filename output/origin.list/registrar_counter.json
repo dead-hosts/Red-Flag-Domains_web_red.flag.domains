@@ -1,26 +1,32 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 3,
-        "GANDI": 1,
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 4,
+        "GANDI": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
         "INSTRA CORPORATION PTY LTD": 1,
         "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 40,
-        "OVH": 4,
+        "KEY-SYSTEMS GmbH": 49,
+        "OVH": 5,
         "One.com A/S": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "Realtime Register B.V.": 4,
-        "total": 58
+        "Sarek Oy": 1,
+        "total": 74
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 5.172413793103448,
-        "GANDI": 1.7241379310344827,
-        "Hosting Concepts B.V. d/b/a Openprovider": 3.4482758620689653,
-        "INSTRA CORPORATION PTY LTD": 1.7241379310344827,
-        "IONOS SE": 1.7241379310344827,
-        "KEY-SYSTEMS GmbH": 68.96551724137932,
-        "OVH": 6.896551724137931,
-        "One.com A/S": 3.4482758620689653,
-        "Realtime Register B.V.": 6.896551724137931,
-        "total": 100.00000000000001
+        "1API GmbH": 1.3513513513513513,
+        "AMEN / Agence des Médias Numériques": 5.405405405405405,
+        "GANDI": 2.7027027027027026,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2.7027027027027026,
+        "INSTRA CORPORATION PTY LTD": 1.3513513513513513,
+        "IONOS SE": 1.3513513513513513,
+        "KEY-SYSTEMS GmbH": 66.21621621621621,
+        "OVH": 6.756756756756757,
+        "One.com A/S": 2.7027027027027026,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.7027027027027026,
+        "Realtime Register B.V.": 5.405405405405405,
+        "Sarek Oy": 1.3513513513513513,
+        "total": 100.0
     }
 }
