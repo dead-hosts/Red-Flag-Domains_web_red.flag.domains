@@ -1,32 +1,16 @@
 {
     "counter": {
-        "AMEN / Agence des Médias Numériques": 5,
-        "Combell NV": 1,
-        "GRANSY s.r.o.": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 48,
-        "NETIM": 2,
-        "OVH": 4,
-        "One.com A/S": 2,
-        "PLANETHOSTER": 1,
-        "Realtime Register B.V.": 6,
-        "SAS Ligne Web Services - LWS": 4,
-        "total": 78
+        "GANDI": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "INSTRA CORPORATION PTY LTD": 1,
+        "KEY-SYSTEMS GmbH": 11,
+        "total": 14
     },
     "percentage": {
-        "AMEN / Agence des Médias Numériques": 6.410256410256411,
-        "Combell NV": 1.2820512820512822,
-        "GRANSY s.r.o.": 1.2820512820512822,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.5641025641025643,
-        "IONOS SE": 2.5641025641025643,
-        "KEY-SYSTEMS GmbH": 61.53846153846154,
-        "NETIM": 2.5641025641025643,
-        "OVH": 5.128205128205129,
-        "One.com A/S": 2.5641025641025643,
-        "PLANETHOSTER": 1.2820512820512822,
-        "Realtime Register B.V.": 7.6923076923076925,
-        "SAS Ligne Web Services - LWS": 5.128205128205129,
+        "GANDI": 7.142857142857143,
+        "Hosting Concepts B.V. d/b/a Openprovider": 7.142857142857143,
+        "INSTRA CORPORATION PTY LTD": 7.142857142857143,
+        "KEY-SYSTEMS GmbH": 78.57142857142857,
         "total": 100.0
     }
 }
