@@ -1,36 +1,14 @@
 {
     "counter": {
-        "1API GmbH": 2,
-        "AMEN / Agence des Médias Numériques": 2,
-        "GANDI": 1,
-        "GRANSY s.r.o.": 1,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 71,
+        "1API GmbH": 1,
+        "KEY-SYSTEMS GmbH": 7,
         "OVH": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "PLANETHOSTER": 1,
-        "Realtime Register B.V.": 10,
-        "SAS Ligne Web Services - LWS": 3,
-        "SCALEWAY": 1,
-        "Sarek Oy": 2,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 101
+        "total": 9
     },
     "percentage": {
-        "1API GmbH": 1.9801980198019802,
-        "AMEN / Agence des Médias Numériques": 1.9801980198019802,
-        "GANDI": 0.9900990099009901,
-        "GRANSY s.r.o.": 0.9900990099009901,
-        "IONOS SE": 1.9801980198019802,
-        "KEY-SYSTEMS GmbH": 70.29702970297029,
-        "OVH": 0.9900990099009901,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.9801980198019802,
-        "PLANETHOSTER": 0.9900990099009901,
-        "Realtime Register B.V.": 9.900990099009901,
-        "SAS Ligne Web Services - LWS": 2.9702970297029703,
-        "SCALEWAY": 0.9900990099009901,
-        "Sarek Oy": 1.9801980198019802,
-        "TLD Registrar Solutions Ltd": 1.9801980198019802,
-        "total": 99.99999999999999
+        "1API GmbH": 11.11111111111111,
+        "KEY-SYSTEMS GmbH": 77.77777777777777,
+        "OVH": 11.11111111111111,
+        "total": 100.0
     }
 }
