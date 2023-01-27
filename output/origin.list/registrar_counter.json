@@ -1,26 +1,12 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "Combell NV": 2,
-        "EPAG Domainservices GmbH": 2,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 55,
-        "OVH": 2,
-        "Realtime Register B.V.": 11,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 78
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 5,
+        "total": 6
     },
     "percentage": {
-        "1API GmbH": 1.2820512820512822,
-        "Combell NV": 2.5641025641025643,
-        "EPAG Domainservices GmbH": 2.5641025641025643,
-        "Hosting Concepts B.V. d/b/a Openprovider": 2.5641025641025643,
-        "IONOS SE": 2.5641025641025643,
-        "KEY-SYSTEMS GmbH": 70.51282051282051,
-        "OVH": 2.5641025641025643,
-        "Realtime Register B.V.": 14.102564102564102,
-        "SAS Ligne Web Services - LWS": 1.2820512820512822,
+        "IONOS SE": 16.666666666666668,
+        "KEY-SYSTEMS GmbH": 83.33333333333333,
         "total": 100.0
     }
 }
