@@ -1,34 +1,14 @@
 {
     "counter": {
         "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 6,
-        "GANDI": 1,
-        "GRANSY s.r.o.": 3,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4,
-        "IONOS SE": 2,
-        "KEY-SYSTEMS GmbH": 55,
-        "NORDNET": 1,
-        "OVH": 7,
-        "One.com A/S": 1,
-        "Realtime Register B.V.": 9,
-        "SCALEWAY": 1,
-        "TLD Registrar Solutions Ltd": 3,
-        "total": 94
+        "AMEN / Agence des Médias Numériques": 2,
+        "KEY-SYSTEMS GmbH": 4,
+        "total": 7
     },
     "percentage": {
-        "1API GmbH": 1.0638297872340425,
-        "AMEN / Agence des Médias Numériques": 6.382978723404255,
-        "GANDI": 1.0638297872340425,
-        "GRANSY s.r.o.": 3.1914893617021276,
-        "Hosting Concepts B.V. d/b/a Openprovider": 4.25531914893617,
-        "IONOS SE": 2.127659574468085,
-        "KEY-SYSTEMS GmbH": 58.51063829787234,
-        "NORDNET": 1.0638297872340425,
-        "OVH": 7.446808510638298,
-        "One.com A/S": 1.0638297872340425,
-        "Realtime Register B.V.": 9.574468085106384,
-        "SCALEWAY": 1.0638297872340425,
-        "TLD Registrar Solutions Ltd": 3.1914893617021276,
-        "total": 99.99999999999999
+        "1API GmbH": 14.285714285714286,
+        "AMEN / Agence des Médias Numériques": 28.571428571428573,
+        "KEY-SYSTEMS GmbH": 57.142857142857146,
+        "total": 100.00000000000001
     }
 }
