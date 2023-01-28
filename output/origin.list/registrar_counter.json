@@ -2,13 +2,23 @@
     "counter": {
         "1API GmbH": 1,
         "AMEN / Agence des Médias Numériques": 2,
-        "KEY-SYSTEMS GmbH": 4,
-        "total": 7
+        "GRANSY s.r.o.": 1,
+        "KEY-SYSTEMS GmbH": 28,
+        "NETIM": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3,
+        "Realtime Register B.V.": 2,
+        "TLD Registrar Solutions Ltd": 1,
+        "total": 40
     },
     "percentage": {
-        "1API GmbH": 14.285714285714286,
-        "AMEN / Agence des Médias Numériques": 28.571428571428573,
-        "KEY-SYSTEMS GmbH": 57.142857142857146,
-        "total": 100.00000000000001
+        "1API GmbH": 2.5,
+        "AMEN / Agence des Médias Numériques": 5.0,
+        "GRANSY s.r.o.": 2.5,
+        "KEY-SYSTEMS GmbH": 70.0,
+        "NETIM": 5.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 7.5,
+        "Realtime Register B.V.": 5.0,
+        "TLD Registrar Solutions Ltd": 2.5,
+        "total": 100.0
     }
 }
