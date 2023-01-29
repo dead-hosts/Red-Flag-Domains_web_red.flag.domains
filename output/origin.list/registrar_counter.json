@@ -1,24 +1,34 @@
 {
     "counter": {
         "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 1,
+        "AMEN / Agence des Médias Numériques": 2,
         "EPAG Domainservices GmbH": 1,
-        "GRANSY s.r.o.": 1,
+        "GANDI": 1,
+        "GRANSY s.r.o.": 2,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1,
+        "IONOS SE": 1,
         "InterNetX GmbH": 1,
-        "KEY-SYSTEMS GmbH": 8,
-        "OVH": 1,
+        "KEY-SYSTEMS GmbH": 34,
+        "OVH": 3,
+        "Realtime Register B.V.": 5,
         "SCALEWAY": 1,
-        "total": 15
+        "TLD Registrar Solutions Ltd": 2,
+        "total": 55
     },
     "percentage": {
-        "1API GmbH": 6.666666666666667,
-        "AMEN / Agence des Médias Numériques": 6.666666666666667,
-        "EPAG Domainservices GmbH": 6.666666666666667,
-        "GRANSY s.r.o.": 6.666666666666667,
-        "InterNetX GmbH": 6.666666666666667,
-        "KEY-SYSTEMS GmbH": 53.333333333333336,
-        "OVH": 6.666666666666667,
-        "SCALEWAY": 6.666666666666667,
-        "total": 100.00000000000001
+        "1API GmbH": 1.8181818181818181,
+        "AMEN / Agence des Médias Numériques": 3.6363636363636362,
+        "EPAG Domainservices GmbH": 1.8181818181818181,
+        "GANDI": 1.8181818181818181,
+        "GRANSY s.r.o.": 3.6363636363636362,
+        "Hosting Concepts B.V. d/b/a Openprovider": 1.8181818181818181,
+        "IONOS SE": 1.8181818181818181,
+        "InterNetX GmbH": 1.8181818181818181,
+        "KEY-SYSTEMS GmbH": 61.81818181818182,
+        "OVH": 5.454545454545454,
+        "Realtime Register B.V.": 9.090909090909092,
+        "SCALEWAY": 1.8181818181818181,
+        "TLD Registrar Solutions Ltd": 3.6363636363636362,
+        "total": 100.0
     }
 }
