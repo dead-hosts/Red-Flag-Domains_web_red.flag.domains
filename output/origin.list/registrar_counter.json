@@ -1,42 +1,14 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "AMEN / Agence des Médias Numériques": 5,
-        "Combell NV": 1,
-        "EPAG Domainservices GmbH": 1,
-        "GANDI": 1,
-        "GRANSY s.r.o.": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "IONOS SE": 2,
-        "InterNetX GmbH": 4,
-        "KEY-SYSTEMS GmbH": 68,
-        "OVH": 5,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "Realtime Register B.V.": 11,
-        "SAS Ligne Web Services - LWS": 2,
-        "SCALEWAY": 1,
-        "Sarek Oy": 1,
-        "TLD Registrar Solutions Ltd": 2,
-        "total": 109
+        "KEY-SYSTEMS GmbH": 1,
+        "Realtime Register B.V.": 1,
+        "total": 3
     },
     "percentage": {
-        "1API GmbH": 0.9174311926605505,
-        "AMEN / Agence des Médias Numériques": 4.587155963302752,
-        "Combell NV": 0.9174311926605505,
-        "EPAG Domainservices GmbH": 0.9174311926605505,
-        "GANDI": 0.9174311926605505,
-        "GRANSY s.r.o.": 1.834862385321101,
-        "Hosting Concepts B.V. d/b/a Openprovider": 0.9174311926605505,
-        "IONOS SE": 1.834862385321101,
-        "InterNetX GmbH": 3.669724770642202,
-        "KEY-SYSTEMS GmbH": 62.38532110091743,
-        "OVH": 4.587155963302752,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 0.9174311926605505,
-        "Realtime Register B.V.": 10.091743119266056,
-        "SAS Ligne Web Services - LWS": 1.834862385321101,
-        "SCALEWAY": 0.9174311926605505,
-        "Sarek Oy": 0.9174311926605505,
-        "TLD Registrar Solutions Ltd": 1.834862385321101,
-        "total": 99.99999999999997
+        "Hosting Concepts B.V. d/b/a Openprovider": 33.333333333333336,
+        "KEY-SYSTEMS GmbH": 33.333333333333336,
+        "Realtime Register B.V.": 33.333333333333336,
+        "total": 100.0
     }
 }
