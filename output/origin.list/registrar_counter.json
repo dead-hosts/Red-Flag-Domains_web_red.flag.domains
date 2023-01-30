@@ -1,14 +1,20 @@
 {
     "counter": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "KEY-SYSTEMS GmbH": 1,
-        "Realtime Register B.V.": 1,
-        "total": 3
+        "GANDI": 1,
+        "Hosting Concepts B.V. d/b/a Openprovider": 2,
+        "KEY-SYSTEMS GmbH": 14,
+        "OVH": 3,
+        "Realtime Register B.V.": 4,
+        "SAS Ligne Web Services - LWS": 2,
+        "total": 26
     },
     "percentage": {
-        "Hosting Concepts B.V. d/b/a Openprovider": 33.333333333333336,
-        "KEY-SYSTEMS GmbH": 33.333333333333336,
-        "Realtime Register B.V.": 33.333333333333336,
+        "GANDI": 3.8461538461538463,
+        "Hosting Concepts B.V. d/b/a Openprovider": 7.6923076923076925,
+        "KEY-SYSTEMS GmbH": 53.84615384615385,
+        "OVH": 11.538461538461538,
+        "Realtime Register B.V.": 15.384615384615385,
+        "SAS Ligne Web Services - LWS": 7.6923076923076925,
         "total": 100.0
     }
 }
