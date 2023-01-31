@@ -1,24 +1,20 @@
 {
     "counter": {
-        "GANDI": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 3,
-        "KEY-SYSTEMS GmbH": 37,
-        "OVH": 5,
+        "GRANSY s.r.o.": 1,
+        "KEY-SYSTEMS GmbH": 6,
+        "One.com A/S": 1,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "Realtime Register B.V.": 7,
-        "SAS Ligne Web Services - LWS": 3,
+        "Sarek Oy": 1,
         "TLD Registrar Solutions Ltd": 1,
-        "total": 58
+        "total": 11
     },
     "percentage": {
-        "GANDI": 1.7241379310344827,
-        "Hosting Concepts B.V. d/b/a Openprovider": 5.172413793103448,
-        "KEY-SYSTEMS GmbH": 63.793103448275865,
-        "OVH": 8.620689655172415,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1.7241379310344827,
-        "Realtime Register B.V.": 12.068965517241379,
-        "SAS Ligne Web Services - LWS": 5.172413793103448,
-        "TLD Registrar Solutions Ltd": 1.7241379310344827,
-        "total": 99.99999999999999
+        "GRANSY s.r.o.": 9.090909090909092,
+        "KEY-SYSTEMS GmbH": 54.54545454545455,
+        "One.com A/S": 9.090909090909092,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.090909090909092,
+        "Sarek Oy": 9.090909090909092,
+        "TLD Registrar Solutions Ltd": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
