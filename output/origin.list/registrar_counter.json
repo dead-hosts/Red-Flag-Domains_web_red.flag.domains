@@ -1,40 +1,12 @@
 {
     "counter": {
-        "Combell NV": 1,
-        "EPAG Domainservices GmbH": 1,
-        "FEELB": 1,
-        "GRANSY s.r.o.": 1,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1,
-        "INWX GmbH": 6,
-        "IONOS SE": 1,
-        "KEY-SYSTEMS GmbH": 39,
-        "OVH": 2,
-        "One.com A/S": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
-        "Realtime Register B.V.": 5,
-        "SAS Ligne Web Services - LWS": 6,
-        "SCALEWAY": 1,
-        "Sarek Oy": 1,
-        "TLD Registrar Solutions Ltd": 1,
-        "total": 70
+        "KEY-SYSTEMS GmbH": 6,
+        "Realtime Register B.V.": 1,
+        "total": 7
     },
     "percentage": {
-        "Combell NV": 1.4285714285714286,
-        "EPAG Domainservices GmbH": 1.4285714285714286,
-        "FEELB": 1.4285714285714286,
-        "GRANSY s.r.o.": 1.4285714285714286,
-        "Hosting Concepts B.V. d/b/a Openprovider": 1.4285714285714286,
-        "INWX GmbH": 8.571428571428571,
-        "IONOS SE": 1.4285714285714286,
-        "KEY-SYSTEMS GmbH": 55.714285714285715,
-        "OVH": 2.857142857142857,
-        "One.com A/S": 1.4285714285714286,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2.857142857142857,
-        "Realtime Register B.V.": 7.142857142857143,
-        "SAS Ligne Web Services - LWS": 8.571428571428571,
-        "SCALEWAY": 1.4285714285714286,
-        "Sarek Oy": 1.4285714285714286,
-        "TLD Registrar Solutions Ltd": 1.4285714285714286,
-        "total": 100.00000000000001
+        "KEY-SYSTEMS GmbH": 85.71428571428571,
+        "Realtime Register B.V.": 14.285714285714286,
+        "total": 100.0
     }
 }
