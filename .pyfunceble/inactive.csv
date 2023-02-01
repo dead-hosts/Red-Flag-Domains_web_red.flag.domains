@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-chronopost-instruction-colis.fr,AVAILABILITY,origin.list,2023-01-31 05:37:59.568097
-chronpost-instruction.fr,AVAILABILITY,origin.list,2023-01-31 05:38:32.466035
 ameli-supports.fr,AVAILABILITY,origin.list,2023-01-31 07:09:00.438948
 ameli-vitalefrance.fr,AVAILABILITY,origin.list,2023-01-31 07:09:00.603327
 ameli-vitajour.fr,AVAILABILITY,origin.list,2023-01-31 07:09:00.964568
@@ -2517,3 +2515,5 @@ messagerieboncoin.fr,AVAILABILITY,origin.list,2023-01-31 07:52:42.307721
 inforange.fr,AVAILABILITY,origin.list,2023-01-31 07:52:42.676372
 xn--groupesocitgnrale-ktbbbb.fr,AVAILABILITY,origin.list,2023-01-31 07:52:42.692252
 amelisantegouv.fr,AVAILABILITY,origin.list,2023-01-31 07:52:42.881923
+chronopost-instruction-colis.fr,AVAILABILITY,origin.list,2023-02-01 07:08:11.475146
+chronpost-instruction.fr,AVAILABILITY,origin.list,2023-02-01 07:08:11.526798
