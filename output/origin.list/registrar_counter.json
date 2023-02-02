@@ -1,26 +1,16 @@
 {
     "counter": {
-        "GANDI": 2,
-        "GRANSY s.r.o.": 2,
-        "INWX GmbH": 16,
-        "KEY-SYSTEMS GmbH": 52,
-        "NETIM": 1,
-        "OVH": 1,
-        "Realtime Register B.V.": 6,
-        "SAS Ligne Web Services - LWS": 3,
-        "TLD Registrar Solutions Ltd": 1,
-        "total": 84
+        "GRANSY s.r.o.": 1,
+        "KEY-SYSTEMS GmbH": 10,
+        "Realtime Register B.V.": 1,
+        "SAS Ligne Web Services - LWS": 1,
+        "total": 13
     },
     "percentage": {
-        "GANDI": 2.380952380952381,
-        "GRANSY s.r.o.": 2.380952380952381,
-        "INWX GmbH": 19.047619047619047,
-        "KEY-SYSTEMS GmbH": 61.904761904761905,
-        "NETIM": 1.1904761904761905,
-        "OVH": 1.1904761904761905,
-        "Realtime Register B.V.": 7.142857142857143,
-        "SAS Ligne Web Services - LWS": 3.5714285714285716,
-        "TLD Registrar Solutions Ltd": 1.1904761904761905,
+        "GRANSY s.r.o.": 7.6923076923076925,
+        "KEY-SYSTEMS GmbH": 76.92307692307692,
+        "Realtime Register B.V.": 7.6923076923076925,
+        "SAS Ligne Web Services - LWS": 7.6923076923076925,
         "total": 100.0
     }
 }
