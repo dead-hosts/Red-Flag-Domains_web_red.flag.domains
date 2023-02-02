@@ -1,16 +1,18 @@
 {
     "counter": {
+        "Combell NV": 1,
         "GRANSY s.r.o.": 1,
-        "KEY-SYSTEMS GmbH": 10,
-        "Realtime Register B.V.": 1,
-        "SAS Ligne Web Services - LWS": 1,
-        "total": 13
+        "KEY-SYSTEMS GmbH": 25,
+        "Realtime Register B.V.": 4,
+        "SAS Ligne Web Services - LWS": 9,
+        "total": 40
     },
     "percentage": {
-        "GRANSY s.r.o.": 7.6923076923076925,
-        "KEY-SYSTEMS GmbH": 76.92307692307692,
-        "Realtime Register B.V.": 7.6923076923076925,
-        "SAS Ligne Web Services - LWS": 7.6923076923076925,
+        "Combell NV": 2.5,
+        "GRANSY s.r.o.": 2.5,
+        "KEY-SYSTEMS GmbH": 62.5,
+        "Realtime Register B.V.": 10.0,
+        "SAS Ligne Web Services - LWS": 22.5,
         "total": 100.0
     }
 }
