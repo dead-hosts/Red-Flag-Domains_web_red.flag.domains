@@ -1,18 +1,24 @@
 {
     "counter": {
+        "1API GmbH": 1,
+        "AMEN / Agence des Médias Numériques": 3,
         "Combell NV": 1,
         "GRANSY s.r.o.": 1,
-        "KEY-SYSTEMS GmbH": 25,
+        "IONOS SE": 1,
+        "KEY-SYSTEMS GmbH": 33,
         "Realtime Register B.V.": 4,
         "SAS Ligne Web Services - LWS": 9,
-        "total": 40
+        "total": 53
     },
     "percentage": {
-        "Combell NV": 2.5,
-        "GRANSY s.r.o.": 2.5,
-        "KEY-SYSTEMS GmbH": 62.5,
-        "Realtime Register B.V.": 10.0,
-        "SAS Ligne Web Services - LWS": 22.5,
-        "total": 100.0
+        "1API GmbH": 1.8867924528301887,
+        "AMEN / Agence des Médias Numériques": 5.660377358490566,
+        "Combell NV": 1.8867924528301887,
+        "GRANSY s.r.o.": 1.8867924528301887,
+        "IONOS SE": 1.8867924528301887,
+        "KEY-SYSTEMS GmbH": 62.264150943396224,
+        "Realtime Register B.V.": 7.547169811320755,
+        "SAS Ligne Web Services - LWS": 16.9811320754717,
+        "total": 100.00000000000001
     }
 }
