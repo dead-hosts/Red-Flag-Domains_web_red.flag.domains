@@ -1,20 +1,26 @@
 {
     "counter": {
         "ALGORITHMEDIA srl": 1,
-        "KEY-SYSTEMS GmbH": 15,
-        "OVH": 1,
-        "Realtime Register B.V.": 2,
+        "GANDI": 2,
+        "GRANSY s.r.o.": 1,
+        "IONOS SE": 2,
+        "KEY-SYSTEMS GmbH": 33,
+        "OVH": 2,
+        "Realtime Register B.V.": 6,
         "SAS Ligne Web Services - LWS": 1,
         "TLD Registrar Solutions Ltd": 2,
-        "total": 22
+        "total": 50
     },
     "percentage": {
-        "ALGORITHMEDIA srl": 4.545454545454546,
-        "KEY-SYSTEMS GmbH": 68.18181818181819,
-        "OVH": 4.545454545454546,
-        "Realtime Register B.V.": 9.090909090909092,
-        "SAS Ligne Web Services - LWS": 4.545454545454546,
-        "TLD Registrar Solutions Ltd": 9.090909090909092,
-        "total": 100.00000000000001
+        "ALGORITHMEDIA srl": 2.0,
+        "GANDI": 4.0,
+        "GRANSY s.r.o.": 2.0,
+        "IONOS SE": 4.0,
+        "KEY-SYSTEMS GmbH": 66.0,
+        "OVH": 4.0,
+        "Realtime Register B.V.": 12.0,
+        "SAS Ligne Web Services - LWS": 2.0,
+        "TLD Registrar Solutions Ltd": 4.0,
+        "total": 100.0
     }
 }
