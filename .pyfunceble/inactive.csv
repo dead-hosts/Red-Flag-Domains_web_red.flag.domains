@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-moncertificat-critair.fr,AVAILABILITY,origin.list,2023-02-02 06:08:42.382567
 ameli-supports.fr,AVAILABILITY,origin.list,2023-02-02 07:08:43.132615
 ameli-vitalefrance.fr,AVAILABILITY,origin.list,2023-02-02 07:08:43.176415
 ameli-vitajour.fr,AVAILABILITY,origin.list,2023-02-02 07:08:43.683423
@@ -2517,3 +2516,4 @@ chronopost-instruction-colis.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.081
 inforange.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.103366
 amelisantegouv.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.177166
 chronpost-instruction.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.536301
+moncertificat-critair.fr,AVAILABILITY,origin.list,2023-02-03 07:11:21.276937
