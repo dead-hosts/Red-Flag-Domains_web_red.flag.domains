@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-amelisantemaladie.fr,AVAILABILITY,origin.list,2023-02-02 07:51:14.205465
-amelisecufr.fr,AVAILABILITY,origin.list,2023-02-02 07:51:14.301853
-amelisantecarte.fr,AVAILABILITY,origin.list,2023-02-02 07:51:14.321533
-messagerieboncoin.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.078479
-chronopost-instruction-colis.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.081318
-inforange.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.103366
-amelisantegouv.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.177166
-chronpost-instruction.fr,AVAILABILITY,origin.list,2023-02-02 07:51:15.536301
-moncertificat-critair.fr,AVAILABILITY,origin.list,2023-02-03 07:11:21.276937
 ac-orleans-turs.fr,AVAILABILITY,origin.list,2023-02-04 05:23:53.429590
 action-france.fr,AVAILABILITY,origin.list,2023-02-04 05:23:57.162686
 reactiver-mon-compte.fr,AVAILABILITY,origin.list,2023-02-04 06:31:04.630617
@@ -2505,3 +2496,12 @@ amelirenouvelementinfo.fr,AVAILABILITY,origin.list,2023-02-04 08:44:32.122148
 hj81md-societegenerale.fr,AVAILABILITY,origin.list,2023-02-04 08:44:32.890551
 xn--groupesocitgnrale-ktbbbb.fr,AVAILABILITY,origin.list,2023-02-04 08:44:33.471930
 ameliretraite.fr,AVAILABILITY,origin.list,2023-02-04 08:44:40.752783
+chronopost-instruction-colis.fr,AVAILABILITY,origin.list,2023-02-04 08:58:56.867592
+amelisecufr.fr,AVAILABILITY,origin.list,2023-02-04 08:58:56.869078
+amelisantemaladie.fr,AVAILABILITY,origin.list,2023-02-04 08:58:56.881049
+amelisantecarte.fr,AVAILABILITY,origin.list,2023-02-04 08:58:56.921922
+messagerieboncoin.fr,AVAILABILITY,origin.list,2023-02-04 08:58:56.923258
+chronpost-instruction.fr,AVAILABILITY,origin.list,2023-02-04 08:58:57.721472
+moncertificat-critair.fr,AVAILABILITY,origin.list,2023-02-04 08:58:57.760069
+inforange.fr,AVAILABILITY,origin.list,2023-02-04 08:58:57.946564
+amelisantegouv.fr,AVAILABILITY,origin.list,2023-02-04 08:58:58.907516
