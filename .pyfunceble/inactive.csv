@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ac-orleans-turs.fr,AVAILABILITY,origin.list,2023-02-04 05:23:53.429590
-action-france.fr,AVAILABILITY,origin.list,2023-02-04 05:23:57.162686
-reactiver-mon-compte.fr,AVAILABILITY,origin.list,2023-02-04 06:31:04.630617
 xn--societegnrales-ikbb.fr,AVAILABILITY,origin.list,2023-02-04 06:55:00.393090
 xn--vrif-ameli-b7a.fr,AVAILABILITY,origin.list,2023-02-04 06:55:03.465126
 ameli-supports.fr,AVAILABILITY,origin.list,2023-02-04 07:12:37.822851
@@ -2505,3 +2502,6 @@ chronpost-instruction.fr,AVAILABILITY,origin.list,2023-02-04 08:58:57.721472
 moncertificat-critair.fr,AVAILABILITY,origin.list,2023-02-04 08:58:57.760069
 inforange.fr,AVAILABILITY,origin.list,2023-02-04 08:58:57.946564
 amelisantegouv.fr,AVAILABILITY,origin.list,2023-02-04 08:58:58.907516
+ac-orleans-turs.fr,AVAILABILITY,origin.list,2023-02-05 06:53:29.258853
+action-france.fr,AVAILABILITY,origin.list,2023-02-05 06:53:29.277487
+reactiver-mon-compte.fr,AVAILABILITY,origin.list,2023-02-05 06:53:29.782551
