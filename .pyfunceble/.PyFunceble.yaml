@@ -1,4 +1,3 @@
-_retries: 3
 cli_decoding:
     adblock: false
     adblock_aggressive: false
